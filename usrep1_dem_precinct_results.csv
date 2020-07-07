@@ -1,0 +1,4441 @@
+ward,precinct,reg_voters,total_votes,vote_category,candidate,votes
+28,11,501,164,Total,Cori Bush,89
+28,11,501,164,Total,Demarco Davidson,1
+28,11,501,164,Total,Joshua Shipp,5
+28,11,501,164,Total,Lacy Clay,69
+28,11,501,0,House Votes,Cori Bush,0
+28,11,501,0,House Votes,Demarco Davidson,0
+28,11,501,0,House Votes,Joshua Shipp,0
+28,11,501,0,House Votes,Lacy Clay,0
+28,11,501,0,Provisional,Cori Bush,0
+28,11,501,0,Provisional,Demarco Davidson,0
+28,11,501,0,Provisional,Joshua Shipp,0
+28,11,501,0,Provisional,Lacy Clay,0
+28,11,501,16,Absentee,Cori Bush,10
+28,11,501,16,Absentee,Demarco Davidson,0
+28,11,501,16,Absentee,Joshua Shipp,0
+28,11,501,16,Absentee,Lacy Clay,6
+28,11,501,148,Polling,Cori Bush,79
+28,11,501,148,Polling,Demarco Davidson,1
+28,11,501,148,Polling,Joshua Shipp,5
+28,11,501,148,Polling,Lacy Clay,63
+28,10,1016,394,Total,Cori Bush,198
+28,10,1016,394,Total,Demarco Davidson,5
+28,10,1016,394,Total,Joshua Shipp,11
+28,10,1016,394,Total,Lacy Clay,180
+28,10,1016,0,House Votes,Cori Bush,0
+28,10,1016,0,House Votes,Demarco Davidson,0
+28,10,1016,0,House Votes,Joshua Shipp,0
+28,10,1016,0,House Votes,Lacy Clay,0
+28,10,1016,0,Provisional,Cori Bush,0
+28,10,1016,0,Provisional,Demarco Davidson,0
+28,10,1016,0,Provisional,Joshua Shipp,0
+28,10,1016,0,Provisional,Lacy Clay,0
+28,10,1016,39,Absentee,Cori Bush,15
+28,10,1016,39,Absentee,Demarco Davidson,0
+28,10,1016,39,Absentee,Joshua Shipp,3
+28,10,1016,39,Absentee,Lacy Clay,21
+28,10,1016,355,Polling,Cori Bush,183
+28,10,1016,355,Polling,Demarco Davidson,5
+28,10,1016,355,Polling,Joshua Shipp,8
+28,10,1016,355,Polling,Lacy Clay,159
+28,9,507,210,Total,Cori Bush,134
+28,9,507,210,Total,Demarco Davidson,3
+28,9,507,210,Total,Joshua Shipp,10
+28,9,507,210,Total,Lacy Clay,63
+28,9,507,0,House Votes,Cori Bush,0
+28,9,507,0,House Votes,Demarco Davidson,0
+28,9,507,0,House Votes,Joshua Shipp,0
+28,9,507,0,House Votes,Lacy Clay,0
+28,9,507,0,Provisional,Cori Bush,0
+28,9,507,0,Provisional,Demarco Davidson,0
+28,9,507,0,Provisional,Joshua Shipp,0
+28,9,507,0,Provisional,Lacy Clay,0
+28,9,507,10,Absentee,Cori Bush,7
+28,9,507,10,Absentee,Demarco Davidson,0
+28,9,507,10,Absentee,Joshua Shipp,0
+28,9,507,10,Absentee,Lacy Clay,3
+28,9,507,200,Polling,Cori Bush,127
+28,9,507,200,Polling,Demarco Davidson,3
+28,9,507,200,Polling,Joshua Shipp,10
+28,9,507,200,Polling,Lacy Clay,60
+28,8,1033,365,Total,Cori Bush,213
+28,8,1033,365,Total,Demarco Davidson,4
+28,8,1033,365,Total,Joshua Shipp,7
+28,8,1033,365,Total,Lacy Clay,141
+28,8,1033,0,House Votes,Cori Bush,0
+28,8,1033,0,House Votes,Demarco Davidson,0
+28,8,1033,0,House Votes,Joshua Shipp,0
+28,8,1033,0,House Votes,Lacy Clay,0
+28,8,1033,1,Provisional,Cori Bush,1
+28,8,1033,1,Provisional,Demarco Davidson,0
+28,8,1033,1,Provisional,Joshua Shipp,0
+28,8,1033,1,Provisional,Lacy Clay,0
+28,8,1033,25,Absentee,Cori Bush,18
+28,8,1033,25,Absentee,Demarco Davidson,0
+28,8,1033,25,Absentee,Joshua Shipp,0
+28,8,1033,25,Absentee,Lacy Clay,7
+28,8,1033,339,Polling,Cori Bush,194
+28,8,1033,339,Polling,Demarco Davidson,4
+28,8,1033,339,Polling,Joshua Shipp,7
+28,8,1033,339,Polling,Lacy Clay,134
+28,7,613,240,Total,Cori Bush,118
+28,7,613,240,Total,Demarco Davidson,2
+28,7,613,240,Total,Joshua Shipp,5
+28,7,613,240,Total,Lacy Clay,115
+28,7,613,0,House Votes,Cori Bush,0
+28,7,613,0,House Votes,Demarco Davidson,0
+28,7,613,0,House Votes,Joshua Shipp,0
+28,7,613,0,House Votes,Lacy Clay,0
+28,7,613,0,Provisional,Cori Bush,0
+28,7,613,0,Provisional,Demarco Davidson,0
+28,7,613,0,Provisional,Joshua Shipp,0
+28,7,613,0,Provisional,Lacy Clay,0
+28,7,613,13,Absentee,Cori Bush,7
+28,7,613,13,Absentee,Demarco Davidson,0
+28,7,613,13,Absentee,Joshua Shipp,0
+28,7,613,13,Absentee,Lacy Clay,6
+28,7,613,227,Polling,Cori Bush,111
+28,7,613,227,Polling,Demarco Davidson,2
+28,7,613,227,Polling,Joshua Shipp,5
+28,7,613,227,Polling,Lacy Clay,109
+28,6,823,344,Total,Cori Bush,187
+28,6,823,344,Total,Demarco Davidson,3
+28,6,823,344,Total,Joshua Shipp,6
+28,6,823,344,Total,Lacy Clay,148
+28,6,823,0,House Votes,Cori Bush,0
+28,6,823,0,House Votes,Demarco Davidson,0
+28,6,823,0,House Votes,Joshua Shipp,0
+28,6,823,0,House Votes,Lacy Clay,0
+28,6,823,0,Provisional,Cori Bush,0
+28,6,823,0,Provisional,Demarco Davidson,0
+28,6,823,0,Provisional,Joshua Shipp,0
+28,6,823,0,Provisional,Lacy Clay,0
+28,6,823,22,Absentee,Cori Bush,10
+28,6,823,22,Absentee,Demarco Davidson,0
+28,6,823,22,Absentee,Joshua Shipp,0
+28,6,823,22,Absentee,Lacy Clay,12
+28,6,823,322,Polling,Cori Bush,177
+28,6,823,322,Polling,Demarco Davidson,3
+28,6,823,322,Polling,Joshua Shipp,6
+28,6,823,322,Polling,Lacy Clay,136
+28,5,1012,289,Total,Cori Bush,117
+28,5,1012,289,Total,Demarco Davidson,4
+28,5,1012,289,Total,Joshua Shipp,3
+28,5,1012,289,Total,Lacy Clay,165
+28,5,1012,0,House Votes,Cori Bush,0
+28,5,1012,0,House Votes,Demarco Davidson,0
+28,5,1012,0,House Votes,Joshua Shipp,0
+28,5,1012,0,House Votes,Lacy Clay,0
+28,5,1012,0,Provisional,Cori Bush,0
+28,5,1012,0,Provisional,Demarco Davidson,0
+28,5,1012,0,Provisional,Joshua Shipp,0
+28,5,1012,0,Provisional,Lacy Clay,0
+28,5,1012,27,Absentee,Cori Bush,12
+28,5,1012,27,Absentee,Demarco Davidson,0
+28,5,1012,27,Absentee,Joshua Shipp,0
+28,5,1012,27,Absentee,Lacy Clay,15
+28,5,1012,262,Polling,Cori Bush,105
+28,5,1012,262,Polling,Demarco Davidson,4
+28,5,1012,262,Polling,Joshua Shipp,3
+28,5,1012,262,Polling,Lacy Clay,150
+28,4,515,222,Total,Cori Bush,122
+28,4,515,222,Total,Demarco Davidson,2
+28,4,515,222,Total,Joshua Shipp,3
+28,4,515,222,Total,Lacy Clay,95
+28,4,515,0,House Votes,Cori Bush,0
+28,4,515,0,House Votes,Demarco Davidson,0
+28,4,515,0,House Votes,Joshua Shipp,0
+28,4,515,0,House Votes,Lacy Clay,0
+28,4,515,0,Provisional,Cori Bush,0
+28,4,515,0,Provisional,Demarco Davidson,0
+28,4,515,0,Provisional,Joshua Shipp,0
+28,4,515,0,Provisional,Lacy Clay,0
+28,4,515,29,Absentee,Cori Bush,12
+28,4,515,29,Absentee,Demarco Davidson,0
+28,4,515,29,Absentee,Joshua Shipp,0
+28,4,515,29,Absentee,Lacy Clay,17
+28,4,515,193,Polling,Cori Bush,110
+28,4,515,193,Polling,Demarco Davidson,2
+28,4,515,193,Polling,Joshua Shipp,3
+28,4,515,193,Polling,Lacy Clay,78
+28,2,458,212,Total,Cori Bush,115
+28,2,458,212,Total,Demarco Davidson,2
+28,2,458,212,Total,Joshua Shipp,3
+28,2,458,212,Total,Lacy Clay,92
+28,2,458,0,House Votes,Cori Bush,0
+28,2,458,0,House Votes,Demarco Davidson,0
+28,2,458,0,House Votes,Joshua Shipp,0
+28,2,458,0,House Votes,Lacy Clay,0
+28,2,458,0,Provisional,Cori Bush,0
+28,2,458,0,Provisional,Demarco Davidson,0
+28,2,458,0,Provisional,Joshua Shipp,0
+28,2,458,0,Provisional,Lacy Clay,0
+28,2,458,21,Absentee,Cori Bush,6
+28,2,458,21,Absentee,Demarco Davidson,0
+28,2,458,21,Absentee,Joshua Shipp,1
+28,2,458,21,Absentee,Lacy Clay,14
+28,2,458,191,Polling,Cori Bush,109
+28,2,458,191,Polling,Demarco Davidson,2
+28,2,458,191,Polling,Joshua Shipp,2
+28,2,458,191,Polling,Lacy Clay,78
+28,1,700,273,Total,Cori Bush,141
+28,1,700,273,Total,Demarco Davidson,3
+28,1,700,273,Total,Joshua Shipp,6
+28,1,700,273,Total,Lacy Clay,123
+28,1,700,0,House Votes,Cori Bush,0
+28,1,700,0,House Votes,Demarco Davidson,0
+28,1,700,0,House Votes,Joshua Shipp,0
+28,1,700,0,House Votes,Lacy Clay,0
+28,1,700,0,Provisional,Cori Bush,0
+28,1,700,0,Provisional,Demarco Davidson,0
+28,1,700,0,Provisional,Joshua Shipp,0
+28,1,700,0,Provisional,Lacy Clay,0
+28,1,700,23,Absentee,Cori Bush,13
+28,1,700,23,Absentee,Demarco Davidson,0
+28,1,700,23,Absentee,Joshua Shipp,0
+28,1,700,23,Absentee,Lacy Clay,10
+28,1,700,250,Polling,Cori Bush,128
+28,1,700,250,Polling,Demarco Davidson,3
+28,1,700,250,Polling,Joshua Shipp,6
+28,1,700,250,Polling,Lacy Clay,113
+27,8,652,227,Total,Cori Bush,40
+27,8,652,227,Total,Demarco Davidson,5
+27,8,652,227,Total,Joshua Shipp,5
+27,8,652,227,Total,Lacy Clay,177
+27,8,652,0,House Votes,Cori Bush,0
+27,8,652,0,House Votes,Demarco Davidson,0
+27,8,652,0,House Votes,Joshua Shipp,0
+27,8,652,0,House Votes,Lacy Clay,0
+27,8,652,0,Provisional,Cori Bush,0
+27,8,652,0,Provisional,Demarco Davidson,0
+27,8,652,0,Provisional,Joshua Shipp,0
+27,8,652,0,Provisional,Lacy Clay,0
+27,8,652,19,Absentee,Cori Bush,2
+27,8,652,19,Absentee,Demarco Davidson,1
+27,8,652,19,Absentee,Joshua Shipp,0
+27,8,652,19,Absentee,Lacy Clay,16
+27,8,652,208,Polling,Cori Bush,38
+27,8,652,208,Polling,Demarco Davidson,4
+27,8,652,208,Polling,Joshua Shipp,5
+27,8,652,208,Polling,Lacy Clay,161
+27,7,1052,412,Total,Cori Bush,103
+27,7,1052,412,Total,Demarco Davidson,7
+27,7,1052,412,Total,Joshua Shipp,8
+27,7,1052,412,Total,Lacy Clay,294
+27,7,1052,0,House Votes,Cori Bush,0
+27,7,1052,0,House Votes,Demarco Davidson,0
+27,7,1052,0,House Votes,Joshua Shipp,0
+27,7,1052,0,House Votes,Lacy Clay,0
+27,7,1052,2,Provisional,Cori Bush,1
+27,7,1052,2,Provisional,Demarco Davidson,0
+27,7,1052,2,Provisional,Joshua Shipp,0
+27,7,1052,2,Provisional,Lacy Clay,1
+27,7,1052,31,Absentee,Cori Bush,5
+27,7,1052,31,Absentee,Demarco Davidson,2
+27,7,1052,31,Absentee,Joshua Shipp,2
+27,7,1052,31,Absentee,Lacy Clay,22
+27,7,1052,379,Polling,Cori Bush,97
+27,7,1052,379,Polling,Demarco Davidson,5
+27,7,1052,379,Polling,Joshua Shipp,6
+27,7,1052,379,Polling,Lacy Clay,271
+27,6,1092,265,Total,Cori Bush,63
+27,6,1092,265,Total,Demarco Davidson,8
+27,6,1092,265,Total,Joshua Shipp,4
+27,6,1092,265,Total,Lacy Clay,190
+27,6,1092,0,House Votes,Cori Bush,0
+27,6,1092,0,House Votes,Demarco Davidson,0
+27,6,1092,0,House Votes,Joshua Shipp,0
+27,6,1092,0,House Votes,Lacy Clay,0
+27,6,1092,2,Provisional,Cori Bush,0
+27,6,1092,2,Provisional,Demarco Davidson,0
+27,6,1092,2,Provisional,Joshua Shipp,0
+27,6,1092,2,Provisional,Lacy Clay,2
+27,6,1092,17,Absentee,Cori Bush,1
+27,6,1092,17,Absentee,Demarco Davidson,3
+27,6,1092,17,Absentee,Joshua Shipp,0
+27,6,1092,17,Absentee,Lacy Clay,13
+27,6,1092,246,Polling,Cori Bush,62
+27,6,1092,246,Polling,Demarco Davidson,5
+27,6,1092,246,Polling,Joshua Shipp,4
+27,6,1092,246,Polling,Lacy Clay,175
+27,5,658,151,Total,Cori Bush,20
+27,5,658,151,Total,Demarco Davidson,4
+27,5,658,151,Total,Joshua Shipp,5
+27,5,658,151,Total,Lacy Clay,122
+27,5,658,0,House Votes,Cori Bush,0
+27,5,658,0,House Votes,Demarco Davidson,0
+27,5,658,0,House Votes,Joshua Shipp,0
+27,5,658,0,House Votes,Lacy Clay,0
+27,5,658,0,Provisional,Cori Bush,0
+27,5,658,0,Provisional,Demarco Davidson,0
+27,5,658,0,Provisional,Joshua Shipp,0
+27,5,658,0,Provisional,Lacy Clay,0
+27,5,658,13,Absentee,Cori Bush,0
+27,5,658,13,Absentee,Demarco Davidson,0
+27,5,658,13,Absentee,Joshua Shipp,0
+27,5,658,13,Absentee,Lacy Clay,13
+27,5,658,138,Polling,Cori Bush,20
+27,5,658,138,Polling,Demarco Davidson,4
+27,5,658,138,Polling,Joshua Shipp,5
+27,5,658,138,Polling,Lacy Clay,109
+27,4,819,170,Total,Cori Bush,26
+27,4,819,170,Total,Demarco Davidson,3
+27,4,819,170,Total,Joshua Shipp,6
+27,4,819,170,Total,Lacy Clay,135
+27,4,819,0,House Votes,Cori Bush,0
+27,4,819,0,House Votes,Demarco Davidson,0
+27,4,819,0,House Votes,Joshua Shipp,0
+27,4,819,0,House Votes,Lacy Clay,0
+27,4,819,0,Provisional,Cori Bush,0
+27,4,819,0,Provisional,Demarco Davidson,0
+27,4,819,0,Provisional,Joshua Shipp,0
+27,4,819,0,Provisional,Lacy Clay,0
+27,4,819,8,Absentee,Cori Bush,0
+27,4,819,8,Absentee,Demarco Davidson,0
+27,4,819,8,Absentee,Joshua Shipp,0
+27,4,819,8,Absentee,Lacy Clay,8
+27,4,819,162,Polling,Cori Bush,26
+27,4,819,162,Polling,Demarco Davidson,3
+27,4,819,162,Polling,Joshua Shipp,6
+27,4,819,162,Polling,Lacy Clay,127
+27,3,1013,237,Total,Cori Bush,43
+27,3,1013,237,Total,Demarco Davidson,5
+27,3,1013,237,Total,Joshua Shipp,6
+27,3,1013,237,Total,Lacy Clay,183
+27,3,1013,0,House Votes,Cori Bush,0
+27,3,1013,0,House Votes,Demarco Davidson,0
+27,3,1013,0,House Votes,Joshua Shipp,0
+27,3,1013,0,House Votes,Lacy Clay,0
+27,3,1013,0,Provisional,Cori Bush,0
+27,3,1013,0,Provisional,Demarco Davidson,0
+27,3,1013,0,Provisional,Joshua Shipp,0
+27,3,1013,0,Provisional,Lacy Clay,0
+27,3,1013,11,Absentee,Cori Bush,1
+27,3,1013,11,Absentee,Demarco Davidson,0
+27,3,1013,11,Absentee,Joshua Shipp,0
+27,3,1013,11,Absentee,Lacy Clay,10
+27,3,1013,226,Polling,Cori Bush,42
+27,3,1013,226,Polling,Demarco Davidson,5
+27,3,1013,226,Polling,Joshua Shipp,6
+27,3,1013,226,Polling,Lacy Clay,173
+27,2,786,177,Total,Cori Bush,31
+27,2,786,177,Total,Demarco Davidson,3
+27,2,786,177,Total,Joshua Shipp,4
+27,2,786,177,Total,Lacy Clay,139
+27,2,786,0,House Votes,Cori Bush,0
+27,2,786,0,House Votes,Demarco Davidson,0
+27,2,786,0,House Votes,Joshua Shipp,0
+27,2,786,0,House Votes,Lacy Clay,0
+27,2,786,1,Provisional,Cori Bush,0
+27,2,786,1,Provisional,Demarco Davidson,0
+27,2,786,1,Provisional,Joshua Shipp,0
+27,2,786,1,Provisional,Lacy Clay,1
+27,2,786,5,Absentee,Cori Bush,1
+27,2,786,5,Absentee,Demarco Davidson,0
+27,2,786,5,Absentee,Joshua Shipp,0
+27,2,786,5,Absentee,Lacy Clay,4
+27,2,786,171,Polling,Cori Bush,30
+27,2,786,171,Polling,Demarco Davidson,3
+27,2,786,171,Polling,Joshua Shipp,4
+27,2,786,171,Polling,Lacy Clay,134
+27,1,1052,346,Total,Cori Bush,74
+27,1,1052,346,Total,Demarco Davidson,10
+27,1,1052,346,Total,Joshua Shipp,3
+27,1,1052,346,Total,Lacy Clay,259
+27,1,1052,0,House Votes,Cori Bush,0
+27,1,1052,0,House Votes,Demarco Davidson,0
+27,1,1052,0,House Votes,Joshua Shipp,0
+27,1,1052,0,House Votes,Lacy Clay,0
+27,1,1052,2,Provisional,Cori Bush,0
+27,1,1052,2,Provisional,Demarco Davidson,0
+27,1,1052,2,Provisional,Joshua Shipp,0
+27,1,1052,2,Provisional,Lacy Clay,2
+27,1,1052,28,Absentee,Cori Bush,4
+27,1,1052,28,Absentee,Demarco Davidson,2
+27,1,1052,28,Absentee,Joshua Shipp,0
+27,1,1052,28,Absentee,Lacy Clay,22
+27,1,1052,316,Polling,Cori Bush,70
+27,1,1052,316,Polling,Demarco Davidson,8
+27,1,1052,316,Polling,Joshua Shipp,3
+27,1,1052,316,Polling,Lacy Clay,235
+26,6,1076,339,Total,Cori Bush,106
+26,6,1076,339,Total,Demarco Davidson,5
+26,6,1076,339,Total,Joshua Shipp,10
+26,6,1076,339,Total,Lacy Clay,218
+26,6,1076,0,House Votes,Cori Bush,0
+26,6,1076,0,House Votes,Demarco Davidson,0
+26,6,1076,0,House Votes,Joshua Shipp,0
+26,6,1076,0,House Votes,Lacy Clay,0
+26,6,1076,0,Provisional,Cori Bush,0
+26,6,1076,0,Provisional,Demarco Davidson,0
+26,6,1076,0,Provisional,Joshua Shipp,0
+26,6,1076,0,Provisional,Lacy Clay,0
+26,6,1076,45,Absentee,Cori Bush,9
+26,6,1076,45,Absentee,Demarco Davidson,1
+26,6,1076,45,Absentee,Joshua Shipp,2
+26,6,1076,45,Absentee,Lacy Clay,33
+26,6,1076,294,Polling,Cori Bush,97
+26,6,1076,294,Polling,Demarco Davidson,4
+26,6,1076,294,Polling,Joshua Shipp,8
+26,6,1076,294,Polling,Lacy Clay,185
+26,5,1036,299,Total,Cori Bush,69
+26,5,1036,299,Total,Demarco Davidson,13
+26,5,1036,299,Total,Joshua Shipp,3
+26,5,1036,299,Total,Lacy Clay,214
+26,5,1036,0,House Votes,Cori Bush,0
+26,5,1036,0,House Votes,Demarco Davidson,0
+26,5,1036,0,House Votes,Joshua Shipp,0
+26,5,1036,0,House Votes,Lacy Clay,0
+26,5,1036,0,Provisional,Cori Bush,0
+26,5,1036,0,Provisional,Demarco Davidson,0
+26,5,1036,0,Provisional,Joshua Shipp,0
+26,5,1036,0,Provisional,Lacy Clay,0
+26,5,1036,9,Absentee,Cori Bush,2
+26,5,1036,9,Absentee,Demarco Davidson,0
+26,5,1036,9,Absentee,Joshua Shipp,0
+26,5,1036,9,Absentee,Lacy Clay,7
+26,5,1036,290,Polling,Cori Bush,67
+26,5,1036,290,Polling,Demarco Davidson,13
+26,5,1036,290,Polling,Joshua Shipp,3
+26,5,1036,290,Polling,Lacy Clay,207
+26,4,1268,419,Total,Cori Bush,122
+26,4,1268,419,Total,Demarco Davidson,7
+26,4,1268,419,Total,Joshua Shipp,3
+26,4,1268,419,Total,Lacy Clay,287
+26,4,1268,0,House Votes,Cori Bush,0
+26,4,1268,0,House Votes,Demarco Davidson,0
+26,4,1268,0,House Votes,Joshua Shipp,0
+26,4,1268,0,House Votes,Lacy Clay,0
+26,4,1268,0,Provisional,Cori Bush,0
+26,4,1268,0,Provisional,Demarco Davidson,0
+26,4,1268,0,Provisional,Joshua Shipp,0
+26,4,1268,0,Provisional,Lacy Clay,0
+26,4,1268,49,Absentee,Cori Bush,6
+26,4,1268,49,Absentee,Demarco Davidson,0
+26,4,1268,49,Absentee,Joshua Shipp,2
+26,4,1268,49,Absentee,Lacy Clay,41
+26,4,1268,370,Polling,Cori Bush,116
+26,4,1268,370,Polling,Demarco Davidson,7
+26,4,1268,370,Polling,Joshua Shipp,1
+26,4,1268,370,Polling,Lacy Clay,246
+26,3,1760,611,Total,Cori Bush,264
+26,3,1760,611,Total,Demarco Davidson,16
+26,3,1760,611,Total,Joshua Shipp,8
+26,3,1760,611,Total,Lacy Clay,323
+26,3,1760,0,House Votes,Cori Bush,0
+26,3,1760,0,House Votes,Demarco Davidson,0
+26,3,1760,0,House Votes,Joshua Shipp,0
+26,3,1760,0,House Votes,Lacy Clay,0
+26,3,1760,1,Provisional,Cori Bush,0
+26,3,1760,1,Provisional,Demarco Davidson,0
+26,3,1760,1,Provisional,Joshua Shipp,1
+26,3,1760,1,Provisional,Lacy Clay,0
+26,3,1760,50,Absentee,Cori Bush,14
+26,3,1760,50,Absentee,Demarco Davidson,2
+26,3,1760,50,Absentee,Joshua Shipp,0
+26,3,1760,50,Absentee,Lacy Clay,34
+26,3,1760,560,Polling,Cori Bush,250
+26,3,1760,560,Polling,Demarco Davidson,14
+26,3,1760,560,Polling,Joshua Shipp,7
+26,3,1760,560,Polling,Lacy Clay,289
+26,2,632,187,Total,Cori Bush,38
+26,2,632,187,Total,Demarco Davidson,7
+26,2,632,187,Total,Joshua Shipp,2
+26,2,632,187,Total,Lacy Clay,140
+26,2,632,0,House Votes,Cori Bush,0
+26,2,632,0,House Votes,Demarco Davidson,0
+26,2,632,0,House Votes,Joshua Shipp,0
+26,2,632,0,House Votes,Lacy Clay,0
+26,2,632,0,Provisional,Cori Bush,0
+26,2,632,0,Provisional,Demarco Davidson,0
+26,2,632,0,Provisional,Joshua Shipp,0
+26,2,632,0,Provisional,Lacy Clay,0
+26,2,632,19,Absentee,Cori Bush,1
+26,2,632,19,Absentee,Demarco Davidson,2
+26,2,632,19,Absentee,Joshua Shipp,0
+26,2,632,19,Absentee,Lacy Clay,16
+26,2,632,168,Polling,Cori Bush,37
+26,2,632,168,Polling,Demarco Davidson,5
+26,2,632,168,Polling,Joshua Shipp,2
+26,2,632,168,Polling,Lacy Clay,124
+26,1,739,291,Total,Cori Bush,70
+26,1,739,291,Total,Demarco Davidson,14
+26,1,739,291,Total,Joshua Shipp,3
+26,1,739,291,Total,Lacy Clay,204
+26,1,739,0,House Votes,Cori Bush,0
+26,1,739,0,House Votes,Demarco Davidson,0
+26,1,739,0,House Votes,Joshua Shipp,0
+26,1,739,0,House Votes,Lacy Clay,0
+26,1,739,3,Provisional,Cori Bush,1
+26,1,739,3,Provisional,Demarco Davidson,0
+26,1,739,3,Provisional,Joshua Shipp,0
+26,1,739,3,Provisional,Lacy Clay,2
+26,1,739,10,Absentee,Cori Bush,0
+26,1,739,10,Absentee,Demarco Davidson,0
+26,1,739,10,Absentee,Joshua Shipp,0
+26,1,739,10,Absentee,Lacy Clay,10
+26,1,739,278,Polling,Cori Bush,69
+26,1,739,278,Polling,Demarco Davidson,14
+26,1,739,278,Polling,Joshua Shipp,3
+26,1,739,278,Polling,Lacy Clay,192
+25,6,17,7,Total,Cori Bush,4
+25,6,17,7,Total,Demarco Davidson,0
+25,6,17,7,Total,Joshua Shipp,0
+25,6,17,7,Total,Lacy Clay,3
+25,6,17,0,House Votes,Cori Bush,0
+25,6,17,0,House Votes,Demarco Davidson,0
+25,6,17,0,House Votes,Joshua Shipp,0
+25,6,17,0,House Votes,Lacy Clay,0
+25,6,17,0,Provisional,Cori Bush,0
+25,6,17,0,Provisional,Demarco Davidson,0
+25,6,17,0,Provisional,Joshua Shipp,0
+25,6,17,0,Provisional,Lacy Clay,0
+25,6,17,1,Absentee,Cori Bush,0
+25,6,17,1,Absentee,Demarco Davidson,0
+25,6,17,1,Absentee,Joshua Shipp,0
+25,6,17,1,Absentee,Lacy Clay,1
+25,6,17,6,Polling,Cori Bush,4
+25,6,17,6,Polling,Demarco Davidson,0
+25,6,17,6,Polling,Joshua Shipp,0
+25,6,17,6,Polling,Lacy Clay,2
+25,5,504,125,Total,Cori Bush,58
+25,5,504,125,Total,Demarco Davidson,6
+25,5,504,125,Total,Joshua Shipp,4
+25,5,504,125,Total,Lacy Clay,57
+25,5,504,0,House Votes,Cori Bush,0
+25,5,504,0,House Votes,Demarco Davidson,0
+25,5,504,0,House Votes,Joshua Shipp,0
+25,5,504,0,House Votes,Lacy Clay,0
+25,5,504,0,Provisional,Cori Bush,0
+25,5,504,0,Provisional,Demarco Davidson,0
+25,5,504,0,Provisional,Joshua Shipp,0
+25,5,504,0,Provisional,Lacy Clay,0
+25,5,504,3,Absentee,Cori Bush,1
+25,5,504,3,Absentee,Demarco Davidson,0
+25,5,504,3,Absentee,Joshua Shipp,0
+25,5,504,3,Absentee,Lacy Clay,2
+25,5,504,122,Polling,Cori Bush,57
+25,5,504,122,Polling,Demarco Davidson,6
+25,5,504,122,Polling,Joshua Shipp,4
+25,5,504,122,Polling,Lacy Clay,55
+25,4,1379,336,Total,Cori Bush,129
+25,4,1379,336,Total,Demarco Davidson,10
+25,4,1379,336,Total,Joshua Shipp,14
+25,4,1379,336,Total,Lacy Clay,183
+25,4,1379,0,House Votes,Cori Bush,0
+25,4,1379,0,House Votes,Demarco Davidson,0
+25,4,1379,0,House Votes,Joshua Shipp,0
+25,4,1379,0,House Votes,Lacy Clay,0
+25,4,1379,0,Provisional,Cori Bush,0
+25,4,1379,0,Provisional,Demarco Davidson,0
+25,4,1379,0,Provisional,Joshua Shipp,0
+25,4,1379,0,Provisional,Lacy Clay,0
+25,4,1379,12,Absentee,Cori Bush,4
+25,4,1379,12,Absentee,Demarco Davidson,1
+25,4,1379,12,Absentee,Joshua Shipp,1
+25,4,1379,12,Absentee,Lacy Clay,6
+25,4,1379,324,Polling,Cori Bush,125
+25,4,1379,324,Polling,Demarco Davidson,9
+25,4,1379,324,Polling,Joshua Shipp,13
+25,4,1379,324,Polling,Lacy Clay,177
+25,3,722,146,Total,Cori Bush,51
+25,3,722,146,Total,Demarco Davidson,4
+25,3,722,146,Total,Joshua Shipp,5
+25,3,722,146,Total,Lacy Clay,86
+25,3,722,0,House Votes,Cori Bush,0
+25,3,722,0,House Votes,Demarco Davidson,0
+25,3,722,0,House Votes,Joshua Shipp,0
+25,3,722,0,House Votes,Lacy Clay,0
+25,3,722,0,Provisional,Cori Bush,0
+25,3,722,0,Provisional,Demarco Davidson,0
+25,3,722,0,Provisional,Joshua Shipp,0
+25,3,722,0,Provisional,Lacy Clay,0
+25,3,722,5,Absentee,Cori Bush,1
+25,3,722,5,Absentee,Demarco Davidson,0
+25,3,722,5,Absentee,Joshua Shipp,0
+25,3,722,5,Absentee,Lacy Clay,4
+25,3,722,141,Polling,Cori Bush,50
+25,3,722,141,Polling,Demarco Davidson,4
+25,3,722,141,Polling,Joshua Shipp,5
+25,3,722,141,Polling,Lacy Clay,82
+25,2,1341,343,Total,Cori Bush,123
+25,2,1341,343,Total,Demarco Davidson,15
+25,2,1341,343,Total,Joshua Shipp,14
+25,2,1341,343,Total,Lacy Clay,191
+25,2,1341,0,House Votes,Cori Bush,0
+25,2,1341,0,House Votes,Demarco Davidson,0
+25,2,1341,0,House Votes,Joshua Shipp,0
+25,2,1341,0,House Votes,Lacy Clay,0
+25,2,1341,0,Provisional,Cori Bush,0
+25,2,1341,0,Provisional,Demarco Davidson,0
+25,2,1341,0,Provisional,Joshua Shipp,0
+25,2,1341,0,Provisional,Lacy Clay,0
+25,2,1341,14,Absentee,Cori Bush,4
+25,2,1341,14,Absentee,Demarco Davidson,0
+25,2,1341,14,Absentee,Joshua Shipp,1
+25,2,1341,14,Absentee,Lacy Clay,9
+25,2,1341,329,Polling,Cori Bush,119
+25,2,1341,329,Polling,Demarco Davidson,15
+25,2,1341,329,Polling,Joshua Shipp,13
+25,2,1341,329,Polling,Lacy Clay,182
+25,1,1219,309,Total,Cori Bush,111
+25,1,1219,309,Total,Demarco Davidson,20
+25,1,1219,309,Total,Joshua Shipp,8
+25,1,1219,309,Total,Lacy Clay,170
+25,1,1219,0,House Votes,Cori Bush,0
+25,1,1219,0,House Votes,Demarco Davidson,0
+25,1,1219,0,House Votes,Joshua Shipp,0
+25,1,1219,0,House Votes,Lacy Clay,0
+25,1,1219,0,Provisional,Cori Bush,0
+25,1,1219,0,Provisional,Demarco Davidson,0
+25,1,1219,0,Provisional,Joshua Shipp,0
+25,1,1219,0,Provisional,Lacy Clay,0
+25,1,1219,18,Absentee,Cori Bush,1
+25,1,1219,18,Absentee,Demarco Davidson,3
+25,1,1219,18,Absentee,Joshua Shipp,0
+25,1,1219,18,Absentee,Lacy Clay,14
+25,1,1219,291,Polling,Cori Bush,110
+25,1,1219,291,Polling,Demarco Davidson,17
+25,1,1219,291,Polling,Joshua Shipp,8
+25,1,1219,291,Polling,Lacy Clay,156
+24,8,348,121,Total,Cori Bush,87
+24,8,348,121,Total,Demarco Davidson,1
+24,8,348,121,Total,Joshua Shipp,6
+24,8,348,121,Total,Lacy Clay,27
+24,8,348,0,House Votes,Cori Bush,0
+24,8,348,0,House Votes,Demarco Davidson,0
+24,8,348,0,House Votes,Joshua Shipp,0
+24,8,348,0,House Votes,Lacy Clay,0
+24,8,348,0,Provisional,Cori Bush,0
+24,8,348,0,Provisional,Demarco Davidson,0
+24,8,348,0,Provisional,Joshua Shipp,0
+24,8,348,0,Provisional,Lacy Clay,0
+24,8,348,6,Absentee,Cori Bush,4
+24,8,348,6,Absentee,Demarco Davidson,0
+24,8,348,6,Absentee,Joshua Shipp,0
+24,8,348,6,Absentee,Lacy Clay,2
+24,8,348,115,Polling,Cori Bush,83
+24,8,348,115,Polling,Demarco Davidson,1
+24,8,348,115,Polling,Joshua Shipp,6
+24,8,348,115,Polling,Lacy Clay,25
+24,7,989,308,Total,Cori Bush,196
+24,7,989,308,Total,Demarco Davidson,6
+24,7,989,308,Total,Joshua Shipp,11
+24,7,989,308,Total,Lacy Clay,95
+24,7,989,0,House Votes,Cori Bush,0
+24,7,989,0,House Votes,Demarco Davidson,0
+24,7,989,0,House Votes,Joshua Shipp,0
+24,7,989,0,House Votes,Lacy Clay,0
+24,7,989,0,Provisional,Cori Bush,0
+24,7,989,0,Provisional,Demarco Davidson,0
+24,7,989,0,Provisional,Joshua Shipp,0
+24,7,989,0,Provisional,Lacy Clay,0
+24,7,989,15,Absentee,Cori Bush,11
+24,7,989,15,Absentee,Demarco Davidson,0
+24,7,989,15,Absentee,Joshua Shipp,0
+24,7,989,15,Absentee,Lacy Clay,4
+24,7,989,293,Polling,Cori Bush,185
+24,7,989,293,Polling,Demarco Davidson,6
+24,7,989,293,Polling,Joshua Shipp,11
+24,7,989,293,Polling,Lacy Clay,91
+24,6,1169,403,Total,Cori Bush,242
+24,6,1169,403,Total,Demarco Davidson,10
+24,6,1169,403,Total,Joshua Shipp,17
+24,6,1169,403,Total,Lacy Clay,134
+24,6,1169,0,House Votes,Cori Bush,0
+24,6,1169,0,House Votes,Demarco Davidson,0
+24,6,1169,0,House Votes,Joshua Shipp,0
+24,6,1169,0,House Votes,Lacy Clay,0
+24,6,1169,1,Provisional,Cori Bush,1
+24,6,1169,1,Provisional,Demarco Davidson,0
+24,6,1169,1,Provisional,Joshua Shipp,0
+24,6,1169,1,Provisional,Lacy Clay,0
+24,6,1169,15,Absentee,Cori Bush,10
+24,6,1169,15,Absentee,Demarco Davidson,1
+24,6,1169,15,Absentee,Joshua Shipp,0
+24,6,1169,15,Absentee,Lacy Clay,4
+24,6,1169,387,Polling,Cori Bush,231
+24,6,1169,387,Polling,Demarco Davidson,9
+24,6,1169,387,Polling,Joshua Shipp,17
+24,6,1169,387,Polling,Lacy Clay,130
+24,5,1105,385,Total,Cori Bush,228
+24,5,1105,385,Total,Demarco Davidson,11
+24,5,1105,385,Total,Joshua Shipp,23
+24,5,1105,385,Total,Lacy Clay,123
+24,5,1105,0,House Votes,Cori Bush,0
+24,5,1105,0,House Votes,Demarco Davidson,0
+24,5,1105,0,House Votes,Joshua Shipp,0
+24,5,1105,0,House Votes,Lacy Clay,0
+24,5,1105,3,Provisional,Cori Bush,1
+24,5,1105,3,Provisional,Demarco Davidson,0
+24,5,1105,3,Provisional,Joshua Shipp,0
+24,5,1105,3,Provisional,Lacy Clay,2
+24,5,1105,18,Absentee,Cori Bush,11
+24,5,1105,18,Absentee,Demarco Davidson,1
+24,5,1105,18,Absentee,Joshua Shipp,2
+24,5,1105,18,Absentee,Lacy Clay,4
+24,5,1105,364,Polling,Cori Bush,216
+24,5,1105,364,Polling,Demarco Davidson,10
+24,5,1105,364,Polling,Joshua Shipp,21
+24,5,1105,364,Polling,Lacy Clay,117
+24,4,1081,355,Total,Cori Bush,215
+24,4,1081,355,Total,Demarco Davidson,2
+24,4,1081,355,Total,Joshua Shipp,27
+24,4,1081,355,Total,Lacy Clay,111
+24,4,1081,0,House Votes,Cori Bush,0
+24,4,1081,0,House Votes,Demarco Davidson,0
+24,4,1081,0,House Votes,Joshua Shipp,0
+24,4,1081,0,House Votes,Lacy Clay,0
+24,4,1081,0,Provisional,Cori Bush,0
+24,4,1081,0,Provisional,Demarco Davidson,0
+24,4,1081,0,Provisional,Joshua Shipp,0
+24,4,1081,0,Provisional,Lacy Clay,0
+24,4,1081,15,Absentee,Cori Bush,10
+24,4,1081,15,Absentee,Demarco Davidson,0
+24,4,1081,15,Absentee,Joshua Shipp,0
+24,4,1081,15,Absentee,Lacy Clay,5
+24,4,1081,340,Polling,Cori Bush,205
+24,4,1081,340,Polling,Demarco Davidson,2
+24,4,1081,340,Polling,Joshua Shipp,27
+24,4,1081,340,Polling,Lacy Clay,106
+24,3,849,247,Total,Cori Bush,134
+24,3,849,247,Total,Demarco Davidson,5
+24,3,849,247,Total,Joshua Shipp,11
+24,3,849,247,Total,Lacy Clay,97
+24,3,849,0,House Votes,Cori Bush,0
+24,3,849,0,House Votes,Demarco Davidson,0
+24,3,849,0,House Votes,Joshua Shipp,0
+24,3,849,0,House Votes,Lacy Clay,0
+24,3,849,0,Provisional,Cori Bush,0
+24,3,849,0,Provisional,Demarco Davidson,0
+24,3,849,0,Provisional,Joshua Shipp,0
+24,3,849,0,Provisional,Lacy Clay,0
+24,3,849,8,Absentee,Cori Bush,1
+24,3,849,8,Absentee,Demarco Davidson,0
+24,3,849,8,Absentee,Joshua Shipp,0
+24,3,849,8,Absentee,Lacy Clay,7
+24,3,849,239,Polling,Cori Bush,133
+24,3,849,239,Polling,Demarco Davidson,5
+24,3,849,239,Polling,Joshua Shipp,11
+24,3,849,239,Polling,Lacy Clay,90
+24,2,714,279,Total,Cori Bush,191
+24,2,714,279,Total,Demarco Davidson,6
+24,2,714,279,Total,Joshua Shipp,13
+24,2,714,279,Total,Lacy Clay,69
+24,2,714,0,House Votes,Cori Bush,0
+24,2,714,0,House Votes,Demarco Davidson,0
+24,2,714,0,House Votes,Joshua Shipp,0
+24,2,714,0,House Votes,Lacy Clay,0
+24,2,714,0,Provisional,Cori Bush,0
+24,2,714,0,Provisional,Demarco Davidson,0
+24,2,714,0,Provisional,Joshua Shipp,0
+24,2,714,0,Provisional,Lacy Clay,0
+24,2,714,15,Absentee,Cori Bush,4
+24,2,714,15,Absentee,Demarco Davidson,1
+24,2,714,15,Absentee,Joshua Shipp,0
+24,2,714,15,Absentee,Lacy Clay,10
+24,2,714,264,Polling,Cori Bush,187
+24,2,714,264,Polling,Demarco Davidson,5
+24,2,714,264,Polling,Joshua Shipp,13
+24,2,714,264,Polling,Lacy Clay,59
+24,1,1035,374,Total,Cori Bush,268
+24,1,1035,374,Total,Demarco Davidson,8
+24,1,1035,374,Total,Joshua Shipp,10
+24,1,1035,374,Total,Lacy Clay,88
+24,1,1035,0,House Votes,Cori Bush,0
+24,1,1035,0,House Votes,Demarco Davidson,0
+24,1,1035,0,House Votes,Joshua Shipp,0
+24,1,1035,0,House Votes,Lacy Clay,0
+24,1,1035,0,Provisional,Cori Bush,0
+24,1,1035,0,Provisional,Demarco Davidson,0
+24,1,1035,0,Provisional,Joshua Shipp,0
+24,1,1035,0,Provisional,Lacy Clay,0
+24,1,1035,21,Absentee,Cori Bush,9
+24,1,1035,21,Absentee,Demarco Davidson,1
+24,1,1035,21,Absentee,Joshua Shipp,0
+24,1,1035,21,Absentee,Lacy Clay,11
+24,1,1035,353,Polling,Cori Bush,259
+24,1,1035,353,Polling,Demarco Davidson,7
+24,1,1035,353,Polling,Joshua Shipp,10
+24,1,1035,353,Polling,Lacy Clay,77
+23,9,278,84,Total,Cori Bush,43
+23,9,278,84,Total,Demarco Davidson,2
+23,9,278,84,Total,Joshua Shipp,5
+23,9,278,84,Total,Lacy Clay,34
+23,9,278,0,House Votes,Cori Bush,0
+23,9,278,0,House Votes,Demarco Davidson,0
+23,9,278,0,House Votes,Joshua Shipp,0
+23,9,278,0,House Votes,Lacy Clay,0
+23,9,278,0,Provisional,Cori Bush,0
+23,9,278,0,Provisional,Demarco Davidson,0
+23,9,278,0,Provisional,Joshua Shipp,0
+23,9,278,0,Provisional,Lacy Clay,0
+23,9,278,6,Absentee,Cori Bush,3
+23,9,278,6,Absentee,Demarco Davidson,0
+23,9,278,6,Absentee,Joshua Shipp,1
+23,9,278,6,Absentee,Lacy Clay,2
+23,9,278,78,Polling,Cori Bush,40
+23,9,278,78,Polling,Demarco Davidson,2
+23,9,278,78,Polling,Joshua Shipp,4
+23,9,278,78,Polling,Lacy Clay,32
+23,8,874,316,Total,Cori Bush,141
+23,8,874,316,Total,Demarco Davidson,6
+23,8,874,316,Total,Joshua Shipp,22
+23,8,874,316,Total,Lacy Clay,147
+23,8,874,0,House Votes,Cori Bush,0
+23,8,874,0,House Votes,Demarco Davidson,0
+23,8,874,0,House Votes,Joshua Shipp,0
+23,8,874,0,House Votes,Lacy Clay,0
+23,8,874,0,Provisional,Cori Bush,0
+23,8,874,0,Provisional,Demarco Davidson,0
+23,8,874,0,Provisional,Joshua Shipp,0
+23,8,874,0,Provisional,Lacy Clay,0
+23,8,874,15,Absentee,Cori Bush,7
+23,8,874,15,Absentee,Demarco Davidson,0
+23,8,874,15,Absentee,Joshua Shipp,0
+23,8,874,15,Absentee,Lacy Clay,8
+23,8,874,301,Polling,Cori Bush,134
+23,8,874,301,Polling,Demarco Davidson,6
+23,8,874,301,Polling,Joshua Shipp,22
+23,8,874,301,Polling,Lacy Clay,139
+23,7,912,337,Total,Cori Bush,183
+23,7,912,337,Total,Demarco Davidson,3
+23,7,912,337,Total,Joshua Shipp,12
+23,7,912,337,Total,Lacy Clay,139
+23,7,912,0,House Votes,Cori Bush,0
+23,7,912,0,House Votes,Demarco Davidson,0
+23,7,912,0,House Votes,Joshua Shipp,0
+23,7,912,0,House Votes,Lacy Clay,0
+23,7,912,0,Provisional,Cori Bush,0
+23,7,912,0,Provisional,Demarco Davidson,0
+23,7,912,0,Provisional,Joshua Shipp,0
+23,7,912,0,Provisional,Lacy Clay,0
+23,7,912,18,Absentee,Cori Bush,3
+23,7,912,18,Absentee,Demarco Davidson,0
+23,7,912,18,Absentee,Joshua Shipp,1
+23,7,912,18,Absentee,Lacy Clay,14
+23,7,912,319,Polling,Cori Bush,180
+23,7,912,319,Polling,Demarco Davidson,3
+23,7,912,319,Polling,Joshua Shipp,11
+23,7,912,319,Polling,Lacy Clay,125
+23,6,855,307,Total,Cori Bush,174
+23,6,855,307,Total,Demarco Davidson,7
+23,6,855,307,Total,Joshua Shipp,18
+23,6,855,307,Total,Lacy Clay,108
+23,6,855,0,House Votes,Cori Bush,0
+23,6,855,0,House Votes,Demarco Davidson,0
+23,6,855,0,House Votes,Joshua Shipp,0
+23,6,855,0,House Votes,Lacy Clay,0
+23,6,855,0,Provisional,Cori Bush,0
+23,6,855,0,Provisional,Demarco Davidson,0
+23,6,855,0,Provisional,Joshua Shipp,0
+23,6,855,0,Provisional,Lacy Clay,0
+23,6,855,10,Absentee,Cori Bush,5
+23,6,855,10,Absentee,Demarco Davidson,0
+23,6,855,10,Absentee,Joshua Shipp,1
+23,6,855,10,Absentee,Lacy Clay,4
+23,6,855,297,Polling,Cori Bush,169
+23,6,855,297,Polling,Demarco Davidson,7
+23,6,855,297,Polling,Joshua Shipp,17
+23,6,855,297,Polling,Lacy Clay,104
+23,5,867,354,Total,Cori Bush,194
+23,5,867,354,Total,Demarco Davidson,9
+23,5,867,354,Total,Joshua Shipp,22
+23,5,867,354,Total,Lacy Clay,129
+23,5,867,0,House Votes,Cori Bush,0
+23,5,867,0,House Votes,Demarco Davidson,0
+23,5,867,0,House Votes,Joshua Shipp,0
+23,5,867,0,House Votes,Lacy Clay,0
+23,5,867,0,Provisional,Cori Bush,0
+23,5,867,0,Provisional,Demarco Davidson,0
+23,5,867,0,Provisional,Joshua Shipp,0
+23,5,867,0,Provisional,Lacy Clay,0
+23,5,867,10,Absentee,Cori Bush,5
+23,5,867,10,Absentee,Demarco Davidson,0
+23,5,867,10,Absentee,Joshua Shipp,0
+23,5,867,10,Absentee,Lacy Clay,5
+23,5,867,344,Polling,Cori Bush,189
+23,5,867,344,Polling,Demarco Davidson,9
+23,5,867,344,Polling,Joshua Shipp,22
+23,5,867,344,Polling,Lacy Clay,124
+23,4,1109,392,Total,Cori Bush,212
+23,4,1109,392,Total,Demarco Davidson,10
+23,4,1109,392,Total,Joshua Shipp,25
+23,4,1109,392,Total,Lacy Clay,145
+23,4,1109,0,House Votes,Cori Bush,0
+23,4,1109,0,House Votes,Demarco Davidson,0
+23,4,1109,0,House Votes,Joshua Shipp,0
+23,4,1109,0,House Votes,Lacy Clay,0
+23,4,1109,0,Provisional,Cori Bush,0
+23,4,1109,0,Provisional,Demarco Davidson,0
+23,4,1109,0,Provisional,Joshua Shipp,0
+23,4,1109,0,Provisional,Lacy Clay,0
+23,4,1109,13,Absentee,Cori Bush,4
+23,4,1109,13,Absentee,Demarco Davidson,1
+23,4,1109,13,Absentee,Joshua Shipp,0
+23,4,1109,13,Absentee,Lacy Clay,8
+23,4,1109,379,Polling,Cori Bush,208
+23,4,1109,379,Polling,Demarco Davidson,9
+23,4,1109,379,Polling,Joshua Shipp,25
+23,4,1109,379,Polling,Lacy Clay,137
+23,3,760,261,Total,Cori Bush,143
+23,3,760,261,Total,Demarco Davidson,9
+23,3,760,261,Total,Joshua Shipp,18
+23,3,760,261,Total,Lacy Clay,91
+23,3,760,0,House Votes,Cori Bush,0
+23,3,760,0,House Votes,Demarco Davidson,0
+23,3,760,0,House Votes,Joshua Shipp,0
+23,3,760,0,House Votes,Lacy Clay,0
+23,3,760,0,Provisional,Cori Bush,0
+23,3,760,0,Provisional,Demarco Davidson,0
+23,3,760,0,Provisional,Joshua Shipp,0
+23,3,760,0,Provisional,Lacy Clay,0
+23,3,760,14,Absentee,Cori Bush,4
+23,3,760,14,Absentee,Demarco Davidson,2
+23,3,760,14,Absentee,Joshua Shipp,2
+23,3,760,14,Absentee,Lacy Clay,6
+23,3,760,247,Polling,Cori Bush,139
+23,3,760,247,Polling,Demarco Davidson,7
+23,3,760,247,Polling,Joshua Shipp,16
+23,3,760,247,Polling,Lacy Clay,85
+23,2,1102,421,Total,Cori Bush,212
+23,2,1102,421,Total,Demarco Davidson,10
+23,2,1102,421,Total,Joshua Shipp,28
+23,2,1102,421,Total,Lacy Clay,171
+23,2,1102,0,House Votes,Cori Bush,0
+23,2,1102,0,House Votes,Demarco Davidson,0
+23,2,1102,0,House Votes,Joshua Shipp,0
+23,2,1102,0,House Votes,Lacy Clay,0
+23,2,1102,0,Provisional,Cori Bush,0
+23,2,1102,0,Provisional,Demarco Davidson,0
+23,2,1102,0,Provisional,Joshua Shipp,0
+23,2,1102,0,Provisional,Lacy Clay,0
+23,2,1102,28,Absentee,Cori Bush,10
+23,2,1102,28,Absentee,Demarco Davidson,2
+23,2,1102,28,Absentee,Joshua Shipp,1
+23,2,1102,28,Absentee,Lacy Clay,15
+23,2,1102,393,Polling,Cori Bush,202
+23,2,1102,393,Polling,Demarco Davidson,8
+23,2,1102,393,Polling,Joshua Shipp,27
+23,2,1102,393,Polling,Lacy Clay,156
+23,1,1440,504,Total,Cori Bush,265
+23,1,1440,504,Total,Demarco Davidson,11
+23,1,1440,504,Total,Joshua Shipp,31
+23,1,1440,504,Total,Lacy Clay,197
+23,1,1440,0,House Votes,Cori Bush,0
+23,1,1440,0,House Votes,Demarco Davidson,0
+23,1,1440,0,House Votes,Joshua Shipp,0
+23,1,1440,0,House Votes,Lacy Clay,0
+23,1,1440,0,Provisional,Cori Bush,0
+23,1,1440,0,Provisional,Demarco Davidson,0
+23,1,1440,0,Provisional,Joshua Shipp,0
+23,1,1440,0,Provisional,Lacy Clay,0
+23,1,1440,15,Absentee,Cori Bush,6
+23,1,1440,15,Absentee,Demarco Davidson,0
+23,1,1440,15,Absentee,Joshua Shipp,1
+23,1,1440,15,Absentee,Lacy Clay,8
+23,1,1440,489,Polling,Cori Bush,259
+23,1,1440,489,Polling,Demarco Davidson,11
+23,1,1440,489,Polling,Joshua Shipp,30
+23,1,1440,489,Polling,Lacy Clay,189
+22,8,159,31,Total,Cori Bush,7
+22,8,159,31,Total,Demarco Davidson,1
+22,8,159,31,Total,Joshua Shipp,2
+22,8,159,31,Total,Lacy Clay,21
+22,8,159,0,House Votes,Cori Bush,0
+22,8,159,0,House Votes,Demarco Davidson,0
+22,8,159,0,House Votes,Joshua Shipp,0
+22,8,159,0,House Votes,Lacy Clay,0
+22,8,159,0,Provisional,Cori Bush,0
+22,8,159,0,Provisional,Demarco Davidson,0
+22,8,159,0,Provisional,Joshua Shipp,0
+22,8,159,0,Provisional,Lacy Clay,0
+22,8,159,1,Absentee,Cori Bush,1
+22,8,159,1,Absentee,Demarco Davidson,0
+22,8,159,1,Absentee,Joshua Shipp,0
+22,8,159,1,Absentee,Lacy Clay,0
+22,8,159,30,Polling,Cori Bush,6
+22,8,159,30,Polling,Demarco Davidson,1
+22,8,159,30,Polling,Joshua Shipp,2
+22,8,159,30,Polling,Lacy Clay,21
+22,7,430,108,Total,Cori Bush,22
+22,7,430,108,Total,Demarco Davidson,1
+22,7,430,108,Total,Joshua Shipp,4
+22,7,430,108,Total,Lacy Clay,81
+22,7,430,0,House Votes,Cori Bush,0
+22,7,430,0,House Votes,Demarco Davidson,0
+22,7,430,0,House Votes,Joshua Shipp,0
+22,7,430,0,House Votes,Lacy Clay,0
+22,7,430,0,Provisional,Cori Bush,0
+22,7,430,0,Provisional,Demarco Davidson,0
+22,7,430,0,Provisional,Joshua Shipp,0
+22,7,430,0,Provisional,Lacy Clay,0
+22,7,430,3,Absentee,Cori Bush,0
+22,7,430,3,Absentee,Demarco Davidson,0
+22,7,430,3,Absentee,Joshua Shipp,0
+22,7,430,3,Absentee,Lacy Clay,3
+22,7,430,105,Polling,Cori Bush,22
+22,7,430,105,Polling,Demarco Davidson,1
+22,7,430,105,Polling,Joshua Shipp,4
+22,7,430,105,Polling,Lacy Clay,78
+22,6,1119,304,Total,Cori Bush,50
+22,6,1119,304,Total,Demarco Davidson,13
+22,6,1119,304,Total,Joshua Shipp,2
+22,6,1119,304,Total,Lacy Clay,239
+22,6,1119,0,House Votes,Cori Bush,0
+22,6,1119,0,House Votes,Demarco Davidson,0
+22,6,1119,0,House Votes,Joshua Shipp,0
+22,6,1119,0,House Votes,Lacy Clay,0
+22,6,1119,0,Provisional,Cori Bush,0
+22,6,1119,0,Provisional,Demarco Davidson,0
+22,6,1119,0,Provisional,Joshua Shipp,0
+22,6,1119,0,Provisional,Lacy Clay,0
+22,6,1119,27,Absentee,Cori Bush,6
+22,6,1119,27,Absentee,Demarco Davidson,1
+22,6,1119,27,Absentee,Joshua Shipp,0
+22,6,1119,27,Absentee,Lacy Clay,20
+22,6,1119,277,Polling,Cori Bush,44
+22,6,1119,277,Polling,Demarco Davidson,12
+22,6,1119,277,Polling,Joshua Shipp,2
+22,6,1119,277,Polling,Lacy Clay,219
+22,5,695,182,Total,Cori Bush,15
+22,5,695,182,Total,Demarco Davidson,3
+22,5,695,182,Total,Joshua Shipp,0
+22,5,695,182,Total,Lacy Clay,164
+22,5,695,0,House Votes,Cori Bush,0
+22,5,695,0,House Votes,Demarco Davidson,0
+22,5,695,0,House Votes,Joshua Shipp,0
+22,5,695,0,House Votes,Lacy Clay,0
+22,5,695,0,Provisional,Cori Bush,0
+22,5,695,0,Provisional,Demarco Davidson,0
+22,5,695,0,Provisional,Joshua Shipp,0
+22,5,695,0,Provisional,Lacy Clay,0
+22,5,695,16,Absentee,Cori Bush,0
+22,5,695,16,Absentee,Demarco Davidson,1
+22,5,695,16,Absentee,Joshua Shipp,0
+22,5,695,16,Absentee,Lacy Clay,15
+22,5,695,166,Polling,Cori Bush,15
+22,5,695,166,Polling,Demarco Davidson,2
+22,5,695,166,Polling,Joshua Shipp,0
+22,5,695,166,Polling,Lacy Clay,149
+22,4,766,253,Total,Cori Bush,32
+22,4,766,253,Total,Demarco Davidson,7
+22,4,766,253,Total,Joshua Shipp,2
+22,4,766,253,Total,Lacy Clay,212
+22,4,766,0,House Votes,Cori Bush,0
+22,4,766,0,House Votes,Demarco Davidson,0
+22,4,766,0,House Votes,Joshua Shipp,0
+22,4,766,0,House Votes,Lacy Clay,0
+22,4,766,1,Provisional,Cori Bush,0
+22,4,766,1,Provisional,Demarco Davidson,0
+22,4,766,1,Provisional,Joshua Shipp,0
+22,4,766,1,Provisional,Lacy Clay,1
+22,4,766,24,Absentee,Cori Bush,1
+22,4,766,24,Absentee,Demarco Davidson,1
+22,4,766,24,Absentee,Joshua Shipp,1
+22,4,766,24,Absentee,Lacy Clay,21
+22,4,766,228,Polling,Cori Bush,31
+22,4,766,228,Polling,Demarco Davidson,6
+22,4,766,228,Polling,Joshua Shipp,1
+22,4,766,228,Polling,Lacy Clay,190
+22,3,1141,304,Total,Cori Bush,39
+22,3,1141,304,Total,Demarco Davidson,16
+22,3,1141,304,Total,Joshua Shipp,4
+22,3,1141,304,Total,Lacy Clay,245
+22,3,1141,0,House Votes,Cori Bush,0
+22,3,1141,0,House Votes,Demarco Davidson,0
+22,3,1141,0,House Votes,Joshua Shipp,0
+22,3,1141,0,House Votes,Lacy Clay,0
+22,3,1141,1,Provisional,Cori Bush,0
+22,3,1141,1,Provisional,Demarco Davidson,0
+22,3,1141,1,Provisional,Joshua Shipp,0
+22,3,1141,1,Provisional,Lacy Clay,1
+22,3,1141,18,Absentee,Cori Bush,3
+22,3,1141,18,Absentee,Demarco Davidson,0
+22,3,1141,18,Absentee,Joshua Shipp,0
+22,3,1141,18,Absentee,Lacy Clay,15
+22,3,1141,285,Polling,Cori Bush,36
+22,3,1141,285,Polling,Demarco Davidson,16
+22,3,1141,285,Polling,Joshua Shipp,4
+22,3,1141,285,Polling,Lacy Clay,229
+22,2,965,242,Total,Cori Bush,47
+22,2,965,242,Total,Demarco Davidson,4
+22,2,965,242,Total,Joshua Shipp,1
+22,2,965,242,Total,Lacy Clay,190
+22,2,965,0,House Votes,Cori Bush,0
+22,2,965,0,House Votes,Demarco Davidson,0
+22,2,965,0,House Votes,Joshua Shipp,0
+22,2,965,0,House Votes,Lacy Clay,0
+22,2,965,0,Provisional,Cori Bush,0
+22,2,965,0,Provisional,Demarco Davidson,0
+22,2,965,0,Provisional,Joshua Shipp,0
+22,2,965,0,Provisional,Lacy Clay,0
+22,2,965,17,Absentee,Cori Bush,3
+22,2,965,17,Absentee,Demarco Davidson,0
+22,2,965,17,Absentee,Joshua Shipp,0
+22,2,965,17,Absentee,Lacy Clay,14
+22,2,965,225,Polling,Cori Bush,44
+22,2,965,225,Polling,Demarco Davidson,4
+22,2,965,225,Polling,Joshua Shipp,1
+22,2,965,225,Polling,Lacy Clay,176
+22,1,445,103,Total,Cori Bush,18
+22,1,445,103,Total,Demarco Davidson,2
+22,1,445,103,Total,Joshua Shipp,1
+22,1,445,103,Total,Lacy Clay,82
+22,1,445,0,House Votes,Cori Bush,0
+22,1,445,0,House Votes,Demarco Davidson,0
+22,1,445,0,House Votes,Joshua Shipp,0
+22,1,445,0,House Votes,Lacy Clay,0
+22,1,445,1,Provisional,Cori Bush,0
+22,1,445,1,Provisional,Demarco Davidson,0
+22,1,445,1,Provisional,Joshua Shipp,0
+22,1,445,1,Provisional,Lacy Clay,1
+22,1,445,1,Absentee,Cori Bush,0
+22,1,445,1,Absentee,Demarco Davidson,0
+22,1,445,1,Absentee,Joshua Shipp,0
+22,1,445,1,Absentee,Lacy Clay,1
+22,1,445,101,Polling,Cori Bush,18
+22,1,445,101,Polling,Demarco Davidson,2
+22,1,445,101,Polling,Joshua Shipp,1
+22,1,445,101,Polling,Lacy Clay,80
+21,9,782,258,Total,Cori Bush,60
+21,9,782,258,Total,Demarco Davidson,6
+21,9,782,258,Total,Joshua Shipp,2
+21,9,782,258,Total,Lacy Clay,190
+21,9,782,0,House Votes,Cori Bush,0
+21,9,782,0,House Votes,Demarco Davidson,0
+21,9,782,0,House Votes,Joshua Shipp,0
+21,9,782,0,House Votes,Lacy Clay,0
+21,9,782,0,Provisional,Cori Bush,0
+21,9,782,0,Provisional,Demarco Davidson,0
+21,9,782,0,Provisional,Joshua Shipp,0
+21,9,782,0,Provisional,Lacy Clay,0
+21,9,782,21,Absentee,Cori Bush,6
+21,9,782,21,Absentee,Demarco Davidson,0
+21,9,782,21,Absentee,Joshua Shipp,0
+21,9,782,21,Absentee,Lacy Clay,15
+21,9,782,237,Polling,Cori Bush,54
+21,9,782,237,Polling,Demarco Davidson,6
+21,9,782,237,Polling,Joshua Shipp,2
+21,9,782,237,Polling,Lacy Clay,175
+21,8,703,199,Total,Cori Bush,36
+21,8,703,199,Total,Demarco Davidson,7
+21,8,703,199,Total,Joshua Shipp,6
+21,8,703,199,Total,Lacy Clay,150
+21,8,703,0,House Votes,Cori Bush,0
+21,8,703,0,House Votes,Demarco Davidson,0
+21,8,703,0,House Votes,Joshua Shipp,0
+21,8,703,0,House Votes,Lacy Clay,0
+21,8,703,0,Provisional,Cori Bush,0
+21,8,703,0,Provisional,Demarco Davidson,0
+21,8,703,0,Provisional,Joshua Shipp,0
+21,8,703,0,Provisional,Lacy Clay,0
+21,8,703,16,Absentee,Cori Bush,2
+21,8,703,16,Absentee,Demarco Davidson,2
+21,8,703,16,Absentee,Joshua Shipp,0
+21,8,703,16,Absentee,Lacy Clay,12
+21,8,703,183,Polling,Cori Bush,34
+21,8,703,183,Polling,Demarco Davidson,5
+21,8,703,183,Polling,Joshua Shipp,6
+21,8,703,183,Polling,Lacy Clay,138
+21,7,538,157,Total,Cori Bush,28
+21,7,538,157,Total,Demarco Davidson,3
+21,7,538,157,Total,Joshua Shipp,5
+21,7,538,157,Total,Lacy Clay,121
+21,7,538,0,House Votes,Cori Bush,0
+21,7,538,0,House Votes,Demarco Davidson,0
+21,7,538,0,House Votes,Joshua Shipp,0
+21,7,538,0,House Votes,Lacy Clay,0
+21,7,538,1,Provisional,Cori Bush,0
+21,7,538,1,Provisional,Demarco Davidson,1
+21,7,538,1,Provisional,Joshua Shipp,0
+21,7,538,1,Provisional,Lacy Clay,0
+21,7,538,13,Absentee,Cori Bush,1
+21,7,538,13,Absentee,Demarco Davidson,0
+21,7,538,13,Absentee,Joshua Shipp,0
+21,7,538,13,Absentee,Lacy Clay,12
+21,7,538,143,Polling,Cori Bush,27
+21,7,538,143,Polling,Demarco Davidson,2
+21,7,538,143,Polling,Joshua Shipp,5
+21,7,538,143,Polling,Lacy Clay,109
+21,6,815,286,Total,Cori Bush,62
+21,6,815,286,Total,Demarco Davidson,8
+21,6,815,286,Total,Joshua Shipp,1
+21,6,815,286,Total,Lacy Clay,215
+21,6,815,0,House Votes,Cori Bush,0
+21,6,815,0,House Votes,Demarco Davidson,0
+21,6,815,0,House Votes,Joshua Shipp,0
+21,6,815,0,House Votes,Lacy Clay,0
+21,6,815,0,Provisional,Cori Bush,0
+21,6,815,0,Provisional,Demarco Davidson,0
+21,6,815,0,Provisional,Joshua Shipp,0
+21,6,815,0,Provisional,Lacy Clay,0
+21,6,815,21,Absentee,Cori Bush,2
+21,6,815,21,Absentee,Demarco Davidson,0
+21,6,815,21,Absentee,Joshua Shipp,0
+21,6,815,21,Absentee,Lacy Clay,19
+21,6,815,265,Polling,Cori Bush,60
+21,6,815,265,Polling,Demarco Davidson,8
+21,6,815,265,Polling,Joshua Shipp,1
+21,6,815,265,Polling,Lacy Clay,196
+21,5,760,211,Total,Cori Bush,40
+21,5,760,211,Total,Demarco Davidson,11
+21,5,760,211,Total,Joshua Shipp,5
+21,5,760,211,Total,Lacy Clay,155
+21,5,760,0,House Votes,Cori Bush,0
+21,5,760,0,House Votes,Demarco Davidson,0
+21,5,760,0,House Votes,Joshua Shipp,0
+21,5,760,0,House Votes,Lacy Clay,0
+21,5,760,0,Provisional,Cori Bush,0
+21,5,760,0,Provisional,Demarco Davidson,0
+21,5,760,0,Provisional,Joshua Shipp,0
+21,5,760,0,Provisional,Lacy Clay,0
+21,5,760,12,Absentee,Cori Bush,2
+21,5,760,12,Absentee,Demarco Davidson,0
+21,5,760,12,Absentee,Joshua Shipp,0
+21,5,760,12,Absentee,Lacy Clay,10
+21,5,760,199,Polling,Cori Bush,38
+21,5,760,199,Polling,Demarco Davidson,11
+21,5,760,199,Polling,Joshua Shipp,5
+21,5,760,199,Polling,Lacy Clay,145
+21,4,914,273,Total,Cori Bush,60
+21,4,914,273,Total,Demarco Davidson,7
+21,4,914,273,Total,Joshua Shipp,2
+21,4,914,273,Total,Lacy Clay,204
+21,4,914,0,House Votes,Cori Bush,0
+21,4,914,0,House Votes,Demarco Davidson,0
+21,4,914,0,House Votes,Joshua Shipp,0
+21,4,914,0,House Votes,Lacy Clay,0
+21,4,914,0,Provisional,Cori Bush,0
+21,4,914,0,Provisional,Demarco Davidson,0
+21,4,914,0,Provisional,Joshua Shipp,0
+21,4,914,0,Provisional,Lacy Clay,0
+21,4,914,28,Absentee,Cori Bush,4
+21,4,914,28,Absentee,Demarco Davidson,0
+21,4,914,28,Absentee,Joshua Shipp,0
+21,4,914,28,Absentee,Lacy Clay,24
+21,4,914,245,Polling,Cori Bush,56
+21,4,914,245,Polling,Demarco Davidson,7
+21,4,914,245,Polling,Joshua Shipp,2
+21,4,914,245,Polling,Lacy Clay,180
+21,3,804,201,Total,Cori Bush,33
+21,3,804,201,Total,Demarco Davidson,3
+21,3,804,201,Total,Joshua Shipp,3
+21,3,804,201,Total,Lacy Clay,162
+21,3,804,0,House Votes,Cori Bush,0
+21,3,804,0,House Votes,Demarco Davidson,0
+21,3,804,0,House Votes,Joshua Shipp,0
+21,3,804,0,House Votes,Lacy Clay,0
+21,3,804,0,Provisional,Cori Bush,0
+21,3,804,0,Provisional,Demarco Davidson,0
+21,3,804,0,Provisional,Joshua Shipp,0
+21,3,804,0,Provisional,Lacy Clay,0
+21,3,804,10,Absentee,Cori Bush,0
+21,3,804,10,Absentee,Demarco Davidson,0
+21,3,804,10,Absentee,Joshua Shipp,0
+21,3,804,10,Absentee,Lacy Clay,10
+21,3,804,191,Polling,Cori Bush,33
+21,3,804,191,Polling,Demarco Davidson,3
+21,3,804,191,Polling,Joshua Shipp,3
+21,3,804,191,Polling,Lacy Clay,152
+21,2,837,278,Total,Cori Bush,48
+21,2,837,278,Total,Demarco Davidson,6
+21,2,837,278,Total,Joshua Shipp,3
+21,2,837,278,Total,Lacy Clay,221
+21,2,837,0,House Votes,Cori Bush,0
+21,2,837,0,House Votes,Demarco Davidson,0
+21,2,837,0,House Votes,Joshua Shipp,0
+21,2,837,0,House Votes,Lacy Clay,0
+21,2,837,0,Provisional,Cori Bush,0
+21,2,837,0,Provisional,Demarco Davidson,0
+21,2,837,0,Provisional,Joshua Shipp,0
+21,2,837,0,Provisional,Lacy Clay,0
+21,2,837,20,Absentee,Cori Bush,3
+21,2,837,20,Absentee,Demarco Davidson,1
+21,2,837,20,Absentee,Joshua Shipp,0
+21,2,837,20,Absentee,Lacy Clay,16
+21,2,837,258,Polling,Cori Bush,45
+21,2,837,258,Polling,Demarco Davidson,5
+21,2,837,258,Polling,Joshua Shipp,3
+21,2,837,258,Polling,Lacy Clay,205
+21,1,571,137,Total,Cori Bush,28
+21,1,571,137,Total,Demarco Davidson,7
+21,1,571,137,Total,Joshua Shipp,1
+21,1,571,137,Total,Lacy Clay,101
+21,1,571,0,House Votes,Cori Bush,0
+21,1,571,0,House Votes,Demarco Davidson,0
+21,1,571,0,House Votes,Joshua Shipp,0
+21,1,571,0,House Votes,Lacy Clay,0
+21,1,571,0,Provisional,Cori Bush,0
+21,1,571,0,Provisional,Demarco Davidson,0
+21,1,571,0,Provisional,Joshua Shipp,0
+21,1,571,0,Provisional,Lacy Clay,0
+21,1,571,6,Absentee,Cori Bush,0
+21,1,571,6,Absentee,Demarco Davidson,0
+21,1,571,6,Absentee,Joshua Shipp,0
+21,1,571,6,Absentee,Lacy Clay,6
+21,1,571,131,Polling,Cori Bush,28
+21,1,571,131,Polling,Demarco Davidson,7
+21,1,571,131,Polling,Joshua Shipp,1
+21,1,571,131,Polling,Lacy Clay,95
+20,7,338,78,Total,Cori Bush,23
+20,7,338,78,Total,Demarco Davidson,3
+20,7,338,78,Total,Joshua Shipp,1
+20,7,338,78,Total,Lacy Clay,51
+20,7,338,0,House Votes,Cori Bush,0
+20,7,338,0,House Votes,Demarco Davidson,0
+20,7,338,0,House Votes,Joshua Shipp,0
+20,7,338,0,House Votes,Lacy Clay,0
+20,7,338,0,Provisional,Cori Bush,0
+20,7,338,0,Provisional,Demarco Davidson,0
+20,7,338,0,Provisional,Joshua Shipp,0
+20,7,338,0,Provisional,Lacy Clay,0
+20,7,338,5,Absentee,Cori Bush,2
+20,7,338,5,Absentee,Demarco Davidson,0
+20,7,338,5,Absentee,Joshua Shipp,0
+20,7,338,5,Absentee,Lacy Clay,3
+20,7,338,73,Polling,Cori Bush,21
+20,7,338,73,Polling,Demarco Davidson,3
+20,7,338,73,Polling,Joshua Shipp,1
+20,7,338,73,Polling,Lacy Clay,48
+20,6,189,37,Total,Cori Bush,13
+20,6,189,37,Total,Demarco Davidson,1
+20,6,189,37,Total,Joshua Shipp,1
+20,6,189,37,Total,Lacy Clay,22
+20,6,189,0,House Votes,Cori Bush,0
+20,6,189,0,House Votes,Demarco Davidson,0
+20,6,189,0,House Votes,Joshua Shipp,0
+20,6,189,0,House Votes,Lacy Clay,0
+20,6,189,0,Provisional,Cori Bush,0
+20,6,189,0,Provisional,Demarco Davidson,0
+20,6,189,0,Provisional,Joshua Shipp,0
+20,6,189,0,Provisional,Lacy Clay,0
+20,6,189,2,Absentee,Cori Bush,0
+20,6,189,2,Absentee,Demarco Davidson,0
+20,6,189,2,Absentee,Joshua Shipp,0
+20,6,189,2,Absentee,Lacy Clay,2
+20,6,189,35,Polling,Cori Bush,13
+20,6,189,35,Polling,Demarco Davidson,1
+20,6,189,35,Polling,Joshua Shipp,1
+20,6,189,35,Polling,Lacy Clay,20
+20,5,1119,295,Total,Cori Bush,148
+20,5,1119,295,Total,Demarco Davidson,12
+20,5,1119,295,Total,Joshua Shipp,7
+20,5,1119,295,Total,Lacy Clay,128
+20,5,1119,0,House Votes,Cori Bush,0
+20,5,1119,0,House Votes,Demarco Davidson,0
+20,5,1119,0,House Votes,Joshua Shipp,0
+20,5,1119,0,House Votes,Lacy Clay,0
+20,5,1119,0,Provisional,Cori Bush,0
+20,5,1119,0,Provisional,Demarco Davidson,0
+20,5,1119,0,Provisional,Joshua Shipp,0
+20,5,1119,0,Provisional,Lacy Clay,0
+20,5,1119,13,Absentee,Cori Bush,7
+20,5,1119,13,Absentee,Demarco Davidson,1
+20,5,1119,13,Absentee,Joshua Shipp,0
+20,5,1119,13,Absentee,Lacy Clay,5
+20,5,1119,282,Polling,Cori Bush,141
+20,5,1119,282,Polling,Demarco Davidson,11
+20,5,1119,282,Polling,Joshua Shipp,7
+20,5,1119,282,Polling,Lacy Clay,123
+20,4,620,162,Total,Cori Bush,47
+20,4,620,162,Total,Demarco Davidson,6
+20,4,620,162,Total,Joshua Shipp,5
+20,4,620,162,Total,Lacy Clay,104
+20,4,620,0,House Votes,Cori Bush,0
+20,4,620,0,House Votes,Demarco Davidson,0
+20,4,620,0,House Votes,Joshua Shipp,0
+20,4,620,0,House Votes,Lacy Clay,0
+20,4,620,0,Provisional,Cori Bush,0
+20,4,620,0,Provisional,Demarco Davidson,0
+20,4,620,0,Provisional,Joshua Shipp,0
+20,4,620,0,Provisional,Lacy Clay,0
+20,4,620,5,Absentee,Cori Bush,3
+20,4,620,5,Absentee,Demarco Davidson,0
+20,4,620,5,Absentee,Joshua Shipp,0
+20,4,620,5,Absentee,Lacy Clay,2
+20,4,620,157,Polling,Cori Bush,44
+20,4,620,157,Polling,Demarco Davidson,6
+20,4,620,157,Polling,Joshua Shipp,5
+20,4,620,157,Polling,Lacy Clay,102
+20,3,1179,293,Total,Cori Bush,116
+20,3,1179,293,Total,Demarco Davidson,14
+20,3,1179,293,Total,Joshua Shipp,6
+20,3,1179,293,Total,Lacy Clay,157
+20,3,1179,0,House Votes,Cori Bush,0
+20,3,1179,0,House Votes,Demarco Davidson,0
+20,3,1179,0,House Votes,Joshua Shipp,0
+20,3,1179,0,House Votes,Lacy Clay,0
+20,3,1179,0,Provisional,Cori Bush,0
+20,3,1179,0,Provisional,Demarco Davidson,0
+20,3,1179,0,Provisional,Joshua Shipp,0
+20,3,1179,0,Provisional,Lacy Clay,0
+20,3,1179,15,Absentee,Cori Bush,7
+20,3,1179,15,Absentee,Demarco Davidson,0
+20,3,1179,15,Absentee,Joshua Shipp,0
+20,3,1179,15,Absentee,Lacy Clay,8
+20,3,1179,278,Polling,Cori Bush,109
+20,3,1179,278,Polling,Demarco Davidson,14
+20,3,1179,278,Polling,Joshua Shipp,6
+20,3,1179,278,Polling,Lacy Clay,149
+20,2,529,127,Total,Cori Bush,38
+20,2,529,127,Total,Demarco Davidson,4
+20,2,529,127,Total,Joshua Shipp,7
+20,2,529,127,Total,Lacy Clay,78
+20,2,529,0,House Votes,Cori Bush,0
+20,2,529,0,House Votes,Demarco Davidson,0
+20,2,529,0,House Votes,Joshua Shipp,0
+20,2,529,0,House Votes,Lacy Clay,0
+20,2,529,1,Provisional,Cori Bush,0
+20,2,529,1,Provisional,Demarco Davidson,0
+20,2,529,1,Provisional,Joshua Shipp,0
+20,2,529,1,Provisional,Lacy Clay,1
+20,2,529,4,Absentee,Cori Bush,1
+20,2,529,4,Absentee,Demarco Davidson,1
+20,2,529,4,Absentee,Joshua Shipp,0
+20,2,529,4,Absentee,Lacy Clay,2
+20,2,529,122,Polling,Cori Bush,37
+20,2,529,122,Polling,Demarco Davidson,3
+20,2,529,122,Polling,Joshua Shipp,7
+20,2,529,122,Polling,Lacy Clay,75
+20,1,935,198,Total,Cori Bush,55
+20,1,935,198,Total,Demarco Davidson,8
+20,1,935,198,Total,Joshua Shipp,8
+20,1,935,198,Total,Lacy Clay,127
+20,1,935,0,House Votes,Cori Bush,0
+20,1,935,0,House Votes,Demarco Davidson,0
+20,1,935,0,House Votes,Joshua Shipp,0
+20,1,935,0,House Votes,Lacy Clay,0
+20,1,935,1,Provisional,Cori Bush,0
+20,1,935,1,Provisional,Demarco Davidson,0
+20,1,935,1,Provisional,Joshua Shipp,0
+20,1,935,1,Provisional,Lacy Clay,1
+20,1,935,5,Absentee,Cori Bush,1
+20,1,935,5,Absentee,Demarco Davidson,0
+20,1,935,5,Absentee,Joshua Shipp,0
+20,1,935,5,Absentee,Lacy Clay,4
+20,1,935,192,Polling,Cori Bush,54
+20,1,935,192,Polling,Demarco Davidson,8
+20,1,935,192,Polling,Joshua Shipp,8
+20,1,935,192,Polling,Lacy Clay,122
+19,9,511,117,Total,Cori Bush,19
+19,9,511,117,Total,Demarco Davidson,0
+19,9,511,117,Total,Joshua Shipp,3
+19,9,511,117,Total,Lacy Clay,95
+19,9,511,0,House Votes,Cori Bush,0
+19,9,511,0,House Votes,Demarco Davidson,0
+19,9,511,0,House Votes,Joshua Shipp,0
+19,9,511,0,House Votes,Lacy Clay,0
+19,9,511,0,Provisional,Cori Bush,0
+19,9,511,0,Provisional,Demarco Davidson,0
+19,9,511,0,Provisional,Joshua Shipp,0
+19,9,511,0,Provisional,Lacy Clay,0
+19,9,511,19,Absentee,Cori Bush,3
+19,9,511,19,Absentee,Demarco Davidson,0
+19,9,511,19,Absentee,Joshua Shipp,1
+19,9,511,19,Absentee,Lacy Clay,15
+19,9,511,98,Polling,Cori Bush,16
+19,9,511,98,Polling,Demarco Davidson,0
+19,9,511,98,Polling,Joshua Shipp,2
+19,9,511,98,Polling,Lacy Clay,80
+19,8,594,176,Total,Cori Bush,34
+19,8,594,176,Total,Demarco Davidson,6
+19,8,594,176,Total,Joshua Shipp,4
+19,8,594,176,Total,Lacy Clay,132
+19,8,594,0,House Votes,Cori Bush,0
+19,8,594,0,House Votes,Demarco Davidson,0
+19,8,594,0,House Votes,Joshua Shipp,0
+19,8,594,0,House Votes,Lacy Clay,0
+19,8,594,0,Provisional,Cori Bush,0
+19,8,594,0,Provisional,Demarco Davidson,0
+19,8,594,0,Provisional,Joshua Shipp,0
+19,8,594,0,Provisional,Lacy Clay,0
+19,8,594,16,Absentee,Cori Bush,3
+19,8,594,16,Absentee,Demarco Davidson,0
+19,8,594,16,Absentee,Joshua Shipp,2
+19,8,594,16,Absentee,Lacy Clay,11
+19,8,594,160,Polling,Cori Bush,31
+19,8,594,160,Polling,Demarco Davidson,6
+19,8,594,160,Polling,Joshua Shipp,2
+19,8,594,160,Polling,Lacy Clay,121
+19,7,199,49,Total,Cori Bush,21
+19,7,199,49,Total,Demarco Davidson,1
+19,7,199,49,Total,Joshua Shipp,3
+19,7,199,49,Total,Lacy Clay,24
+19,7,199,0,House Votes,Cori Bush,0
+19,7,199,0,House Votes,Demarco Davidson,0
+19,7,199,0,House Votes,Joshua Shipp,0
+19,7,199,0,House Votes,Lacy Clay,0
+19,7,199,0,Provisional,Cori Bush,0
+19,7,199,0,Provisional,Demarco Davidson,0
+19,7,199,0,Provisional,Joshua Shipp,0
+19,7,199,0,Provisional,Lacy Clay,0
+19,7,199,1,Absentee,Cori Bush,0
+19,7,199,1,Absentee,Demarco Davidson,0
+19,7,199,1,Absentee,Joshua Shipp,0
+19,7,199,1,Absentee,Lacy Clay,1
+19,7,199,48,Polling,Cori Bush,21
+19,7,199,48,Polling,Demarco Davidson,1
+19,7,199,48,Polling,Joshua Shipp,3
+19,7,199,48,Polling,Lacy Clay,23
+19,6,823,272,Total,Cori Bush,67
+19,6,823,272,Total,Demarco Davidson,11
+19,6,823,272,Total,Joshua Shipp,3
+19,6,823,272,Total,Lacy Clay,191
+19,6,823,0,House Votes,Cori Bush,0
+19,6,823,0,House Votes,Demarco Davidson,0
+19,6,823,0,House Votes,Joshua Shipp,0
+19,6,823,0,House Votes,Lacy Clay,0
+19,6,823,0,Provisional,Cori Bush,0
+19,6,823,0,Provisional,Demarco Davidson,0
+19,6,823,0,Provisional,Joshua Shipp,0
+19,6,823,0,Provisional,Lacy Clay,0
+19,6,823,22,Absentee,Cori Bush,3
+19,6,823,22,Absentee,Demarco Davidson,0
+19,6,823,22,Absentee,Joshua Shipp,0
+19,6,823,22,Absentee,Lacy Clay,19
+19,6,823,250,Polling,Cori Bush,64
+19,6,823,250,Polling,Demarco Davidson,11
+19,6,823,250,Polling,Joshua Shipp,3
+19,6,823,250,Polling,Lacy Clay,172
+19,5,984,106,Total,Cori Bush,29
+19,5,984,106,Total,Demarco Davidson,3
+19,5,984,106,Total,Joshua Shipp,0
+19,5,984,106,Total,Lacy Clay,74
+19,5,984,0,House Votes,Cori Bush,0
+19,5,984,0,House Votes,Demarco Davidson,0
+19,5,984,0,House Votes,Joshua Shipp,0
+19,5,984,0,House Votes,Lacy Clay,0
+19,5,984,0,Provisional,Cori Bush,0
+19,5,984,0,Provisional,Demarco Davidson,0
+19,5,984,0,Provisional,Joshua Shipp,0
+19,5,984,0,Provisional,Lacy Clay,0
+19,5,984,20,Absentee,Cori Bush,2
+19,5,984,20,Absentee,Demarco Davidson,1
+19,5,984,20,Absentee,Joshua Shipp,0
+19,5,984,20,Absentee,Lacy Clay,17
+19,5,984,86,Polling,Cori Bush,27
+19,5,984,86,Polling,Demarco Davidson,2
+19,5,984,86,Polling,Joshua Shipp,0
+19,5,984,86,Polling,Lacy Clay,57
+19,4,665,258,Total,Cori Bush,93
+19,4,665,258,Total,Demarco Davidson,6
+19,4,665,258,Total,Joshua Shipp,5
+19,4,665,258,Total,Lacy Clay,154
+19,4,665,0,House Votes,Cori Bush,0
+19,4,665,0,House Votes,Demarco Davidson,0
+19,4,665,0,House Votes,Joshua Shipp,0
+19,4,665,0,House Votes,Lacy Clay,0
+19,4,665,1,Provisional,Cori Bush,0
+19,4,665,1,Provisional,Demarco Davidson,0
+19,4,665,1,Provisional,Joshua Shipp,0
+19,4,665,1,Provisional,Lacy Clay,1
+19,4,665,9,Absentee,Cori Bush,2
+19,4,665,9,Absentee,Demarco Davidson,0
+19,4,665,9,Absentee,Joshua Shipp,1
+19,4,665,9,Absentee,Lacy Clay,6
+19,4,665,248,Polling,Cori Bush,91
+19,4,665,248,Polling,Demarco Davidson,6
+19,4,665,248,Polling,Joshua Shipp,4
+19,4,665,248,Polling,Lacy Clay,147
+19,3,314,82,Total,Cori Bush,10
+19,3,314,82,Total,Demarco Davidson,3
+19,3,314,82,Total,Joshua Shipp,6
+19,3,314,82,Total,Lacy Clay,63
+19,3,314,0,House Votes,Cori Bush,0
+19,3,314,0,House Votes,Demarco Davidson,0
+19,3,314,0,House Votes,Joshua Shipp,0
+19,3,314,0,House Votes,Lacy Clay,0
+19,3,314,2,Provisional,Cori Bush,0
+19,3,314,2,Provisional,Demarco Davidson,0
+19,3,314,2,Provisional,Joshua Shipp,0
+19,3,314,2,Provisional,Lacy Clay,2
+19,3,314,6,Absentee,Cori Bush,1
+19,3,314,6,Absentee,Demarco Davidson,0
+19,3,314,6,Absentee,Joshua Shipp,0
+19,3,314,6,Absentee,Lacy Clay,5
+19,3,314,74,Polling,Cori Bush,9
+19,3,314,74,Polling,Demarco Davidson,3
+19,3,314,74,Polling,Joshua Shipp,6
+19,3,314,74,Polling,Lacy Clay,56
+19,2,64,15,Total,Cori Bush,10
+19,2,64,15,Total,Demarco Davidson,0
+19,2,64,15,Total,Joshua Shipp,0
+19,2,64,15,Total,Lacy Clay,5
+19,2,64,0,House Votes,Cori Bush,0
+19,2,64,0,House Votes,Demarco Davidson,0
+19,2,64,0,House Votes,Joshua Shipp,0
+19,2,64,0,House Votes,Lacy Clay,0
+19,2,64,0,Provisional,Cori Bush,0
+19,2,64,0,Provisional,Demarco Davidson,0
+19,2,64,0,Provisional,Joshua Shipp,0
+19,2,64,0,Provisional,Lacy Clay,0
+19,2,64,3,Absentee,Cori Bush,2
+19,2,64,3,Absentee,Demarco Davidson,0
+19,2,64,3,Absentee,Joshua Shipp,0
+19,2,64,3,Absentee,Lacy Clay,1
+19,2,64,12,Polling,Cori Bush,8
+19,2,64,12,Polling,Demarco Davidson,0
+19,2,64,12,Polling,Joshua Shipp,0
+19,2,64,12,Polling,Lacy Clay,4
+19,1,1115,396,Total,Cori Bush,156
+19,1,1115,396,Total,Demarco Davidson,14
+19,1,1115,396,Total,Joshua Shipp,3
+19,1,1115,396,Total,Lacy Clay,223
+19,1,1115,0,House Votes,Cori Bush,0
+19,1,1115,0,House Votes,Demarco Davidson,0
+19,1,1115,0,House Votes,Joshua Shipp,0
+19,1,1115,0,House Votes,Lacy Clay,0
+19,1,1115,0,Provisional,Cori Bush,0
+19,1,1115,0,Provisional,Demarco Davidson,0
+19,1,1115,0,Provisional,Joshua Shipp,0
+19,1,1115,0,Provisional,Lacy Clay,0
+19,1,1115,22,Absentee,Cori Bush,10
+19,1,1115,22,Absentee,Demarco Davidson,1
+19,1,1115,22,Absentee,Joshua Shipp,0
+19,1,1115,22,Absentee,Lacy Clay,11
+19,1,1115,374,Polling,Cori Bush,146
+19,1,1115,374,Polling,Demarco Davidson,13
+19,1,1115,374,Polling,Joshua Shipp,3
+19,1,1115,374,Polling,Lacy Clay,212
+18,6,961,262,Total,Cori Bush,54
+18,6,961,262,Total,Demarco Davidson,6
+18,6,961,262,Total,Joshua Shipp,0
+18,6,961,262,Total,Lacy Clay,202
+18,6,961,1,House Votes,Cori Bush,0
+18,6,961,1,House Votes,Demarco Davidson,0
+18,6,961,1,House Votes,Joshua Shipp,0
+18,6,961,1,House Votes,Lacy Clay,1
+18,6,961,0,Provisional,Cori Bush,0
+18,6,961,0,Provisional,Demarco Davidson,0
+18,6,961,0,Provisional,Joshua Shipp,0
+18,6,961,0,Provisional,Lacy Clay,0
+18,6,961,23,Absentee,Cori Bush,1
+18,6,961,23,Absentee,Demarco Davidson,1
+18,6,961,23,Absentee,Joshua Shipp,0
+18,6,961,23,Absentee,Lacy Clay,21
+18,6,961,238,Polling,Cori Bush,53
+18,6,961,238,Polling,Demarco Davidson,5
+18,6,961,238,Polling,Joshua Shipp,0
+18,6,961,238,Polling,Lacy Clay,180
+18,5,909,333,Total,Cori Bush,74
+18,5,909,333,Total,Demarco Davidson,6
+18,5,909,333,Total,Joshua Shipp,3
+18,5,909,333,Total,Lacy Clay,250
+18,5,909,0,House Votes,Cori Bush,0
+18,5,909,0,House Votes,Demarco Davidson,0
+18,5,909,0,House Votes,Joshua Shipp,0
+18,5,909,0,House Votes,Lacy Clay,0
+18,5,909,0,Provisional,Cori Bush,0
+18,5,909,0,Provisional,Demarco Davidson,0
+18,5,909,0,Provisional,Joshua Shipp,0
+18,5,909,0,Provisional,Lacy Clay,0
+18,5,909,53,Absentee,Cori Bush,9
+18,5,909,53,Absentee,Demarco Davidson,2
+18,5,909,53,Absentee,Joshua Shipp,2
+18,5,909,53,Absentee,Lacy Clay,40
+18,5,909,280,Polling,Cori Bush,65
+18,5,909,280,Polling,Demarco Davidson,4
+18,5,909,280,Polling,Joshua Shipp,1
+18,5,909,280,Polling,Lacy Clay,210
+18,4,918,280,Total,Cori Bush,58
+18,4,918,280,Total,Demarco Davidson,7
+18,4,918,280,Total,Joshua Shipp,1
+18,4,918,280,Total,Lacy Clay,214
+18,4,918,0,House Votes,Cori Bush,0
+18,4,918,0,House Votes,Demarco Davidson,0
+18,4,918,0,House Votes,Joshua Shipp,0
+18,4,918,0,House Votes,Lacy Clay,0
+18,4,918,0,Provisional,Cori Bush,0
+18,4,918,0,Provisional,Demarco Davidson,0
+18,4,918,0,Provisional,Joshua Shipp,0
+18,4,918,0,Provisional,Lacy Clay,0
+18,4,918,14,Absentee,Cori Bush,0
+18,4,918,14,Absentee,Demarco Davidson,1
+18,4,918,14,Absentee,Joshua Shipp,0
+18,4,918,14,Absentee,Lacy Clay,13
+18,4,918,266,Polling,Cori Bush,58
+18,4,918,266,Polling,Demarco Davidson,6
+18,4,918,266,Polling,Joshua Shipp,1
+18,4,918,266,Polling,Lacy Clay,201
+18,3,234,56,Total,Cori Bush,7
+18,3,234,56,Total,Demarco Davidson,3
+18,3,234,56,Total,Joshua Shipp,0
+18,3,234,56,Total,Lacy Clay,46
+18,3,234,0,House Votes,Cori Bush,0
+18,3,234,0,House Votes,Demarco Davidson,0
+18,3,234,0,House Votes,Joshua Shipp,0
+18,3,234,0,House Votes,Lacy Clay,0
+18,3,234,0,Provisional,Cori Bush,0
+18,3,234,0,Provisional,Demarco Davidson,0
+18,3,234,0,Provisional,Joshua Shipp,0
+18,3,234,0,Provisional,Lacy Clay,0
+18,3,234,2,Absentee,Cori Bush,1
+18,3,234,2,Absentee,Demarco Davidson,0
+18,3,234,2,Absentee,Joshua Shipp,0
+18,3,234,2,Absentee,Lacy Clay,1
+18,3,234,54,Polling,Cori Bush,6
+18,3,234,54,Polling,Demarco Davidson,3
+18,3,234,54,Polling,Joshua Shipp,0
+18,3,234,54,Polling,Lacy Clay,45
+18,2,1046,313,Total,Cori Bush,91
+18,2,1046,313,Total,Demarco Davidson,3
+18,2,1046,313,Total,Joshua Shipp,7
+18,2,1046,313,Total,Lacy Clay,212
+18,2,1046,1,House Votes,Cori Bush,1
+18,2,1046,1,House Votes,Demarco Davidson,0
+18,2,1046,1,House Votes,Joshua Shipp,0
+18,2,1046,1,House Votes,Lacy Clay,0
+18,2,1046,0,Provisional,Cori Bush,0
+18,2,1046,0,Provisional,Demarco Davidson,0
+18,2,1046,0,Provisional,Joshua Shipp,0
+18,2,1046,0,Provisional,Lacy Clay,0
+18,2,1046,15,Absentee,Cori Bush,0
+18,2,1046,15,Absentee,Demarco Davidson,0
+18,2,1046,15,Absentee,Joshua Shipp,1
+18,2,1046,15,Absentee,Lacy Clay,14
+18,2,1046,297,Polling,Cori Bush,90
+18,2,1046,297,Polling,Demarco Davidson,3
+18,2,1046,297,Polling,Joshua Shipp,6
+18,2,1046,297,Polling,Lacy Clay,198
+18,1,1362,479,Total,Cori Bush,180
+18,1,1362,479,Total,Demarco Davidson,10
+18,1,1362,479,Total,Joshua Shipp,10
+18,1,1362,479,Total,Lacy Clay,279
+18,1,1362,0,House Votes,Cori Bush,0
+18,1,1362,0,House Votes,Demarco Davidson,0
+18,1,1362,0,House Votes,Joshua Shipp,0
+18,1,1362,0,House Votes,Lacy Clay,0
+18,1,1362,1,Provisional,Cori Bush,0
+18,1,1362,1,Provisional,Demarco Davidson,0
+18,1,1362,1,Provisional,Joshua Shipp,0
+18,1,1362,1,Provisional,Lacy Clay,1
+18,1,1362,49,Absentee,Cori Bush,8
+18,1,1362,49,Absentee,Demarco Davidson,0
+18,1,1362,49,Absentee,Joshua Shipp,1
+18,1,1362,49,Absentee,Lacy Clay,40
+18,1,1362,429,Polling,Cori Bush,172
+18,1,1362,429,Polling,Demarco Davidson,10
+18,1,1362,429,Polling,Joshua Shipp,9
+18,1,1362,429,Polling,Lacy Clay,238
+17,8,1084,324,Total,Cori Bush,163
+17,8,1084,324,Total,Demarco Davidson,5
+17,8,1084,324,Total,Joshua Shipp,4
+17,8,1084,324,Total,Lacy Clay,152
+17,8,1084,0,House Votes,Cori Bush,0
+17,8,1084,0,House Votes,Demarco Davidson,0
+17,8,1084,0,House Votes,Joshua Shipp,0
+17,8,1084,0,House Votes,Lacy Clay,0
+17,8,1084,0,Provisional,Cori Bush,0
+17,8,1084,0,Provisional,Demarco Davidson,0
+17,8,1084,0,Provisional,Joshua Shipp,0
+17,8,1084,0,Provisional,Lacy Clay,0
+17,8,1084,31,Absentee,Cori Bush,12
+17,8,1084,31,Absentee,Demarco Davidson,1
+17,8,1084,31,Absentee,Joshua Shipp,1
+17,8,1084,31,Absentee,Lacy Clay,17
+17,8,1084,293,Polling,Cori Bush,151
+17,8,1084,293,Polling,Demarco Davidson,4
+17,8,1084,293,Polling,Joshua Shipp,3
+17,8,1084,293,Polling,Lacy Clay,135
+17,7,32,8,Total,Cori Bush,4
+17,7,32,8,Total,Demarco Davidson,0
+17,7,32,8,Total,Joshua Shipp,0
+17,7,32,8,Total,Lacy Clay,4
+17,7,32,0,House Votes,Cori Bush,0
+17,7,32,0,House Votes,Demarco Davidson,0
+17,7,32,0,House Votes,Joshua Shipp,0
+17,7,32,0,House Votes,Lacy Clay,0
+17,7,32,0,Provisional,Cori Bush,0
+17,7,32,0,Provisional,Demarco Davidson,0
+17,7,32,0,Provisional,Joshua Shipp,0
+17,7,32,0,Provisional,Lacy Clay,0
+17,7,32,0,Absentee,Cori Bush,0
+17,7,32,0,Absentee,Demarco Davidson,0
+17,7,32,0,Absentee,Joshua Shipp,0
+17,7,32,0,Absentee,Lacy Clay,0
+17,7,32,8,Polling,Cori Bush,4
+17,7,32,8,Polling,Demarco Davidson,0
+17,7,32,8,Polling,Joshua Shipp,0
+17,7,32,8,Polling,Lacy Clay,4
+17,6,1414,491,Total,Cori Bush,262
+17,6,1414,491,Total,Demarco Davidson,10
+17,6,1414,491,Total,Joshua Shipp,6
+17,6,1414,491,Total,Lacy Clay,213
+17,6,1414,0,House Votes,Cori Bush,0
+17,6,1414,0,House Votes,Demarco Davidson,0
+17,6,1414,0,House Votes,Joshua Shipp,0
+17,6,1414,0,House Votes,Lacy Clay,0
+17,6,1414,0,Provisional,Cori Bush,0
+17,6,1414,0,Provisional,Demarco Davidson,0
+17,6,1414,0,Provisional,Joshua Shipp,0
+17,6,1414,0,Provisional,Lacy Clay,0
+17,6,1414,51,Absentee,Cori Bush,24
+17,6,1414,51,Absentee,Demarco Davidson,0
+17,6,1414,51,Absentee,Joshua Shipp,1
+17,6,1414,51,Absentee,Lacy Clay,26
+17,6,1414,440,Polling,Cori Bush,238
+17,6,1414,440,Polling,Demarco Davidson,10
+17,6,1414,440,Polling,Joshua Shipp,5
+17,6,1414,440,Polling,Lacy Clay,187
+17,5,1873,646,Total,Cori Bush,322
+17,5,1873,646,Total,Demarco Davidson,5
+17,5,1873,646,Total,Joshua Shipp,8
+17,5,1873,646,Total,Lacy Clay,311
+17,5,1873,0,House Votes,Cori Bush,0
+17,5,1873,0,House Votes,Demarco Davidson,0
+17,5,1873,0,House Votes,Joshua Shipp,0
+17,5,1873,0,House Votes,Lacy Clay,0
+17,5,1873,0,Provisional,Cori Bush,0
+17,5,1873,0,Provisional,Demarco Davidson,0
+17,5,1873,0,Provisional,Joshua Shipp,0
+17,5,1873,0,Provisional,Lacy Clay,0
+17,5,1873,55,Absentee,Cori Bush,20
+17,5,1873,55,Absentee,Demarco Davidson,0
+17,5,1873,55,Absentee,Joshua Shipp,1
+17,5,1873,55,Absentee,Lacy Clay,34
+17,5,1873,591,Polling,Cori Bush,302
+17,5,1873,591,Polling,Demarco Davidson,5
+17,5,1873,591,Polling,Joshua Shipp,7
+17,5,1873,591,Polling,Lacy Clay,277
+17,4,1038,284,Total,Cori Bush,135
+17,4,1038,284,Total,Demarco Davidson,5
+17,4,1038,284,Total,Joshua Shipp,5
+17,4,1038,284,Total,Lacy Clay,139
+17,4,1038,0,House Votes,Cori Bush,0
+17,4,1038,0,House Votes,Demarco Davidson,0
+17,4,1038,0,House Votes,Joshua Shipp,0
+17,4,1038,0,House Votes,Lacy Clay,0
+17,4,1038,0,Provisional,Cori Bush,0
+17,4,1038,0,Provisional,Demarco Davidson,0
+17,4,1038,0,Provisional,Joshua Shipp,0
+17,4,1038,0,Provisional,Lacy Clay,0
+17,4,1038,28,Absentee,Cori Bush,11
+17,4,1038,28,Absentee,Demarco Davidson,1
+17,4,1038,28,Absentee,Joshua Shipp,2
+17,4,1038,28,Absentee,Lacy Clay,14
+17,4,1038,256,Polling,Cori Bush,124
+17,4,1038,256,Polling,Demarco Davidson,4
+17,4,1038,256,Polling,Joshua Shipp,3
+17,4,1038,256,Polling,Lacy Clay,125
+17,3,57,11,Total,Cori Bush,7
+17,3,57,11,Total,Demarco Davidson,1
+17,3,57,11,Total,Joshua Shipp,0
+17,3,57,11,Total,Lacy Clay,3
+17,3,57,0,House Votes,Cori Bush,0
+17,3,57,0,House Votes,Demarco Davidson,0
+17,3,57,0,House Votes,Joshua Shipp,0
+17,3,57,0,House Votes,Lacy Clay,0
+17,3,57,0,Provisional,Cori Bush,0
+17,3,57,0,Provisional,Demarco Davidson,0
+17,3,57,0,Provisional,Joshua Shipp,0
+17,3,57,0,Provisional,Lacy Clay,0
+17,3,57,2,Absentee,Cori Bush,2
+17,3,57,2,Absentee,Demarco Davidson,0
+17,3,57,2,Absentee,Joshua Shipp,0
+17,3,57,2,Absentee,Lacy Clay,0
+17,3,57,9,Polling,Cori Bush,5
+17,3,57,9,Polling,Demarco Davidson,1
+17,3,57,9,Polling,Joshua Shipp,0
+17,3,57,9,Polling,Lacy Clay,3
+17,2,537,166,Total,Cori Bush,103
+17,2,537,166,Total,Demarco Davidson,1
+17,2,537,166,Total,Joshua Shipp,4
+17,2,537,166,Total,Lacy Clay,58
+17,2,537,0,House Votes,Cori Bush,0
+17,2,537,0,House Votes,Demarco Davidson,0
+17,2,537,0,House Votes,Joshua Shipp,0
+17,2,537,0,House Votes,Lacy Clay,0
+17,2,537,0,Provisional,Cori Bush,0
+17,2,537,0,Provisional,Demarco Davidson,0
+17,2,537,0,Provisional,Joshua Shipp,0
+17,2,537,0,Provisional,Lacy Clay,0
+17,2,537,13,Absentee,Cori Bush,4
+17,2,537,13,Absentee,Demarco Davidson,0
+17,2,537,13,Absentee,Joshua Shipp,0
+17,2,537,13,Absentee,Lacy Clay,9
+17,2,537,153,Polling,Cori Bush,99
+17,2,537,153,Polling,Demarco Davidson,1
+17,2,537,153,Polling,Joshua Shipp,4
+17,2,537,153,Polling,Lacy Clay,49
+17,1,641,245,Total,Cori Bush,122
+17,1,641,245,Total,Demarco Davidson,8
+17,1,641,245,Total,Joshua Shipp,4
+17,1,641,245,Total,Lacy Clay,111
+17,1,641,0,House Votes,Cori Bush,0
+17,1,641,0,House Votes,Demarco Davidson,0
+17,1,641,0,House Votes,Joshua Shipp,0
+17,1,641,0,House Votes,Lacy Clay,0
+17,1,641,0,Provisional,Cori Bush,0
+17,1,641,0,Provisional,Demarco Davidson,0
+17,1,641,0,Provisional,Joshua Shipp,0
+17,1,641,0,Provisional,Lacy Clay,0
+17,1,641,10,Absentee,Cori Bush,4
+17,1,641,10,Absentee,Demarco Davidson,0
+17,1,641,10,Absentee,Joshua Shipp,0
+17,1,641,10,Absentee,Lacy Clay,6
+17,1,641,235,Polling,Cori Bush,118
+17,1,641,235,Polling,Demarco Davidson,8
+17,1,641,235,Polling,Joshua Shipp,4
+17,1,641,235,Polling,Lacy Clay,105
+16,8,470,137,Total,Cori Bush,56
+16,8,470,137,Total,Demarco Davidson,3
+16,8,470,137,Total,Joshua Shipp,5
+16,8,470,137,Total,Lacy Clay,73
+16,8,470,0,House Votes,Cori Bush,0
+16,8,470,0,House Votes,Demarco Davidson,0
+16,8,470,0,House Votes,Joshua Shipp,0
+16,8,470,0,House Votes,Lacy Clay,0
+16,8,470,0,Provisional,Cori Bush,0
+16,8,470,0,Provisional,Demarco Davidson,0
+16,8,470,0,Provisional,Joshua Shipp,0
+16,8,470,0,Provisional,Lacy Clay,0
+16,8,470,9,Absentee,Cori Bush,1
+16,8,470,9,Absentee,Demarco Davidson,1
+16,8,470,9,Absentee,Joshua Shipp,0
+16,8,470,9,Absentee,Lacy Clay,7
+16,8,470,128,Polling,Cori Bush,55
+16,8,470,128,Polling,Demarco Davidson,2
+16,8,470,128,Polling,Joshua Shipp,5
+16,8,470,128,Polling,Lacy Clay,66
+16,7,973,372,Total,Cori Bush,176
+16,7,973,372,Total,Demarco Davidson,10
+16,7,973,372,Total,Joshua Shipp,19
+16,7,973,372,Total,Lacy Clay,167
+16,7,973,0,House Votes,Cori Bush,0
+16,7,973,0,House Votes,Demarco Davidson,0
+16,7,973,0,House Votes,Joshua Shipp,0
+16,7,973,0,House Votes,Lacy Clay,0
+16,7,973,0,Provisional,Cori Bush,0
+16,7,973,0,Provisional,Demarco Davidson,0
+16,7,973,0,Provisional,Joshua Shipp,0
+16,7,973,0,Provisional,Lacy Clay,0
+16,7,973,16,Absentee,Cori Bush,7
+16,7,973,16,Absentee,Demarco Davidson,0
+16,7,973,16,Absentee,Joshua Shipp,1
+16,7,973,16,Absentee,Lacy Clay,8
+16,7,973,356,Polling,Cori Bush,169
+16,7,973,356,Polling,Demarco Davidson,10
+16,7,973,356,Polling,Joshua Shipp,18
+16,7,973,356,Polling,Lacy Clay,159
+16,6,988,421,Total,Cori Bush,184
+16,6,988,421,Total,Demarco Davidson,7
+16,6,988,421,Total,Joshua Shipp,22
+16,6,988,421,Total,Lacy Clay,208
+16,6,988,0,House Votes,Cori Bush,0
+16,6,988,0,House Votes,Demarco Davidson,0
+16,6,988,0,House Votes,Joshua Shipp,0
+16,6,988,0,House Votes,Lacy Clay,0
+16,6,988,0,Provisional,Cori Bush,0
+16,6,988,0,Provisional,Demarco Davidson,0
+16,6,988,0,Provisional,Joshua Shipp,0
+16,6,988,0,Provisional,Lacy Clay,0
+16,6,988,28,Absentee,Cori Bush,8
+16,6,988,28,Absentee,Demarco Davidson,1
+16,6,988,28,Absentee,Joshua Shipp,0
+16,6,988,28,Absentee,Lacy Clay,19
+16,6,988,393,Polling,Cori Bush,176
+16,6,988,393,Polling,Demarco Davidson,6
+16,6,988,393,Polling,Joshua Shipp,22
+16,6,988,393,Polling,Lacy Clay,189
+16,5,1187,419,Total,Cori Bush,187
+16,5,1187,419,Total,Demarco Davidson,2
+16,5,1187,419,Total,Joshua Shipp,25
+16,5,1187,419,Total,Lacy Clay,205
+16,5,1187,0,House Votes,Cori Bush,0
+16,5,1187,0,House Votes,Demarco Davidson,0
+16,5,1187,0,House Votes,Joshua Shipp,0
+16,5,1187,0,House Votes,Lacy Clay,0
+16,5,1187,0,Provisional,Cori Bush,0
+16,5,1187,0,Provisional,Demarco Davidson,0
+16,5,1187,0,Provisional,Joshua Shipp,0
+16,5,1187,0,Provisional,Lacy Clay,0
+16,5,1187,11,Absentee,Cori Bush,6
+16,5,1187,11,Absentee,Demarco Davidson,0
+16,5,1187,11,Absentee,Joshua Shipp,0
+16,5,1187,11,Absentee,Lacy Clay,5
+16,5,1187,408,Polling,Cori Bush,181
+16,5,1187,408,Polling,Demarco Davidson,2
+16,5,1187,408,Polling,Joshua Shipp,25
+16,5,1187,408,Polling,Lacy Clay,200
+16,4,1228,443,Total,Cori Bush,179
+16,4,1228,443,Total,Demarco Davidson,12
+16,4,1228,443,Total,Joshua Shipp,28
+16,4,1228,443,Total,Lacy Clay,224
+16,4,1228,0,House Votes,Cori Bush,0
+16,4,1228,0,House Votes,Demarco Davidson,0
+16,4,1228,0,House Votes,Joshua Shipp,0
+16,4,1228,0,House Votes,Lacy Clay,0
+16,4,1228,0,Provisional,Cori Bush,0
+16,4,1228,0,Provisional,Demarco Davidson,0
+16,4,1228,0,Provisional,Joshua Shipp,0
+16,4,1228,0,Provisional,Lacy Clay,0
+16,4,1228,20,Absentee,Cori Bush,4
+16,4,1228,20,Absentee,Demarco Davidson,2
+16,4,1228,20,Absentee,Joshua Shipp,2
+16,4,1228,20,Absentee,Lacy Clay,12
+16,4,1228,423,Polling,Cori Bush,175
+16,4,1228,423,Polling,Demarco Davidson,10
+16,4,1228,423,Polling,Joshua Shipp,26
+16,4,1228,423,Polling,Lacy Clay,212
+16,3,1167,471,Total,Cori Bush,242
+16,3,1167,471,Total,Demarco Davidson,7
+16,3,1167,471,Total,Joshua Shipp,24
+16,3,1167,471,Total,Lacy Clay,198
+16,3,1167,0,House Votes,Cori Bush,0
+16,3,1167,0,House Votes,Demarco Davidson,0
+16,3,1167,0,House Votes,Joshua Shipp,0
+16,3,1167,0,House Votes,Lacy Clay,0
+16,3,1167,0,Provisional,Cori Bush,0
+16,3,1167,0,Provisional,Demarco Davidson,0
+16,3,1167,0,Provisional,Joshua Shipp,0
+16,3,1167,0,Provisional,Lacy Clay,0
+16,3,1167,12,Absentee,Cori Bush,9
+16,3,1167,12,Absentee,Demarco Davidson,0
+16,3,1167,12,Absentee,Joshua Shipp,1
+16,3,1167,12,Absentee,Lacy Clay,2
+16,3,1167,459,Polling,Cori Bush,233
+16,3,1167,459,Polling,Demarco Davidson,7
+16,3,1167,459,Polling,Joshua Shipp,23
+16,3,1167,459,Polling,Lacy Clay,196
+16,2,1189,481,Total,Cori Bush,207
+16,2,1189,481,Total,Demarco Davidson,12
+16,2,1189,481,Total,Joshua Shipp,31
+16,2,1189,481,Total,Lacy Clay,231
+16,2,1189,1,House Votes,Cori Bush,1
+16,2,1189,1,House Votes,Demarco Davidson,0
+16,2,1189,1,House Votes,Joshua Shipp,0
+16,2,1189,1,House Votes,Lacy Clay,0
+16,2,1189,0,Provisional,Cori Bush,0
+16,2,1189,0,Provisional,Demarco Davidson,0
+16,2,1189,0,Provisional,Joshua Shipp,0
+16,2,1189,0,Provisional,Lacy Clay,0
+16,2,1189,24,Absentee,Cori Bush,8
+16,2,1189,24,Absentee,Demarco Davidson,2
+16,2,1189,24,Absentee,Joshua Shipp,2
+16,2,1189,24,Absentee,Lacy Clay,12
+16,2,1189,456,Polling,Cori Bush,198
+16,2,1189,456,Polling,Demarco Davidson,10
+16,2,1189,456,Polling,Joshua Shipp,29
+16,2,1189,456,Polling,Lacy Clay,219
+16,1,1064,375,Total,Cori Bush,157
+16,1,1064,375,Total,Demarco Davidson,13
+16,1,1064,375,Total,Joshua Shipp,35
+16,1,1064,375,Total,Lacy Clay,170
+16,1,1064,0,House Votes,Cori Bush,0
+16,1,1064,0,House Votes,Demarco Davidson,0
+16,1,1064,0,House Votes,Joshua Shipp,0
+16,1,1064,0,House Votes,Lacy Clay,0
+16,1,1064,0,Provisional,Cori Bush,0
+16,1,1064,0,Provisional,Demarco Davidson,0
+16,1,1064,0,Provisional,Joshua Shipp,0
+16,1,1064,0,Provisional,Lacy Clay,0
+16,1,1064,23,Absentee,Cori Bush,8
+16,1,1064,23,Absentee,Demarco Davidson,0
+16,1,1064,23,Absentee,Joshua Shipp,3
+16,1,1064,23,Absentee,Lacy Clay,12
+16,1,1064,352,Polling,Cori Bush,149
+16,1,1064,352,Polling,Demarco Davidson,13
+16,1,1064,352,Polling,Joshua Shipp,32
+16,1,1064,352,Polling,Lacy Clay,158
+15,7,4,2,Total,Cori Bush,1
+15,7,4,2,Total,Demarco Davidson,0
+15,7,4,2,Total,Joshua Shipp,0
+15,7,4,2,Total,Lacy Clay,1
+15,7,4,0,House Votes,Cori Bush,0
+15,7,4,0,House Votes,Demarco Davidson,0
+15,7,4,0,House Votes,Joshua Shipp,0
+15,7,4,0,House Votes,Lacy Clay,0
+15,7,4,0,Provisional,Cori Bush,0
+15,7,4,0,Provisional,Demarco Davidson,0
+15,7,4,0,Provisional,Joshua Shipp,0
+15,7,4,0,Provisional,Lacy Clay,0
+15,7,4,0,Absentee,Cori Bush,0
+15,7,4,0,Absentee,Demarco Davidson,0
+15,7,4,0,Absentee,Joshua Shipp,0
+15,7,4,0,Absentee,Lacy Clay,0
+15,7,4,2,Polling,Cori Bush,1
+15,7,4,2,Polling,Demarco Davidson,0
+15,7,4,2,Polling,Joshua Shipp,0
+15,7,4,2,Polling,Lacy Clay,1
+15,6,643,167,Total,Cori Bush,84
+15,6,643,167,Total,Demarco Davidson,1
+15,6,643,167,Total,Joshua Shipp,10
+15,6,643,167,Total,Lacy Clay,72
+15,6,643,0,House Votes,Cori Bush,0
+15,6,643,0,House Votes,Demarco Davidson,0
+15,6,643,0,House Votes,Joshua Shipp,0
+15,6,643,0,House Votes,Lacy Clay,0
+15,6,643,0,Provisional,Cori Bush,0
+15,6,643,0,Provisional,Demarco Davidson,0
+15,6,643,0,Provisional,Joshua Shipp,0
+15,6,643,0,Provisional,Lacy Clay,0
+15,6,643,3,Absentee,Cori Bush,1
+15,6,643,3,Absentee,Demarco Davidson,0
+15,6,643,3,Absentee,Joshua Shipp,0
+15,6,643,3,Absentee,Lacy Clay,2
+15,6,643,164,Polling,Cori Bush,83
+15,6,643,164,Polling,Demarco Davidson,1
+15,6,643,164,Polling,Joshua Shipp,10
+15,6,643,164,Polling,Lacy Clay,70
+15,5,1201,493,Total,Cori Bush,337
+15,5,1201,493,Total,Demarco Davidson,11
+15,5,1201,493,Total,Joshua Shipp,11
+15,5,1201,493,Total,Lacy Clay,134
+15,5,1201,0,House Votes,Cori Bush,0
+15,5,1201,0,House Votes,Demarco Davidson,0
+15,5,1201,0,House Votes,Joshua Shipp,0
+15,5,1201,0,House Votes,Lacy Clay,0
+15,5,1201,1,Provisional,Cori Bush,1
+15,5,1201,1,Provisional,Demarco Davidson,0
+15,5,1201,1,Provisional,Joshua Shipp,0
+15,5,1201,1,Provisional,Lacy Clay,0
+15,5,1201,13,Absentee,Cori Bush,4
+15,5,1201,13,Absentee,Demarco Davidson,1
+15,5,1201,13,Absentee,Joshua Shipp,2
+15,5,1201,13,Absentee,Lacy Clay,6
+15,5,1201,479,Polling,Cori Bush,332
+15,5,1201,479,Polling,Demarco Davidson,10
+15,5,1201,479,Polling,Joshua Shipp,9
+15,5,1201,479,Polling,Lacy Clay,128
+15,4,853,238,Total,Cori Bush,140
+15,4,853,238,Total,Demarco Davidson,6
+15,4,853,238,Total,Joshua Shipp,5
+15,4,853,238,Total,Lacy Clay,87
+15,4,853,0,House Votes,Cori Bush,0
+15,4,853,0,House Votes,Demarco Davidson,0
+15,4,853,0,House Votes,Joshua Shipp,0
+15,4,853,0,House Votes,Lacy Clay,0
+15,4,853,0,Provisional,Cori Bush,0
+15,4,853,0,Provisional,Demarco Davidson,0
+15,4,853,0,Provisional,Joshua Shipp,0
+15,4,853,0,Provisional,Lacy Clay,0
+15,4,853,3,Absentee,Cori Bush,0
+15,4,853,3,Absentee,Demarco Davidson,0
+15,4,853,3,Absentee,Joshua Shipp,0
+15,4,853,3,Absentee,Lacy Clay,3
+15,4,853,235,Polling,Cori Bush,140
+15,4,853,235,Polling,Demarco Davidson,6
+15,4,853,235,Polling,Joshua Shipp,5
+15,4,853,235,Polling,Lacy Clay,84
+15,3,1615,732,Total,Cori Bush,541
+15,3,1615,732,Total,Demarco Davidson,5
+15,3,1615,732,Total,Joshua Shipp,20
+15,3,1615,732,Total,Lacy Clay,166
+15,3,1615,0,House Votes,Cori Bush,0
+15,3,1615,0,House Votes,Demarco Davidson,0
+15,3,1615,0,House Votes,Joshua Shipp,0
+15,3,1615,0,House Votes,Lacy Clay,0
+15,3,1615,0,Provisional,Cori Bush,0
+15,3,1615,0,Provisional,Demarco Davidson,0
+15,3,1615,0,Provisional,Joshua Shipp,0
+15,3,1615,0,Provisional,Lacy Clay,0
+15,3,1615,32,Absentee,Cori Bush,18
+15,3,1615,32,Absentee,Demarco Davidson,0
+15,3,1615,32,Absentee,Joshua Shipp,0
+15,3,1615,32,Absentee,Lacy Clay,14
+15,3,1615,700,Polling,Cori Bush,523
+15,3,1615,700,Polling,Demarco Davidson,5
+15,3,1615,700,Polling,Joshua Shipp,20
+15,3,1615,700,Polling,Lacy Clay,152
+15,2,1431,686,Total,Cori Bush,530
+15,2,1431,686,Total,Demarco Davidson,4
+15,2,1431,686,Total,Joshua Shipp,11
+15,2,1431,686,Total,Lacy Clay,141
+15,2,1431,0,House Votes,Cori Bush,0
+15,2,1431,0,House Votes,Demarco Davidson,0
+15,2,1431,0,House Votes,Joshua Shipp,0
+15,2,1431,0,House Votes,Lacy Clay,0
+15,2,1431,0,Provisional,Cori Bush,0
+15,2,1431,0,Provisional,Demarco Davidson,0
+15,2,1431,0,Provisional,Joshua Shipp,0
+15,2,1431,0,Provisional,Lacy Clay,0
+15,2,1431,37,Absentee,Cori Bush,23
+15,2,1431,37,Absentee,Demarco Davidson,1
+15,2,1431,37,Absentee,Joshua Shipp,1
+15,2,1431,37,Absentee,Lacy Clay,12
+15,2,1431,649,Polling,Cori Bush,507
+15,2,1431,649,Polling,Demarco Davidson,3
+15,2,1431,649,Polling,Joshua Shipp,10
+15,2,1431,649,Polling,Lacy Clay,129
+15,1,1178,523,Total,Cori Bush,416
+15,1,1178,523,Total,Demarco Davidson,3
+15,1,1178,523,Total,Joshua Shipp,7
+15,1,1178,523,Total,Lacy Clay,97
+15,1,1178,0,House Votes,Cori Bush,0
+15,1,1178,0,House Votes,Demarco Davidson,0
+15,1,1178,0,House Votes,Joshua Shipp,0
+15,1,1178,0,House Votes,Lacy Clay,0
+15,1,1178,2,Provisional,Cori Bush,2
+15,1,1178,2,Provisional,Demarco Davidson,0
+15,1,1178,2,Provisional,Joshua Shipp,0
+15,1,1178,2,Provisional,Lacy Clay,0
+15,1,1178,25,Absentee,Cori Bush,15
+15,1,1178,25,Absentee,Demarco Davidson,0
+15,1,1178,25,Absentee,Joshua Shipp,1
+15,1,1178,25,Absentee,Lacy Clay,9
+15,1,1178,496,Polling,Cori Bush,399
+15,1,1178,496,Polling,Demarco Davidson,3
+15,1,1178,496,Polling,Joshua Shipp,6
+15,1,1178,496,Polling,Lacy Clay,88
+14,9,346,86,Total,Cori Bush,35
+14,9,346,86,Total,Demarco Davidson,7
+14,9,346,86,Total,Joshua Shipp,5
+14,9,346,86,Total,Lacy Clay,39
+14,9,346,0,House Votes,Cori Bush,0
+14,9,346,0,House Votes,Demarco Davidson,0
+14,9,346,0,House Votes,Joshua Shipp,0
+14,9,346,0,House Votes,Lacy Clay,0
+14,9,346,0,Provisional,Cori Bush,0
+14,9,346,0,Provisional,Demarco Davidson,0
+14,9,346,0,Provisional,Joshua Shipp,0
+14,9,346,0,Provisional,Lacy Clay,0
+14,9,346,12,Absentee,Cori Bush,4
+14,9,346,12,Absentee,Demarco Davidson,2
+14,9,346,12,Absentee,Joshua Shipp,1
+14,9,346,12,Absentee,Lacy Clay,5
+14,9,346,74,Polling,Cori Bush,31
+14,9,346,74,Polling,Demarco Davidson,5
+14,9,346,74,Polling,Joshua Shipp,4
+14,9,346,74,Polling,Lacy Clay,34
+14,8,49,16,Total,Cori Bush,5
+14,8,49,16,Total,Demarco Davidson,0
+14,8,49,16,Total,Joshua Shipp,1
+14,8,49,16,Total,Lacy Clay,10
+14,8,49,0,House Votes,Cori Bush,0
+14,8,49,0,House Votes,Demarco Davidson,0
+14,8,49,0,House Votes,Joshua Shipp,0
+14,8,49,0,House Votes,Lacy Clay,0
+14,8,49,0,Provisional,Cori Bush,0
+14,8,49,0,Provisional,Demarco Davidson,0
+14,8,49,0,Provisional,Joshua Shipp,0
+14,8,49,0,Provisional,Lacy Clay,0
+14,8,49,1,Absentee,Cori Bush,0
+14,8,49,1,Absentee,Demarco Davidson,0
+14,8,49,1,Absentee,Joshua Shipp,0
+14,8,49,1,Absentee,Lacy Clay,1
+14,8,49,15,Polling,Cori Bush,5
+14,8,49,15,Polling,Demarco Davidson,0
+14,8,49,15,Polling,Joshua Shipp,1
+14,8,49,15,Polling,Lacy Clay,9
+14,7,90,39,Total,Cori Bush,18
+14,7,90,39,Total,Demarco Davidson,1
+14,7,90,39,Total,Joshua Shipp,4
+14,7,90,39,Total,Lacy Clay,16
+14,7,90,0,House Votes,Cori Bush,0
+14,7,90,0,House Votes,Demarco Davidson,0
+14,7,90,0,House Votes,Joshua Shipp,0
+14,7,90,0,House Votes,Lacy Clay,0
+14,7,90,0,Provisional,Cori Bush,0
+14,7,90,0,Provisional,Demarco Davidson,0
+14,7,90,0,Provisional,Joshua Shipp,0
+14,7,90,0,Provisional,Lacy Clay,0
+14,7,90,1,Absentee,Cori Bush,0
+14,7,90,1,Absentee,Demarco Davidson,0
+14,7,90,1,Absentee,Joshua Shipp,0
+14,7,90,1,Absentee,Lacy Clay,1
+14,7,90,38,Polling,Cori Bush,18
+14,7,90,38,Polling,Demarco Davidson,1
+14,7,90,38,Polling,Joshua Shipp,4
+14,7,90,38,Polling,Lacy Clay,15
+14,6,998,271,Total,Cori Bush,117
+14,6,998,271,Total,Demarco Davidson,13
+14,6,998,271,Total,Joshua Shipp,22
+14,6,998,271,Total,Lacy Clay,119
+14,6,998,0,House Votes,Cori Bush,0
+14,6,998,0,House Votes,Demarco Davidson,0
+14,6,998,0,House Votes,Joshua Shipp,0
+14,6,998,0,House Votes,Lacy Clay,0
+14,6,998,1,Provisional,Cori Bush,1
+14,6,998,1,Provisional,Demarco Davidson,0
+14,6,998,1,Provisional,Joshua Shipp,0
+14,6,998,1,Provisional,Lacy Clay,0
+14,6,998,13,Absentee,Cori Bush,3
+14,6,998,13,Absentee,Demarco Davidson,0
+14,6,998,13,Absentee,Joshua Shipp,0
+14,6,998,13,Absentee,Lacy Clay,10
+14,6,998,257,Polling,Cori Bush,113
+14,6,998,257,Polling,Demarco Davidson,13
+14,6,998,257,Polling,Joshua Shipp,22
+14,6,998,257,Polling,Lacy Clay,109
+14,5,542,125,Total,Cori Bush,52
+14,5,542,125,Total,Demarco Davidson,6
+14,5,542,125,Total,Joshua Shipp,6
+14,5,542,125,Total,Lacy Clay,61
+14,5,542,0,House Votes,Cori Bush,0
+14,5,542,0,House Votes,Demarco Davidson,0
+14,5,542,0,House Votes,Joshua Shipp,0
+14,5,542,0,House Votes,Lacy Clay,0
+14,5,542,1,Provisional,Cori Bush,1
+14,5,542,1,Provisional,Demarco Davidson,0
+14,5,542,1,Provisional,Joshua Shipp,0
+14,5,542,1,Provisional,Lacy Clay,0
+14,5,542,6,Absentee,Cori Bush,0
+14,5,542,6,Absentee,Demarco Davidson,0
+14,5,542,6,Absentee,Joshua Shipp,1
+14,5,542,6,Absentee,Lacy Clay,5
+14,5,542,118,Polling,Cori Bush,51
+14,5,542,118,Polling,Demarco Davidson,6
+14,5,542,118,Polling,Joshua Shipp,5
+14,5,542,118,Polling,Lacy Clay,56
+14,4,1290,457,Total,Cori Bush,239
+14,4,1290,457,Total,Demarco Davidson,14
+14,4,1290,457,Total,Joshua Shipp,20
+14,4,1290,457,Total,Lacy Clay,184
+14,4,1290,0,House Votes,Cori Bush,0
+14,4,1290,0,House Votes,Demarco Davidson,0
+14,4,1290,0,House Votes,Joshua Shipp,0
+14,4,1290,0,House Votes,Lacy Clay,0
+14,4,1290,0,Provisional,Cori Bush,0
+14,4,1290,0,Provisional,Demarco Davidson,0
+14,4,1290,0,Provisional,Joshua Shipp,0
+14,4,1290,0,Provisional,Lacy Clay,0
+14,4,1290,14,Absentee,Cori Bush,12
+14,4,1290,14,Absentee,Demarco Davidson,0
+14,4,1290,14,Absentee,Joshua Shipp,0
+14,4,1290,14,Absentee,Lacy Clay,2
+14,4,1290,443,Polling,Cori Bush,227
+14,4,1290,443,Polling,Demarco Davidson,14
+14,4,1290,443,Polling,Joshua Shipp,20
+14,4,1290,443,Polling,Lacy Clay,182
+14,3,994,250,Total,Cori Bush,88
+14,3,994,250,Total,Demarco Davidson,13
+14,3,994,250,Total,Joshua Shipp,19
+14,3,994,250,Total,Lacy Clay,130
+14,3,994,0,House Votes,Cori Bush,0
+14,3,994,0,House Votes,Demarco Davidson,0
+14,3,994,0,House Votes,Joshua Shipp,0
+14,3,994,0,House Votes,Lacy Clay,0
+14,3,994,0,Provisional,Cori Bush,0
+14,3,994,0,Provisional,Demarco Davidson,0
+14,3,994,0,Provisional,Joshua Shipp,0
+14,3,994,0,Provisional,Lacy Clay,0
+14,3,994,23,Absentee,Cori Bush,5
+14,3,994,23,Absentee,Demarco Davidson,1
+14,3,994,23,Absentee,Joshua Shipp,1
+14,3,994,23,Absentee,Lacy Clay,16
+14,3,994,227,Polling,Cori Bush,83
+14,3,994,227,Polling,Demarco Davidson,12
+14,3,994,227,Polling,Joshua Shipp,18
+14,3,994,227,Polling,Lacy Clay,114
+14,2,813,216,Total,Cori Bush,109
+14,2,813,216,Total,Demarco Davidson,7
+14,2,813,216,Total,Joshua Shipp,17
+14,2,813,216,Total,Lacy Clay,83
+14,2,813,0,House Votes,Cori Bush,0
+14,2,813,0,House Votes,Demarco Davidson,0
+14,2,813,0,House Votes,Joshua Shipp,0
+14,2,813,0,House Votes,Lacy Clay,0
+14,2,813,0,Provisional,Cori Bush,0
+14,2,813,0,Provisional,Demarco Davidson,0
+14,2,813,0,Provisional,Joshua Shipp,0
+14,2,813,0,Provisional,Lacy Clay,0
+14,2,813,5,Absentee,Cori Bush,1
+14,2,813,5,Absentee,Demarco Davidson,0
+14,2,813,5,Absentee,Joshua Shipp,2
+14,2,813,5,Absentee,Lacy Clay,2
+14,2,813,211,Polling,Cori Bush,108
+14,2,813,211,Polling,Demarco Davidson,7
+14,2,813,211,Polling,Joshua Shipp,15
+14,2,813,211,Polling,Lacy Clay,81
+14,1,909,347,Total,Cori Bush,183
+14,1,909,347,Total,Demarco Davidson,7
+14,1,909,347,Total,Joshua Shipp,22
+14,1,909,347,Total,Lacy Clay,135
+14,1,909,0,House Votes,Cori Bush,0
+14,1,909,0,House Votes,Demarco Davidson,0
+14,1,909,0,House Votes,Joshua Shipp,0
+14,1,909,0,House Votes,Lacy Clay,0
+14,1,909,0,Provisional,Cori Bush,0
+14,1,909,0,Provisional,Demarco Davidson,0
+14,1,909,0,Provisional,Joshua Shipp,0
+14,1,909,0,Provisional,Lacy Clay,0
+14,1,909,13,Absentee,Cori Bush,8
+14,1,909,13,Absentee,Demarco Davidson,1
+14,1,909,13,Absentee,Joshua Shipp,2
+14,1,909,13,Absentee,Lacy Clay,2
+14,1,909,334,Polling,Cori Bush,175
+14,1,909,334,Polling,Demarco Davidson,6
+14,1,909,334,Polling,Joshua Shipp,20
+14,1,909,334,Polling,Lacy Clay,133
+13,7,44,5,Total,Cori Bush,2
+13,7,44,5,Total,Demarco Davidson,0
+13,7,44,5,Total,Joshua Shipp,0
+13,7,44,5,Total,Lacy Clay,3
+13,7,44,0,House Votes,Cori Bush,0
+13,7,44,0,House Votes,Demarco Davidson,0
+13,7,44,0,House Votes,Joshua Shipp,0
+13,7,44,0,House Votes,Lacy Clay,0
+13,7,44,0,Provisional,Cori Bush,0
+13,7,44,0,Provisional,Demarco Davidson,0
+13,7,44,0,Provisional,Joshua Shipp,0
+13,7,44,0,Provisional,Lacy Clay,0
+13,7,44,1,Absentee,Cori Bush,0
+13,7,44,1,Absentee,Demarco Davidson,0
+13,7,44,1,Absentee,Joshua Shipp,0
+13,7,44,1,Absentee,Lacy Clay,1
+13,7,44,4,Polling,Cori Bush,2
+13,7,44,4,Polling,Demarco Davidson,0
+13,7,44,4,Polling,Joshua Shipp,0
+13,7,44,4,Polling,Lacy Clay,2
+13,6,1201,321,Total,Cori Bush,115
+13,6,1201,321,Total,Demarco Davidson,21
+13,6,1201,321,Total,Joshua Shipp,31
+13,6,1201,321,Total,Lacy Clay,154
+13,6,1201,0,House Votes,Cori Bush,0
+13,6,1201,0,House Votes,Demarco Davidson,0
+13,6,1201,0,House Votes,Joshua Shipp,0
+13,6,1201,0,House Votes,Lacy Clay,0
+13,6,1201,0,Provisional,Cori Bush,0
+13,6,1201,0,Provisional,Demarco Davidson,0
+13,6,1201,0,Provisional,Joshua Shipp,0
+13,6,1201,0,Provisional,Lacy Clay,0
+13,6,1201,16,Absentee,Cori Bush,5
+13,6,1201,16,Absentee,Demarco Davidson,0
+13,6,1201,16,Absentee,Joshua Shipp,1
+13,6,1201,16,Absentee,Lacy Clay,10
+13,6,1201,305,Polling,Cori Bush,110
+13,6,1201,305,Polling,Demarco Davidson,21
+13,6,1201,305,Polling,Joshua Shipp,30
+13,6,1201,305,Polling,Lacy Clay,144
+13,4,1270,504,Total,Cori Bush,247
+13,4,1270,504,Total,Demarco Davidson,14
+13,4,1270,504,Total,Joshua Shipp,38
+13,4,1270,504,Total,Lacy Clay,205
+13,4,1270,0,House Votes,Cori Bush,0
+13,4,1270,0,House Votes,Demarco Davidson,0
+13,4,1270,0,House Votes,Joshua Shipp,0
+13,4,1270,0,House Votes,Lacy Clay,0
+13,4,1270,0,Provisional,Cori Bush,0
+13,4,1270,0,Provisional,Demarco Davidson,0
+13,4,1270,0,Provisional,Joshua Shipp,0
+13,4,1270,0,Provisional,Lacy Clay,0
+13,4,1270,17,Absentee,Cori Bush,9
+13,4,1270,17,Absentee,Demarco Davidson,0
+13,4,1270,17,Absentee,Joshua Shipp,1
+13,4,1270,17,Absentee,Lacy Clay,7
+13,4,1270,487,Polling,Cori Bush,238
+13,4,1270,487,Polling,Demarco Davidson,14
+13,4,1270,487,Polling,Joshua Shipp,37
+13,4,1270,487,Polling,Lacy Clay,198
+13,3,1140,297,Total,Cori Bush,130
+13,3,1140,297,Total,Demarco Davidson,9
+13,3,1140,297,Total,Joshua Shipp,18
+13,3,1140,297,Total,Lacy Clay,140
+13,3,1140,0,House Votes,Cori Bush,0
+13,3,1140,0,House Votes,Demarco Davidson,0
+13,3,1140,0,House Votes,Joshua Shipp,0
+13,3,1140,0,House Votes,Lacy Clay,0
+13,3,1140,0,Provisional,Cori Bush,0
+13,3,1140,0,Provisional,Demarco Davidson,0
+13,3,1140,0,Provisional,Joshua Shipp,0
+13,3,1140,0,Provisional,Lacy Clay,0
+13,3,1140,12,Absentee,Cori Bush,5
+13,3,1140,12,Absentee,Demarco Davidson,2
+13,3,1140,12,Absentee,Joshua Shipp,0
+13,3,1140,12,Absentee,Lacy Clay,5
+13,3,1140,285,Polling,Cori Bush,125
+13,3,1140,285,Polling,Demarco Davidson,7
+13,3,1140,285,Polling,Joshua Shipp,18
+13,3,1140,285,Polling,Lacy Clay,135
+13,2,1477,600,Total,Cori Bush,266
+13,2,1477,600,Total,Demarco Davidson,19
+13,2,1477,600,Total,Joshua Shipp,53
+13,2,1477,600,Total,Lacy Clay,262
+13,2,1477,0,House Votes,Cori Bush,0
+13,2,1477,0,House Votes,Demarco Davidson,0
+13,2,1477,0,House Votes,Joshua Shipp,0
+13,2,1477,0,House Votes,Lacy Clay,0
+13,2,1477,0,Provisional,Cori Bush,0
+13,2,1477,0,Provisional,Demarco Davidson,0
+13,2,1477,0,Provisional,Joshua Shipp,0
+13,2,1477,0,Provisional,Lacy Clay,0
+13,2,1477,35,Absentee,Cori Bush,11
+13,2,1477,35,Absentee,Demarco Davidson,1
+13,2,1477,35,Absentee,Joshua Shipp,3
+13,2,1477,35,Absentee,Lacy Clay,20
+13,2,1477,565,Polling,Cori Bush,255
+13,2,1477,565,Polling,Demarco Davidson,18
+13,2,1477,565,Polling,Joshua Shipp,50
+13,2,1477,565,Polling,Lacy Clay,242
+13,1,1574,504,Total,Cori Bush,253
+13,1,1574,504,Total,Demarco Davidson,17
+13,1,1574,504,Total,Joshua Shipp,31
+13,1,1574,504,Total,Lacy Clay,203
+13,1,1574,0,House Votes,Cori Bush,0
+13,1,1574,0,House Votes,Demarco Davidson,0
+13,1,1574,0,House Votes,Joshua Shipp,0
+13,1,1574,0,House Votes,Lacy Clay,0
+13,1,1574,0,Provisional,Cori Bush,0
+13,1,1574,0,Provisional,Demarco Davidson,0
+13,1,1574,0,Provisional,Joshua Shipp,0
+13,1,1574,0,Provisional,Lacy Clay,0
+13,1,1574,25,Absentee,Cori Bush,10
+13,1,1574,25,Absentee,Demarco Davidson,1
+13,1,1574,25,Absentee,Joshua Shipp,2
+13,1,1574,25,Absentee,Lacy Clay,12
+13,1,1574,479,Polling,Cori Bush,243
+13,1,1574,479,Polling,Demarco Davidson,16
+13,1,1574,479,Polling,Joshua Shipp,29
+13,1,1574,479,Polling,Lacy Clay,191
+12,9,47,12,Total,Cori Bush,2
+12,9,47,12,Total,Demarco Davidson,0
+12,9,47,12,Total,Joshua Shipp,3
+12,9,47,12,Total,Lacy Clay,7
+12,9,47,0,House Votes,Cori Bush,0
+12,9,47,0,House Votes,Demarco Davidson,0
+12,9,47,0,House Votes,Joshua Shipp,0
+12,9,47,0,House Votes,Lacy Clay,0
+12,9,47,0,Provisional,Cori Bush,0
+12,9,47,0,Provisional,Demarco Davidson,0
+12,9,47,0,Provisional,Joshua Shipp,0
+12,9,47,0,Provisional,Lacy Clay,0
+12,9,47,0,Absentee,Cori Bush,0
+12,9,47,0,Absentee,Demarco Davidson,0
+12,9,47,0,Absentee,Joshua Shipp,0
+12,9,47,0,Absentee,Lacy Clay,0
+12,9,47,12,Polling,Cori Bush,2
+12,9,47,12,Polling,Demarco Davidson,0
+12,9,47,12,Polling,Joshua Shipp,3
+12,9,47,12,Polling,Lacy Clay,7
+12,8,77,18,Total,Cori Bush,5
+12,8,77,18,Total,Demarco Davidson,2
+12,8,77,18,Total,Joshua Shipp,0
+12,8,77,18,Total,Lacy Clay,11
+12,8,77,0,House Votes,Cori Bush,0
+12,8,77,0,House Votes,Demarco Davidson,0
+12,8,77,0,House Votes,Joshua Shipp,0
+12,8,77,0,House Votes,Lacy Clay,0
+12,8,77,0,Provisional,Cori Bush,0
+12,8,77,0,Provisional,Demarco Davidson,0
+12,8,77,0,Provisional,Joshua Shipp,0
+12,8,77,0,Provisional,Lacy Clay,0
+12,8,77,1,Absentee,Cori Bush,1
+12,8,77,1,Absentee,Demarco Davidson,0
+12,8,77,1,Absentee,Joshua Shipp,0
+12,8,77,1,Absentee,Lacy Clay,0
+12,8,77,17,Polling,Cori Bush,4
+12,8,77,17,Polling,Demarco Davidson,2
+12,8,77,17,Polling,Joshua Shipp,0
+12,8,77,17,Polling,Lacy Clay,11
+12,6,1633,427,Total,Cori Bush,180
+12,6,1633,427,Total,Demarco Davidson,15
+12,6,1633,427,Total,Joshua Shipp,31
+12,6,1633,427,Total,Lacy Clay,201
+12,6,1633,0,House Votes,Cori Bush,0
+12,6,1633,0,House Votes,Demarco Davidson,0
+12,6,1633,0,House Votes,Joshua Shipp,0
+12,6,1633,0,House Votes,Lacy Clay,0
+12,6,1633,0,Provisional,Cori Bush,0
+12,6,1633,0,Provisional,Demarco Davidson,0
+12,6,1633,0,Provisional,Joshua Shipp,0
+12,6,1633,0,Provisional,Lacy Clay,0
+12,6,1633,27,Absentee,Cori Bush,4
+12,6,1633,27,Absentee,Demarco Davidson,2
+12,6,1633,27,Absentee,Joshua Shipp,3
+12,6,1633,27,Absentee,Lacy Clay,18
+12,6,1633,400,Polling,Cori Bush,176
+12,6,1633,400,Polling,Demarco Davidson,13
+12,6,1633,400,Polling,Joshua Shipp,28
+12,6,1633,400,Polling,Lacy Clay,183
+12,5,1532,550,Total,Cori Bush,288
+12,5,1532,550,Total,Demarco Davidson,9
+12,5,1532,550,Total,Joshua Shipp,46
+12,5,1532,550,Total,Lacy Clay,207
+12,5,1532,0,House Votes,Cori Bush,0
+12,5,1532,0,House Votes,Demarco Davidson,0
+12,5,1532,0,House Votes,Joshua Shipp,0
+12,5,1532,0,House Votes,Lacy Clay,0
+12,5,1532,1,Provisional,Cori Bush,1
+12,5,1532,1,Provisional,Demarco Davidson,0
+12,5,1532,1,Provisional,Joshua Shipp,0
+12,5,1532,1,Provisional,Lacy Clay,0
+12,5,1532,20,Absentee,Cori Bush,6
+12,5,1532,20,Absentee,Demarco Davidson,0
+12,5,1532,20,Absentee,Joshua Shipp,3
+12,5,1532,20,Absentee,Lacy Clay,11
+12,5,1532,529,Polling,Cori Bush,281
+12,5,1532,529,Polling,Demarco Davidson,9
+12,5,1532,529,Polling,Joshua Shipp,43
+12,5,1532,529,Polling,Lacy Clay,196
+12,4,1344,443,Total,Cori Bush,168
+12,4,1344,443,Total,Demarco Davidson,16
+12,4,1344,443,Total,Joshua Shipp,43
+12,4,1344,443,Total,Lacy Clay,216
+12,4,1344,0,House Votes,Cori Bush,0
+12,4,1344,0,House Votes,Demarco Davidson,0
+12,4,1344,0,House Votes,Joshua Shipp,0
+12,4,1344,0,House Votes,Lacy Clay,0
+12,4,1344,1,Provisional,Cori Bush,0
+12,4,1344,1,Provisional,Demarco Davidson,0
+12,4,1344,1,Provisional,Joshua Shipp,0
+12,4,1344,1,Provisional,Lacy Clay,1
+12,4,1344,13,Absentee,Cori Bush,1
+12,4,1344,13,Absentee,Demarco Davidson,1
+12,4,1344,13,Absentee,Joshua Shipp,0
+12,4,1344,13,Absentee,Lacy Clay,11
+12,4,1344,429,Polling,Cori Bush,167
+12,4,1344,429,Polling,Demarco Davidson,15
+12,4,1344,429,Polling,Joshua Shipp,43
+12,4,1344,429,Polling,Lacy Clay,204
+12,3,783,253,Total,Cori Bush,96
+12,3,783,253,Total,Demarco Davidson,15
+12,3,783,253,Total,Joshua Shipp,13
+12,3,783,253,Total,Lacy Clay,129
+12,3,783,0,House Votes,Cori Bush,0
+12,3,783,0,House Votes,Demarco Davidson,0
+12,3,783,0,House Votes,Joshua Shipp,0
+12,3,783,0,House Votes,Lacy Clay,0
+12,3,783,0,Provisional,Cori Bush,0
+12,3,783,0,Provisional,Demarco Davidson,0
+12,3,783,0,Provisional,Joshua Shipp,0
+12,3,783,0,Provisional,Lacy Clay,0
+12,3,783,11,Absentee,Cori Bush,4
+12,3,783,11,Absentee,Demarco Davidson,0
+12,3,783,11,Absentee,Joshua Shipp,0
+12,3,783,11,Absentee,Lacy Clay,7
+12,3,783,242,Polling,Cori Bush,92
+12,3,783,242,Polling,Demarco Davidson,15
+12,3,783,242,Polling,Joshua Shipp,13
+12,3,783,242,Polling,Lacy Clay,122
+12,2,1556,410,Total,Cori Bush,104
+12,2,1556,410,Total,Demarco Davidson,17
+12,2,1556,410,Total,Joshua Shipp,41
+12,2,1556,410,Total,Lacy Clay,248
+12,2,1556,0,House Votes,Cori Bush,0
+12,2,1556,0,House Votes,Demarco Davidson,0
+12,2,1556,0,House Votes,Joshua Shipp,0
+12,2,1556,0,House Votes,Lacy Clay,0
+12,2,1556,0,Provisional,Cori Bush,0
+12,2,1556,0,Provisional,Demarco Davidson,0
+12,2,1556,0,Provisional,Joshua Shipp,0
+12,2,1556,0,Provisional,Lacy Clay,0
+12,2,1556,27,Absentee,Cori Bush,3
+12,2,1556,27,Absentee,Demarco Davidson,1
+12,2,1556,27,Absentee,Joshua Shipp,1
+12,2,1556,27,Absentee,Lacy Clay,22
+12,2,1556,383,Polling,Cori Bush,101
+12,2,1556,383,Polling,Demarco Davidson,16
+12,2,1556,383,Polling,Joshua Shipp,40
+12,2,1556,383,Polling,Lacy Clay,226
+12,1,719,173,Total,Cori Bush,58
+12,1,719,173,Total,Demarco Davidson,11
+12,1,719,173,Total,Joshua Shipp,22
+12,1,719,173,Total,Lacy Clay,82
+12,1,719,0,House Votes,Cori Bush,0
+12,1,719,0,House Votes,Demarco Davidson,0
+12,1,719,0,House Votes,Joshua Shipp,0
+12,1,719,0,House Votes,Lacy Clay,0
+12,1,719,0,Provisional,Cori Bush,0
+12,1,719,0,Provisional,Demarco Davidson,0
+12,1,719,0,Provisional,Joshua Shipp,0
+12,1,719,0,Provisional,Lacy Clay,0
+12,1,719,9,Absentee,Cori Bush,3
+12,1,719,9,Absentee,Demarco Davidson,2
+12,1,719,9,Absentee,Joshua Shipp,0
+12,1,719,9,Absentee,Lacy Clay,4
+12,1,719,164,Polling,Cori Bush,55
+12,1,719,164,Polling,Demarco Davidson,9
+12,1,719,164,Polling,Joshua Shipp,22
+12,1,719,164,Polling,Lacy Clay,78
+11,6,976,300,Total,Cori Bush,106
+11,6,976,300,Total,Demarco Davidson,16
+11,6,976,300,Total,Joshua Shipp,10
+11,6,976,300,Total,Lacy Clay,168
+11,6,976,0,House Votes,Cori Bush,0
+11,6,976,0,House Votes,Demarco Davidson,0
+11,6,976,0,House Votes,Joshua Shipp,0
+11,6,976,0,House Votes,Lacy Clay,0
+11,6,976,0,Provisional,Cori Bush,0
+11,6,976,0,Provisional,Demarco Davidson,0
+11,6,976,0,Provisional,Joshua Shipp,0
+11,6,976,0,Provisional,Lacy Clay,0
+11,6,976,13,Absentee,Cori Bush,2
+11,6,976,13,Absentee,Demarco Davidson,1
+11,6,976,13,Absentee,Joshua Shipp,0
+11,6,976,13,Absentee,Lacy Clay,10
+11,6,976,287,Polling,Cori Bush,104
+11,6,976,287,Polling,Demarco Davidson,15
+11,6,976,287,Polling,Joshua Shipp,10
+11,6,976,287,Polling,Lacy Clay,158
+11,5,1103,304,Total,Cori Bush,118
+11,5,1103,304,Total,Demarco Davidson,11
+11,5,1103,304,Total,Joshua Shipp,10
+11,5,1103,304,Total,Lacy Clay,165
+11,5,1103,1,House Votes,Cori Bush,1
+11,5,1103,1,House Votes,Demarco Davidson,0
+11,5,1103,1,House Votes,Joshua Shipp,0
+11,5,1103,1,House Votes,Lacy Clay,0
+11,5,1103,0,Provisional,Cori Bush,0
+11,5,1103,0,Provisional,Demarco Davidson,0
+11,5,1103,0,Provisional,Joshua Shipp,0
+11,5,1103,0,Provisional,Lacy Clay,0
+11,5,1103,33,Absentee,Cori Bush,6
+11,5,1103,33,Absentee,Demarco Davidson,2
+11,5,1103,33,Absentee,Joshua Shipp,0
+11,5,1103,33,Absentee,Lacy Clay,25
+11,5,1103,270,Polling,Cori Bush,111
+11,5,1103,270,Polling,Demarco Davidson,9
+11,5,1103,270,Polling,Joshua Shipp,10
+11,5,1103,270,Polling,Lacy Clay,140
+11,4,1195,318,Total,Cori Bush,106
+11,4,1195,318,Total,Demarco Davidson,13
+11,4,1195,318,Total,Joshua Shipp,39
+11,4,1195,318,Total,Lacy Clay,160
+11,4,1195,0,House Votes,Cori Bush,0
+11,4,1195,0,House Votes,Demarco Davidson,0
+11,4,1195,0,House Votes,Joshua Shipp,0
+11,4,1195,0,House Votes,Lacy Clay,0
+11,4,1195,0,Provisional,Cori Bush,0
+11,4,1195,0,Provisional,Demarco Davidson,0
+11,4,1195,0,Provisional,Joshua Shipp,0
+11,4,1195,0,Provisional,Lacy Clay,0
+11,4,1195,20,Absentee,Cori Bush,4
+11,4,1195,20,Absentee,Demarco Davidson,3
+11,4,1195,20,Absentee,Joshua Shipp,2
+11,4,1195,20,Absentee,Lacy Clay,11
+11,4,1195,298,Polling,Cori Bush,102
+11,4,1195,298,Polling,Demarco Davidson,10
+11,4,1195,298,Polling,Joshua Shipp,37
+11,4,1195,298,Polling,Lacy Clay,149
+11,3,752,122,Total,Cori Bush,39
+11,3,752,122,Total,Demarco Davidson,7
+11,3,752,122,Total,Joshua Shipp,11
+11,3,752,122,Total,Lacy Clay,65
+11,3,752,0,House Votes,Cori Bush,0
+11,3,752,0,House Votes,Demarco Davidson,0
+11,3,752,0,House Votes,Joshua Shipp,0
+11,3,752,0,House Votes,Lacy Clay,0
+11,3,752,0,Provisional,Cori Bush,0
+11,3,752,0,Provisional,Demarco Davidson,0
+11,3,752,0,Provisional,Joshua Shipp,0
+11,3,752,0,Provisional,Lacy Clay,0
+11,3,752,6,Absentee,Cori Bush,0
+11,3,752,6,Absentee,Demarco Davidson,1
+11,3,752,6,Absentee,Joshua Shipp,1
+11,3,752,6,Absentee,Lacy Clay,4
+11,3,752,116,Polling,Cori Bush,39
+11,3,752,116,Polling,Demarco Davidson,6
+11,3,752,116,Polling,Joshua Shipp,10
+11,3,752,116,Polling,Lacy Clay,61
+11,2,1099,454,Total,Cori Bush,206
+11,2,1099,454,Total,Demarco Davidson,11
+11,2,1099,454,Total,Joshua Shipp,33
+11,2,1099,454,Total,Lacy Clay,204
+11,2,1099,1,House Votes,Cori Bush,1
+11,2,1099,1,House Votes,Demarco Davidson,0
+11,2,1099,1,House Votes,Joshua Shipp,0
+11,2,1099,1,House Votes,Lacy Clay,0
+11,2,1099,0,Provisional,Cori Bush,0
+11,2,1099,0,Provisional,Demarco Davidson,0
+11,2,1099,0,Provisional,Joshua Shipp,0
+11,2,1099,0,Provisional,Lacy Clay,0
+11,2,1099,24,Absentee,Cori Bush,9
+11,2,1099,24,Absentee,Demarco Davidson,0
+11,2,1099,24,Absentee,Joshua Shipp,3
+11,2,1099,24,Absentee,Lacy Clay,12
+11,2,1099,429,Polling,Cori Bush,196
+11,2,1099,429,Polling,Demarco Davidson,11
+11,2,1099,429,Polling,Joshua Shipp,30
+11,2,1099,429,Polling,Lacy Clay,192
+11,1,773,137,Total,Cori Bush,56
+11,1,773,137,Total,Demarco Davidson,7
+11,1,773,137,Total,Joshua Shipp,12
+11,1,773,137,Total,Lacy Clay,62
+11,1,773,0,House Votes,Cori Bush,0
+11,1,773,0,House Votes,Demarco Davidson,0
+11,1,773,0,House Votes,Joshua Shipp,0
+11,1,773,0,House Votes,Lacy Clay,0
+11,1,773,0,Provisional,Cori Bush,0
+11,1,773,0,Provisional,Demarco Davidson,0
+11,1,773,0,Provisional,Joshua Shipp,0
+11,1,773,0,Provisional,Lacy Clay,0
+11,1,773,4,Absentee,Cori Bush,2
+11,1,773,4,Absentee,Demarco Davidson,0
+11,1,773,4,Absentee,Joshua Shipp,0
+11,1,773,4,Absentee,Lacy Clay,2
+11,1,773,133,Polling,Cori Bush,54
+11,1,773,133,Polling,Demarco Davidson,7
+11,1,773,133,Polling,Joshua Shipp,12
+11,1,773,133,Polling,Lacy Clay,60
+10,10,168,59,Total,Cori Bush,35
+10,10,168,59,Total,Demarco Davidson,3
+10,10,168,59,Total,Joshua Shipp,5
+10,10,168,59,Total,Lacy Clay,16
+10,10,168,0,House Votes,Cori Bush,0
+10,10,168,0,House Votes,Demarco Davidson,0
+10,10,168,0,House Votes,Joshua Shipp,0
+10,10,168,0,House Votes,Lacy Clay,0
+10,10,168,0,Provisional,Cori Bush,0
+10,10,168,0,Provisional,Demarco Davidson,0
+10,10,168,0,Provisional,Joshua Shipp,0
+10,10,168,0,Provisional,Lacy Clay,0
+10,10,168,3,Absentee,Cori Bush,0
+10,10,168,3,Absentee,Demarco Davidson,0
+10,10,168,3,Absentee,Joshua Shipp,0
+10,10,168,3,Absentee,Lacy Clay,3
+10,10,168,56,Polling,Cori Bush,35
+10,10,168,56,Polling,Demarco Davidson,3
+10,10,168,56,Polling,Joshua Shipp,5
+10,10,168,56,Polling,Lacy Clay,13
+10,9,50,8,Total,Cori Bush,5
+10,9,50,8,Total,Demarco Davidson,0
+10,9,50,8,Total,Joshua Shipp,0
+10,9,50,8,Total,Lacy Clay,3
+10,9,50,0,House Votes,Cori Bush,0
+10,9,50,0,House Votes,Demarco Davidson,0
+10,9,50,0,House Votes,Joshua Shipp,0
+10,9,50,0,House Votes,Lacy Clay,0
+10,9,50,0,Provisional,Cori Bush,0
+10,9,50,0,Provisional,Demarco Davidson,0
+10,9,50,0,Provisional,Joshua Shipp,0
+10,9,50,0,Provisional,Lacy Clay,0
+10,9,50,1,Absentee,Cori Bush,0
+10,9,50,1,Absentee,Demarco Davidson,0
+10,9,50,1,Absentee,Joshua Shipp,0
+10,9,50,1,Absentee,Lacy Clay,1
+10,9,50,7,Polling,Cori Bush,5
+10,9,50,7,Polling,Demarco Davidson,0
+10,9,50,7,Polling,Joshua Shipp,0
+10,9,50,7,Polling,Lacy Clay,2
+10,7,1045,385,Total,Cori Bush,233
+10,7,1045,385,Total,Demarco Davidson,7
+10,7,1045,385,Total,Joshua Shipp,11
+10,7,1045,385,Total,Lacy Clay,134
+10,7,1045,0,House Votes,Cori Bush,0
+10,7,1045,0,House Votes,Demarco Davidson,0
+10,7,1045,0,House Votes,Joshua Shipp,0
+10,7,1045,0,House Votes,Lacy Clay,0
+10,7,1045,1,Provisional,Cori Bush,1
+10,7,1045,1,Provisional,Demarco Davidson,0
+10,7,1045,1,Provisional,Joshua Shipp,0
+10,7,1045,1,Provisional,Lacy Clay,0
+10,7,1045,14,Absentee,Cori Bush,4
+10,7,1045,14,Absentee,Demarco Davidson,0
+10,7,1045,14,Absentee,Joshua Shipp,0
+10,7,1045,14,Absentee,Lacy Clay,10
+10,7,1045,370,Polling,Cori Bush,228
+10,7,1045,370,Polling,Demarco Davidson,7
+10,7,1045,370,Polling,Joshua Shipp,11
+10,7,1045,370,Polling,Lacy Clay,124
+10,6,191,72,Total,Cori Bush,33
+10,6,191,72,Total,Demarco Davidson,2
+10,6,191,72,Total,Joshua Shipp,8
+10,6,191,72,Total,Lacy Clay,29
+10,6,191,0,House Votes,Cori Bush,0
+10,6,191,0,House Votes,Demarco Davidson,0
+10,6,191,0,House Votes,Joshua Shipp,0
+10,6,191,0,House Votes,Lacy Clay,0
+10,6,191,0,Provisional,Cori Bush,0
+10,6,191,0,Provisional,Demarco Davidson,0
+10,6,191,0,Provisional,Joshua Shipp,0
+10,6,191,0,Provisional,Lacy Clay,0
+10,6,191,1,Absentee,Cori Bush,0
+10,6,191,1,Absentee,Demarco Davidson,0
+10,6,191,1,Absentee,Joshua Shipp,1
+10,6,191,1,Absentee,Lacy Clay,0
+10,6,191,71,Polling,Cori Bush,33
+10,6,191,71,Polling,Demarco Davidson,2
+10,6,191,71,Polling,Joshua Shipp,7
+10,6,191,71,Polling,Lacy Clay,29
+10,5,1092,353,Total,Cori Bush,198
+10,5,1092,353,Total,Demarco Davidson,9
+10,5,1092,353,Total,Joshua Shipp,8
+10,5,1092,353,Total,Lacy Clay,138
+10,5,1092,0,House Votes,Cori Bush,0
+10,5,1092,0,House Votes,Demarco Davidson,0
+10,5,1092,0,House Votes,Joshua Shipp,0
+10,5,1092,0,House Votes,Lacy Clay,0
+10,5,1092,0,Provisional,Cori Bush,0
+10,5,1092,0,Provisional,Demarco Davidson,0
+10,5,1092,0,Provisional,Joshua Shipp,0
+10,5,1092,0,Provisional,Lacy Clay,0
+10,5,1092,9,Absentee,Cori Bush,2
+10,5,1092,9,Absentee,Demarco Davidson,0
+10,5,1092,9,Absentee,Joshua Shipp,0
+10,5,1092,9,Absentee,Lacy Clay,7
+10,5,1092,344,Polling,Cori Bush,196
+10,5,1092,344,Polling,Demarco Davidson,9
+10,5,1092,344,Polling,Joshua Shipp,8
+10,5,1092,344,Polling,Lacy Clay,131
+10,4,1120,431,Total,Cori Bush,231
+10,4,1120,431,Total,Demarco Davidson,7
+10,4,1120,431,Total,Joshua Shipp,14
+10,4,1120,431,Total,Lacy Clay,179
+10,4,1120,0,House Votes,Cori Bush,0
+10,4,1120,0,House Votes,Demarco Davidson,0
+10,4,1120,0,House Votes,Joshua Shipp,0
+10,4,1120,0,House Votes,Lacy Clay,0
+10,4,1120,0,Provisional,Cori Bush,0
+10,4,1120,0,Provisional,Demarco Davidson,0
+10,4,1120,0,Provisional,Joshua Shipp,0
+10,4,1120,0,Provisional,Lacy Clay,0
+10,4,1120,16,Absentee,Cori Bush,5
+10,4,1120,16,Absentee,Demarco Davidson,0
+10,4,1120,16,Absentee,Joshua Shipp,2
+10,4,1120,16,Absentee,Lacy Clay,9
+10,4,1120,415,Polling,Cori Bush,226
+10,4,1120,415,Polling,Demarco Davidson,7
+10,4,1120,415,Polling,Joshua Shipp,12
+10,4,1120,415,Polling,Lacy Clay,170
+10,3,924,269,Total,Cori Bush,133
+10,3,924,269,Total,Demarco Davidson,6
+10,3,924,269,Total,Joshua Shipp,18
+10,3,924,269,Total,Lacy Clay,112
+10,3,924,0,House Votes,Cori Bush,0
+10,3,924,0,House Votes,Demarco Davidson,0
+10,3,924,0,House Votes,Joshua Shipp,0
+10,3,924,0,House Votes,Lacy Clay,0
+10,3,924,0,Provisional,Cori Bush,0
+10,3,924,0,Provisional,Demarco Davidson,0
+10,3,924,0,Provisional,Joshua Shipp,0
+10,3,924,0,Provisional,Lacy Clay,0
+10,3,924,15,Absentee,Cori Bush,7
+10,3,924,15,Absentee,Demarco Davidson,0
+10,3,924,15,Absentee,Joshua Shipp,0
+10,3,924,15,Absentee,Lacy Clay,8
+10,3,924,254,Polling,Cori Bush,126
+10,3,924,254,Polling,Demarco Davidson,6
+10,3,924,254,Polling,Joshua Shipp,18
+10,3,924,254,Polling,Lacy Clay,104
+10,2,1041,299,Total,Cori Bush,128
+10,2,1041,299,Total,Demarco Davidson,7
+10,2,1041,299,Total,Joshua Shipp,19
+10,2,1041,299,Total,Lacy Clay,145
+10,2,1041,0,House Votes,Cori Bush,0
+10,2,1041,0,House Votes,Demarco Davidson,0
+10,2,1041,0,House Votes,Joshua Shipp,0
+10,2,1041,0,House Votes,Lacy Clay,0
+10,2,1041,0,Provisional,Cori Bush,0
+10,2,1041,0,Provisional,Demarco Davidson,0
+10,2,1041,0,Provisional,Joshua Shipp,0
+10,2,1041,0,Provisional,Lacy Clay,0
+10,2,1041,9,Absentee,Cori Bush,2
+10,2,1041,9,Absentee,Demarco Davidson,0
+10,2,1041,9,Absentee,Joshua Shipp,1
+10,2,1041,9,Absentee,Lacy Clay,6
+10,2,1041,290,Polling,Cori Bush,126
+10,2,1041,290,Polling,Demarco Davidson,7
+10,2,1041,290,Polling,Joshua Shipp,18
+10,2,1041,290,Polling,Lacy Clay,139
+10,1,1254,443,Total,Cori Bush,191
+10,1,1254,443,Total,Demarco Davidson,12
+10,1,1254,443,Total,Joshua Shipp,25
+10,1,1254,443,Total,Lacy Clay,215
+10,1,1254,0,House Votes,Cori Bush,0
+10,1,1254,0,House Votes,Demarco Davidson,0
+10,1,1254,0,House Votes,Joshua Shipp,0
+10,1,1254,0,House Votes,Lacy Clay,0
+10,1,1254,0,Provisional,Cori Bush,0
+10,1,1254,0,Provisional,Demarco Davidson,0
+10,1,1254,0,Provisional,Joshua Shipp,0
+10,1,1254,0,Provisional,Lacy Clay,0
+10,1,1254,23,Absentee,Cori Bush,8
+10,1,1254,23,Absentee,Demarco Davidson,2
+10,1,1254,23,Absentee,Joshua Shipp,4
+10,1,1254,23,Absentee,Lacy Clay,9
+10,1,1254,420,Polling,Cori Bush,183
+10,1,1254,420,Polling,Demarco Davidson,10
+10,1,1254,420,Polling,Joshua Shipp,21
+10,1,1254,420,Polling,Lacy Clay,206
+9,9,328,127,Total,Cori Bush,99
+9,9,328,127,Total,Demarco Davidson,2
+9,9,328,127,Total,Joshua Shipp,2
+9,9,328,127,Total,Lacy Clay,24
+9,9,328,0,House Votes,Cori Bush,0
+9,9,328,0,House Votes,Demarco Davidson,0
+9,9,328,0,House Votes,Joshua Shipp,0
+9,9,328,0,House Votes,Lacy Clay,0
+9,9,328,0,Provisional,Cori Bush,0
+9,9,328,0,Provisional,Demarco Davidson,0
+9,9,328,0,Provisional,Joshua Shipp,0
+9,9,328,0,Provisional,Lacy Clay,0
+9,9,328,6,Absentee,Cori Bush,6
+9,9,328,6,Absentee,Demarco Davidson,0
+9,9,328,6,Absentee,Joshua Shipp,0
+9,9,328,6,Absentee,Lacy Clay,0
+9,9,328,121,Polling,Cori Bush,93
+9,9,328,121,Polling,Demarco Davidson,2
+9,9,328,121,Polling,Joshua Shipp,2
+9,9,328,121,Polling,Lacy Clay,24
+9,8,391,140,Total,Cori Bush,102
+9,8,391,140,Total,Demarco Davidson,1
+9,8,391,140,Total,Joshua Shipp,0
+9,8,391,140,Total,Lacy Clay,37
+9,8,391,0,House Votes,Cori Bush,0
+9,8,391,0,House Votes,Demarco Davidson,0
+9,8,391,0,House Votes,Joshua Shipp,0
+9,8,391,0,House Votes,Lacy Clay,0
+9,8,391,0,Provisional,Cori Bush,0
+9,8,391,0,Provisional,Demarco Davidson,0
+9,8,391,0,Provisional,Joshua Shipp,0
+9,8,391,0,Provisional,Lacy Clay,0
+9,8,391,3,Absentee,Cori Bush,1
+9,8,391,3,Absentee,Demarco Davidson,0
+9,8,391,3,Absentee,Joshua Shipp,0
+9,8,391,3,Absentee,Lacy Clay,2
+9,8,391,137,Polling,Cori Bush,101
+9,8,391,137,Polling,Demarco Davidson,1
+9,8,391,137,Polling,Joshua Shipp,0
+9,8,391,137,Polling,Lacy Clay,35
+9,7,69,4,Total,Cori Bush,1
+9,7,69,4,Total,Demarco Davidson,0
+9,7,69,4,Total,Joshua Shipp,0
+9,7,69,4,Total,Lacy Clay,3
+9,7,69,0,House Votes,Cori Bush,0
+9,7,69,0,House Votes,Demarco Davidson,0
+9,7,69,0,House Votes,Joshua Shipp,0
+9,7,69,0,House Votes,Lacy Clay,0
+9,7,69,0,Provisional,Cori Bush,0
+9,7,69,0,Provisional,Demarco Davidson,0
+9,7,69,0,Provisional,Joshua Shipp,0
+9,7,69,0,Provisional,Lacy Clay,0
+9,7,69,3,Absentee,Cori Bush,0
+9,7,69,3,Absentee,Demarco Davidson,0
+9,7,69,3,Absentee,Joshua Shipp,0
+9,7,69,3,Absentee,Lacy Clay,3
+9,7,69,1,Polling,Cori Bush,1
+9,7,69,1,Polling,Demarco Davidson,0
+9,7,69,1,Polling,Joshua Shipp,0
+9,7,69,1,Polling,Lacy Clay,0
+9,6,905,251,Total,Cori Bush,160
+9,6,905,251,Total,Demarco Davidson,8
+9,6,905,251,Total,Joshua Shipp,6
+9,6,905,251,Total,Lacy Clay,77
+9,6,905,0,House Votes,Cori Bush,0
+9,6,905,0,House Votes,Demarco Davidson,0
+9,6,905,0,House Votes,Joshua Shipp,0
+9,6,905,0,House Votes,Lacy Clay,0
+9,6,905,1,Provisional,Cori Bush,1
+9,6,905,1,Provisional,Demarco Davidson,0
+9,6,905,1,Provisional,Joshua Shipp,0
+9,6,905,1,Provisional,Lacy Clay,0
+9,6,905,13,Absentee,Cori Bush,9
+9,6,905,13,Absentee,Demarco Davidson,0
+9,6,905,13,Absentee,Joshua Shipp,1
+9,6,905,13,Absentee,Lacy Clay,3
+9,6,905,237,Polling,Cori Bush,150
+9,6,905,237,Polling,Demarco Davidson,8
+9,6,905,237,Polling,Joshua Shipp,5
+9,6,905,237,Polling,Lacy Clay,74
+9,5,729,308,Total,Cori Bush,219
+9,5,729,308,Total,Demarco Davidson,3
+9,5,729,308,Total,Joshua Shipp,9
+9,5,729,308,Total,Lacy Clay,77
+9,5,729,0,House Votes,Cori Bush,0
+9,5,729,0,House Votes,Demarco Davidson,0
+9,5,729,0,House Votes,Joshua Shipp,0
+9,5,729,0,House Votes,Lacy Clay,0
+9,5,729,0,Provisional,Cori Bush,0
+9,5,729,0,Provisional,Demarco Davidson,0
+9,5,729,0,Provisional,Joshua Shipp,0
+9,5,729,0,Provisional,Lacy Clay,0
+9,5,729,10,Absentee,Cori Bush,7
+9,5,729,10,Absentee,Demarco Davidson,0
+9,5,729,10,Absentee,Joshua Shipp,1
+9,5,729,10,Absentee,Lacy Clay,2
+9,5,729,298,Polling,Cori Bush,212
+9,5,729,298,Polling,Demarco Davidson,3
+9,5,729,298,Polling,Joshua Shipp,8
+9,5,729,298,Polling,Lacy Clay,75
+9,4,574,239,Total,Cori Bush,145
+9,4,574,239,Total,Demarco Davidson,1
+9,4,574,239,Total,Joshua Shipp,10
+9,4,574,239,Total,Lacy Clay,83
+9,4,574,0,House Votes,Cori Bush,0
+9,4,574,0,House Votes,Demarco Davidson,0
+9,4,574,0,House Votes,Joshua Shipp,0
+9,4,574,0,House Votes,Lacy Clay,0
+9,4,574,0,Provisional,Cori Bush,0
+9,4,574,0,Provisional,Demarco Davidson,0
+9,4,574,0,Provisional,Joshua Shipp,0
+9,4,574,0,Provisional,Lacy Clay,0
+9,4,574,7,Absentee,Cori Bush,4
+9,4,574,7,Absentee,Demarco Davidson,0
+9,4,574,7,Absentee,Joshua Shipp,1
+9,4,574,7,Absentee,Lacy Clay,2
+9,4,574,232,Polling,Cori Bush,141
+9,4,574,232,Polling,Demarco Davidson,1
+9,4,574,232,Polling,Joshua Shipp,9
+9,4,574,232,Polling,Lacy Clay,81
+9,3,821,311,Total,Cori Bush,213
+9,3,821,311,Total,Demarco Davidson,4
+9,3,821,311,Total,Joshua Shipp,9
+9,3,821,311,Total,Lacy Clay,85
+9,3,821,0,House Votes,Cori Bush,0
+9,3,821,0,House Votes,Demarco Davidson,0
+9,3,821,0,House Votes,Joshua Shipp,0
+9,3,821,0,House Votes,Lacy Clay,0
+9,3,821,0,Provisional,Cori Bush,0
+9,3,821,0,Provisional,Demarco Davidson,0
+9,3,821,0,Provisional,Joshua Shipp,0
+9,3,821,0,Provisional,Lacy Clay,0
+9,3,821,12,Absentee,Cori Bush,6
+9,3,821,12,Absentee,Demarco Davidson,0
+9,3,821,12,Absentee,Joshua Shipp,1
+9,3,821,12,Absentee,Lacy Clay,5
+9,3,821,299,Polling,Cori Bush,207
+9,3,821,299,Polling,Demarco Davidson,4
+9,3,821,299,Polling,Joshua Shipp,8
+9,3,821,299,Polling,Lacy Clay,80
+9,2,1293,279,Total,Cori Bush,103
+9,2,1293,279,Total,Demarco Davidson,10
+9,2,1293,279,Total,Joshua Shipp,12
+9,2,1293,279,Total,Lacy Clay,154
+9,2,1293,0,House Votes,Cori Bush,0
+9,2,1293,0,House Votes,Demarco Davidson,0
+9,2,1293,0,House Votes,Joshua Shipp,0
+9,2,1293,0,House Votes,Lacy Clay,0
+9,2,1293,0,Provisional,Cori Bush,0
+9,2,1293,0,Provisional,Demarco Davidson,0
+9,2,1293,0,Provisional,Joshua Shipp,0
+9,2,1293,0,Provisional,Lacy Clay,0
+9,2,1293,21,Absentee,Cori Bush,5
+9,2,1293,21,Absentee,Demarco Davidson,1
+9,2,1293,21,Absentee,Joshua Shipp,2
+9,2,1293,21,Absentee,Lacy Clay,13
+9,2,1293,258,Polling,Cori Bush,98
+9,2,1293,258,Polling,Demarco Davidson,9
+9,2,1293,258,Polling,Joshua Shipp,10
+9,2,1293,258,Polling,Lacy Clay,141
+9,1,1079,302,Total,Cori Bush,198
+9,1,1079,302,Total,Demarco Davidson,7
+9,1,1079,302,Total,Joshua Shipp,8
+9,1,1079,302,Total,Lacy Clay,89
+9,1,1079,0,House Votes,Cori Bush,0
+9,1,1079,0,House Votes,Demarco Davidson,0
+9,1,1079,0,House Votes,Joshua Shipp,0
+9,1,1079,0,House Votes,Lacy Clay,0
+9,1,1079,0,Provisional,Cori Bush,0
+9,1,1079,0,Provisional,Demarco Davidson,0
+9,1,1079,0,Provisional,Joshua Shipp,0
+9,1,1079,0,Provisional,Lacy Clay,0
+9,1,1079,13,Absentee,Cori Bush,4
+9,1,1079,13,Absentee,Demarco Davidson,2
+9,1,1079,13,Absentee,Joshua Shipp,0
+9,1,1079,13,Absentee,Lacy Clay,7
+9,1,1079,289,Polling,Cori Bush,194
+9,1,1079,289,Polling,Demarco Davidson,5
+9,1,1079,289,Polling,Joshua Shipp,8
+9,1,1079,289,Polling,Lacy Clay,82
+8,9,860,364,Total,Cori Bush,234
+8,9,860,364,Total,Demarco Davidson,2
+8,9,860,364,Total,Joshua Shipp,8
+8,9,860,364,Total,Lacy Clay,120
+8,9,860,0,House Votes,Cori Bush,0
+8,9,860,0,House Votes,Demarco Davidson,0
+8,9,860,0,House Votes,Joshua Shipp,0
+8,9,860,0,House Votes,Lacy Clay,0
+8,9,860,0,Provisional,Cori Bush,0
+8,9,860,0,Provisional,Demarco Davidson,0
+8,9,860,0,Provisional,Joshua Shipp,0
+8,9,860,0,Provisional,Lacy Clay,0
+8,9,860,22,Absentee,Cori Bush,14
+8,9,860,22,Absentee,Demarco Davidson,1
+8,9,860,22,Absentee,Joshua Shipp,0
+8,9,860,22,Absentee,Lacy Clay,7
+8,9,860,342,Polling,Cori Bush,220
+8,9,860,342,Polling,Demarco Davidson,1
+8,9,860,342,Polling,Joshua Shipp,8
+8,9,860,342,Polling,Lacy Clay,113
+8,8,844,393,Total,Cori Bush,229
+8,8,844,393,Total,Demarco Davidson,3
+8,8,844,393,Total,Joshua Shipp,12
+8,8,844,393,Total,Lacy Clay,149
+8,8,844,0,House Votes,Cori Bush,0
+8,8,844,0,House Votes,Demarco Davidson,0
+8,8,844,0,House Votes,Joshua Shipp,0
+8,8,844,0,House Votes,Lacy Clay,0
+8,8,844,0,Provisional,Cori Bush,0
+8,8,844,0,Provisional,Demarco Davidson,0
+8,8,844,0,Provisional,Joshua Shipp,0
+8,8,844,0,Provisional,Lacy Clay,0
+8,8,844,31,Absentee,Cori Bush,14
+8,8,844,31,Absentee,Demarco Davidson,1
+8,8,844,31,Absentee,Joshua Shipp,1
+8,8,844,31,Absentee,Lacy Clay,15
+8,8,844,362,Polling,Cori Bush,215
+8,8,844,362,Polling,Demarco Davidson,2
+8,8,844,362,Polling,Joshua Shipp,11
+8,8,844,362,Polling,Lacy Clay,134
+8,7,527,220,Total,Cori Bush,129
+8,7,527,220,Total,Demarco Davidson,3
+8,7,527,220,Total,Joshua Shipp,6
+8,7,527,220,Total,Lacy Clay,82
+8,7,527,0,House Votes,Cori Bush,0
+8,7,527,0,House Votes,Demarco Davidson,0
+8,7,527,0,House Votes,Joshua Shipp,0
+8,7,527,0,House Votes,Lacy Clay,0
+8,7,527,0,Provisional,Cori Bush,0
+8,7,527,0,Provisional,Demarco Davidson,0
+8,7,527,0,Provisional,Joshua Shipp,0
+8,7,527,0,Provisional,Lacy Clay,0
+8,7,527,11,Absentee,Cori Bush,2
+8,7,527,11,Absentee,Demarco Davidson,0
+8,7,527,11,Absentee,Joshua Shipp,0
+8,7,527,11,Absentee,Lacy Clay,9
+8,7,527,209,Polling,Cori Bush,127
+8,7,527,209,Polling,Demarco Davidson,3
+8,7,527,209,Polling,Joshua Shipp,6
+8,7,527,209,Polling,Lacy Clay,73
+8,6,78,25,Total,Cori Bush,17
+8,6,78,25,Total,Demarco Davidson,0
+8,6,78,25,Total,Joshua Shipp,0
+8,6,78,25,Total,Lacy Clay,8
+8,6,78,0,House Votes,Cori Bush,0
+8,6,78,0,House Votes,Demarco Davidson,0
+8,6,78,0,House Votes,Joshua Shipp,0
+8,6,78,0,House Votes,Lacy Clay,0
+8,6,78,0,Provisional,Cori Bush,0
+8,6,78,0,Provisional,Demarco Davidson,0
+8,6,78,0,Provisional,Joshua Shipp,0
+8,6,78,0,Provisional,Lacy Clay,0
+8,6,78,2,Absentee,Cori Bush,2
+8,6,78,2,Absentee,Demarco Davidson,0
+8,6,78,2,Absentee,Joshua Shipp,0
+8,6,78,2,Absentee,Lacy Clay,0
+8,6,78,23,Polling,Cori Bush,15
+8,6,78,23,Polling,Demarco Davidson,0
+8,6,78,23,Polling,Joshua Shipp,0
+8,6,78,23,Polling,Lacy Clay,8
+8,5,1465,676,Total,Cori Bush,409
+8,5,1465,676,Total,Demarco Davidson,11
+8,5,1465,676,Total,Joshua Shipp,17
+8,5,1465,676,Total,Lacy Clay,239
+8,5,1465,0,House Votes,Cori Bush,0
+8,5,1465,0,House Votes,Demarco Davidson,0
+8,5,1465,0,House Votes,Joshua Shipp,0
+8,5,1465,0,House Votes,Lacy Clay,0
+8,5,1465,0,Provisional,Cori Bush,0
+8,5,1465,0,Provisional,Demarco Davidson,0
+8,5,1465,0,Provisional,Joshua Shipp,0
+8,5,1465,0,Provisional,Lacy Clay,0
+8,5,1465,38,Absentee,Cori Bush,21
+8,5,1465,38,Absentee,Demarco Davidson,1
+8,5,1465,38,Absentee,Joshua Shipp,2
+8,5,1465,38,Absentee,Lacy Clay,14
+8,5,1465,638,Polling,Cori Bush,388
+8,5,1465,638,Polling,Demarco Davidson,10
+8,5,1465,638,Polling,Joshua Shipp,15
+8,5,1465,638,Polling,Lacy Clay,225
+8,4,1430,648,Total,Cori Bush,419
+8,4,1430,648,Total,Demarco Davidson,10
+8,4,1430,648,Total,Joshua Shipp,11
+8,4,1430,648,Total,Lacy Clay,208
+8,4,1430,0,House Votes,Cori Bush,0
+8,4,1430,0,House Votes,Demarco Davidson,0
+8,4,1430,0,House Votes,Joshua Shipp,0
+8,4,1430,0,House Votes,Lacy Clay,0
+8,4,1430,1,Provisional,Cori Bush,1
+8,4,1430,1,Provisional,Demarco Davidson,0
+8,4,1430,1,Provisional,Joshua Shipp,0
+8,4,1430,1,Provisional,Lacy Clay,0
+8,4,1430,35,Absentee,Cori Bush,24
+8,4,1430,35,Absentee,Demarco Davidson,0
+8,4,1430,35,Absentee,Joshua Shipp,1
+8,4,1430,35,Absentee,Lacy Clay,10
+8,4,1430,612,Polling,Cori Bush,394
+8,4,1430,612,Polling,Demarco Davidson,10
+8,4,1430,612,Polling,Joshua Shipp,10
+8,4,1430,612,Polling,Lacy Clay,198
+8,3,668,246,Total,Cori Bush,141
+8,3,668,246,Total,Demarco Davidson,7
+8,3,668,246,Total,Joshua Shipp,6
+8,3,668,246,Total,Lacy Clay,92
+8,3,668,0,House Votes,Cori Bush,0
+8,3,668,0,House Votes,Demarco Davidson,0
+8,3,668,0,House Votes,Joshua Shipp,0
+8,3,668,0,House Votes,Lacy Clay,0
+8,3,668,0,Provisional,Cori Bush,0
+8,3,668,0,Provisional,Demarco Davidson,0
+8,3,668,0,Provisional,Joshua Shipp,0
+8,3,668,0,Provisional,Lacy Clay,0
+8,3,668,13,Absentee,Cori Bush,6
+8,3,668,13,Absentee,Demarco Davidson,0
+8,3,668,13,Absentee,Joshua Shipp,1
+8,3,668,13,Absentee,Lacy Clay,6
+8,3,668,233,Polling,Cori Bush,135
+8,3,668,233,Polling,Demarco Davidson,7
+8,3,668,233,Polling,Joshua Shipp,5
+8,3,668,233,Polling,Lacy Clay,86
+8,2,788,280,Total,Cori Bush,149
+8,2,788,280,Total,Demarco Davidson,7
+8,2,788,280,Total,Joshua Shipp,12
+8,2,788,280,Total,Lacy Clay,112
+8,2,788,0,House Votes,Cori Bush,0
+8,2,788,0,House Votes,Demarco Davidson,0
+8,2,788,0,House Votes,Joshua Shipp,0
+8,2,788,0,House Votes,Lacy Clay,0
+8,2,788,0,Provisional,Cori Bush,0
+8,2,788,0,Provisional,Demarco Davidson,0
+8,2,788,0,Provisional,Joshua Shipp,0
+8,2,788,0,Provisional,Lacy Clay,0
+8,2,788,11,Absentee,Cori Bush,6
+8,2,788,11,Absentee,Demarco Davidson,0
+8,2,788,11,Absentee,Joshua Shipp,0
+8,2,788,11,Absentee,Lacy Clay,5
+8,2,788,269,Polling,Cori Bush,143
+8,2,788,269,Polling,Demarco Davidson,7
+8,2,788,269,Polling,Joshua Shipp,12
+8,2,788,269,Polling,Lacy Clay,107
+8,1,1050,459,Total,Cori Bush,305
+8,1,1050,459,Total,Demarco Davidson,5
+8,1,1050,459,Total,Joshua Shipp,16
+8,1,1050,459,Total,Lacy Clay,133
+8,1,1050,0,House Votes,Cori Bush,0
+8,1,1050,0,House Votes,Demarco Davidson,0
+8,1,1050,0,House Votes,Joshua Shipp,0
+8,1,1050,0,House Votes,Lacy Clay,0
+8,1,1050,1,Provisional,Cori Bush,0
+8,1,1050,1,Provisional,Demarco Davidson,0
+8,1,1050,1,Provisional,Joshua Shipp,0
+8,1,1050,1,Provisional,Lacy Clay,1
+8,1,1050,26,Absentee,Cori Bush,13
+8,1,1050,26,Absentee,Demarco Davidson,0
+8,1,1050,26,Absentee,Joshua Shipp,1
+8,1,1050,26,Absentee,Lacy Clay,12
+8,1,1050,432,Polling,Cori Bush,292
+8,1,1050,432,Polling,Demarco Davidson,5
+8,1,1050,432,Polling,Joshua Shipp,15
+8,1,1050,432,Polling,Lacy Clay,120
+7,6,1740,583,Total,Cori Bush,359
+7,6,1740,583,Total,Demarco Davidson,9
+7,6,1740,583,Total,Joshua Shipp,21
+7,6,1740,583,Total,Lacy Clay,194
+7,6,1740,0,House Votes,Cori Bush,0
+7,6,1740,0,House Votes,Demarco Davidson,0
+7,6,1740,0,House Votes,Joshua Shipp,0
+7,6,1740,0,House Votes,Lacy Clay,0
+7,6,1740,1,Provisional,Cori Bush,1
+7,6,1740,1,Provisional,Demarco Davidson,0
+7,6,1740,1,Provisional,Joshua Shipp,0
+7,6,1740,1,Provisional,Lacy Clay,0
+7,6,1740,31,Absentee,Cori Bush,15
+7,6,1740,31,Absentee,Demarco Davidson,0
+7,6,1740,31,Absentee,Joshua Shipp,0
+7,6,1740,31,Absentee,Lacy Clay,16
+7,6,1740,551,Polling,Cori Bush,343
+7,6,1740,551,Polling,Demarco Davidson,9
+7,6,1740,551,Polling,Joshua Shipp,21
+7,6,1740,551,Polling,Lacy Clay,178
+7,5,1488,461,Total,Cori Bush,217
+7,5,1488,461,Total,Demarco Davidson,8
+7,5,1488,461,Total,Joshua Shipp,13
+7,5,1488,461,Total,Lacy Clay,223
+7,5,1488,0,House Votes,Cori Bush,0
+7,5,1488,0,House Votes,Demarco Davidson,0
+7,5,1488,0,House Votes,Joshua Shipp,0
+7,5,1488,0,House Votes,Lacy Clay,0
+7,5,1488,0,Provisional,Cori Bush,0
+7,5,1488,0,Provisional,Demarco Davidson,0
+7,5,1488,0,Provisional,Joshua Shipp,0
+7,5,1488,0,Provisional,Lacy Clay,0
+7,5,1488,29,Absentee,Cori Bush,7
+7,5,1488,29,Absentee,Demarco Davidson,0
+7,5,1488,29,Absentee,Joshua Shipp,0
+7,5,1488,29,Absentee,Lacy Clay,22
+7,5,1488,432,Polling,Cori Bush,210
+7,5,1488,432,Polling,Demarco Davidson,8
+7,5,1488,432,Polling,Joshua Shipp,13
+7,5,1488,432,Polling,Lacy Clay,201
+7,4,1793,513,Total,Cori Bush,268
+7,4,1793,513,Total,Demarco Davidson,18
+7,4,1793,513,Total,Joshua Shipp,18
+7,4,1793,513,Total,Lacy Clay,209
+7,4,1793,0,House Votes,Cori Bush,0
+7,4,1793,0,House Votes,Demarco Davidson,0
+7,4,1793,0,House Votes,Joshua Shipp,0
+7,4,1793,0,House Votes,Lacy Clay,0
+7,4,1793,1,Provisional,Cori Bush,1
+7,4,1793,1,Provisional,Demarco Davidson,0
+7,4,1793,1,Provisional,Joshua Shipp,0
+7,4,1793,1,Provisional,Lacy Clay,0
+7,4,1793,34,Absentee,Cori Bush,18
+7,4,1793,34,Absentee,Demarco Davidson,1
+7,4,1793,34,Absentee,Joshua Shipp,2
+7,4,1793,34,Absentee,Lacy Clay,13
+7,4,1793,478,Polling,Cori Bush,249
+7,4,1793,478,Polling,Demarco Davidson,17
+7,4,1793,478,Polling,Joshua Shipp,16
+7,4,1793,478,Polling,Lacy Clay,196
+7,3,620,245,Total,Cori Bush,147
+7,3,620,245,Total,Demarco Davidson,3
+7,3,620,245,Total,Joshua Shipp,9
+7,3,620,245,Total,Lacy Clay,86
+7,3,620,0,House Votes,Cori Bush,0
+7,3,620,0,House Votes,Demarco Davidson,0
+7,3,620,0,House Votes,Joshua Shipp,0
+7,3,620,0,House Votes,Lacy Clay,0
+7,3,620,1,Provisional,Cori Bush,1
+7,3,620,1,Provisional,Demarco Davidson,0
+7,3,620,1,Provisional,Joshua Shipp,0
+7,3,620,1,Provisional,Lacy Clay,0
+7,3,620,15,Absentee,Cori Bush,3
+7,3,620,15,Absentee,Demarco Davidson,1
+7,3,620,15,Absentee,Joshua Shipp,3
+7,3,620,15,Absentee,Lacy Clay,8
+7,3,620,229,Polling,Cori Bush,143
+7,3,620,229,Polling,Demarco Davidson,2
+7,3,620,229,Polling,Joshua Shipp,6
+7,3,620,229,Polling,Lacy Clay,78
+7,2,643,220,Total,Cori Bush,136
+7,2,643,220,Total,Demarco Davidson,9
+7,2,643,220,Total,Joshua Shipp,8
+7,2,643,220,Total,Lacy Clay,67
+7,2,643,0,House Votes,Cori Bush,0
+7,2,643,0,House Votes,Demarco Davidson,0
+7,2,643,0,House Votes,Joshua Shipp,0
+7,2,643,0,House Votes,Lacy Clay,0
+7,2,643,0,Provisional,Cori Bush,0
+7,2,643,0,Provisional,Demarco Davidson,0
+7,2,643,0,Provisional,Joshua Shipp,0
+7,2,643,0,Provisional,Lacy Clay,0
+7,2,643,10,Absentee,Cori Bush,4
+7,2,643,10,Absentee,Demarco Davidson,0
+7,2,643,10,Absentee,Joshua Shipp,1
+7,2,643,10,Absentee,Lacy Clay,5
+7,2,643,210,Polling,Cori Bush,132
+7,2,643,210,Polling,Demarco Davidson,9
+7,2,643,210,Polling,Joshua Shipp,7
+7,2,643,210,Polling,Lacy Clay,62
+7,1,676,254,Total,Cori Bush,159
+7,1,676,254,Total,Demarco Davidson,6
+7,1,676,254,Total,Joshua Shipp,4
+7,1,676,254,Total,Lacy Clay,85
+7,1,676,0,House Votes,Cori Bush,0
+7,1,676,0,House Votes,Demarco Davidson,0
+7,1,676,0,House Votes,Joshua Shipp,0
+7,1,676,0,House Votes,Lacy Clay,0
+7,1,676,0,Provisional,Cori Bush,0
+7,1,676,0,Provisional,Demarco Davidson,0
+7,1,676,0,Provisional,Joshua Shipp,0
+7,1,676,0,Provisional,Lacy Clay,0
+7,1,676,10,Absentee,Cori Bush,7
+7,1,676,10,Absentee,Demarco Davidson,0
+7,1,676,10,Absentee,Joshua Shipp,0
+7,1,676,10,Absentee,Lacy Clay,3
+7,1,676,244,Polling,Cori Bush,152
+7,1,676,244,Polling,Demarco Davidson,6
+7,1,676,244,Polling,Joshua Shipp,4
+7,1,676,244,Polling,Lacy Clay,82
+6,9,111,40,Total,Cori Bush,23
+6,9,111,40,Total,Demarco Davidson,2
+6,9,111,40,Total,Joshua Shipp,0
+6,9,111,40,Total,Lacy Clay,15
+6,9,111,0,House Votes,Cori Bush,0
+6,9,111,0,House Votes,Demarco Davidson,0
+6,9,111,0,House Votes,Joshua Shipp,0
+6,9,111,0,House Votes,Lacy Clay,0
+6,9,111,1,Provisional,Cori Bush,1
+6,9,111,1,Provisional,Demarco Davidson,0
+6,9,111,1,Provisional,Joshua Shipp,0
+6,9,111,1,Provisional,Lacy Clay,0
+6,9,111,1,Absentee,Cori Bush,0
+6,9,111,1,Absentee,Demarco Davidson,0
+6,9,111,1,Absentee,Joshua Shipp,0
+6,9,111,1,Absentee,Lacy Clay,1
+6,9,111,38,Polling,Cori Bush,22
+6,9,111,38,Polling,Demarco Davidson,2
+6,9,111,38,Polling,Joshua Shipp,0
+6,9,111,38,Polling,Lacy Clay,14
+6,8,997,230,Total,Cori Bush,86
+6,8,997,230,Total,Demarco Davidson,7
+6,8,997,230,Total,Joshua Shipp,8
+6,8,997,230,Total,Lacy Clay,129
+6,8,997,0,House Votes,Cori Bush,0
+6,8,997,0,House Votes,Demarco Davidson,0
+6,8,997,0,House Votes,Joshua Shipp,0
+6,8,997,0,House Votes,Lacy Clay,0
+6,8,997,1,Provisional,Cori Bush,0
+6,8,997,1,Provisional,Demarco Davidson,0
+6,8,997,1,Provisional,Joshua Shipp,0
+6,8,997,1,Provisional,Lacy Clay,1
+6,8,997,24,Absentee,Cori Bush,6
+6,8,997,24,Absentee,Demarco Davidson,0
+6,8,997,24,Absentee,Joshua Shipp,1
+6,8,997,24,Absentee,Lacy Clay,17
+6,8,997,205,Polling,Cori Bush,80
+6,8,997,205,Polling,Demarco Davidson,7
+6,8,997,205,Polling,Joshua Shipp,7
+6,8,997,205,Polling,Lacy Clay,111
+6,7,1372,557,Total,Cori Bush,331
+6,7,1372,557,Total,Demarco Davidson,12
+6,7,1372,557,Total,Joshua Shipp,10
+6,7,1372,557,Total,Lacy Clay,204
+6,7,1372,0,House Votes,Cori Bush,0
+6,7,1372,0,House Votes,Demarco Davidson,0
+6,7,1372,0,House Votes,Joshua Shipp,0
+6,7,1372,0,House Votes,Lacy Clay,0
+6,7,1372,4,Provisional,Cori Bush,4
+6,7,1372,4,Provisional,Demarco Davidson,0
+6,7,1372,4,Provisional,Joshua Shipp,0
+6,7,1372,4,Provisional,Lacy Clay,0
+6,7,1372,23,Absentee,Cori Bush,13
+6,7,1372,23,Absentee,Demarco Davidson,0
+6,7,1372,23,Absentee,Joshua Shipp,0
+6,7,1372,23,Absentee,Lacy Clay,10
+6,7,1372,530,Polling,Cori Bush,314
+6,7,1372,530,Polling,Demarco Davidson,12
+6,7,1372,530,Polling,Joshua Shipp,10
+6,7,1372,530,Polling,Lacy Clay,194
+6,6,884,250,Total,Cori Bush,119
+6,6,884,250,Total,Demarco Davidson,4
+6,6,884,250,Total,Joshua Shipp,1
+6,6,884,250,Total,Lacy Clay,126
+6,6,884,0,House Votes,Cori Bush,0
+6,6,884,0,House Votes,Demarco Davidson,0
+6,6,884,0,House Votes,Joshua Shipp,0
+6,6,884,0,House Votes,Lacy Clay,0
+6,6,884,0,Provisional,Cori Bush,0
+6,6,884,0,Provisional,Demarco Davidson,0
+6,6,884,0,Provisional,Joshua Shipp,0
+6,6,884,0,Provisional,Lacy Clay,0
+6,6,884,14,Absentee,Cori Bush,5
+6,6,884,14,Absentee,Demarco Davidson,0
+6,6,884,14,Absentee,Joshua Shipp,0
+6,6,884,14,Absentee,Lacy Clay,9
+6,6,884,236,Polling,Cori Bush,114
+6,6,884,236,Polling,Demarco Davidson,4
+6,6,884,236,Polling,Joshua Shipp,1
+6,6,884,236,Polling,Lacy Clay,117
+6,5,483,193,Total,Cori Bush,34
+6,5,483,193,Total,Demarco Davidson,4
+6,5,483,193,Total,Joshua Shipp,1
+6,5,483,193,Total,Lacy Clay,154
+6,5,483,0,House Votes,Cori Bush,0
+6,5,483,0,House Votes,Demarco Davidson,0
+6,5,483,0,House Votes,Joshua Shipp,0
+6,5,483,0,House Votes,Lacy Clay,0
+6,5,483,6,Provisional,Cori Bush,0
+6,5,483,6,Provisional,Demarco Davidson,0
+6,5,483,6,Provisional,Joshua Shipp,0
+6,5,483,6,Provisional,Lacy Clay,6
+6,5,483,9,Absentee,Cori Bush,0
+6,5,483,9,Absentee,Demarco Davidson,0
+6,5,483,9,Absentee,Joshua Shipp,0
+6,5,483,9,Absentee,Lacy Clay,9
+6,5,483,178,Polling,Cori Bush,34
+6,5,483,178,Polling,Demarco Davidson,4
+6,5,483,178,Polling,Joshua Shipp,1
+6,5,483,178,Polling,Lacy Clay,139
+6,4,1032,457,Total,Cori Bush,178
+6,4,1032,457,Total,Demarco Davidson,6
+6,4,1032,457,Total,Joshua Shipp,5
+6,4,1032,457,Total,Lacy Clay,268
+6,4,1032,0,House Votes,Cori Bush,0
+6,4,1032,0,House Votes,Demarco Davidson,0
+6,4,1032,0,House Votes,Joshua Shipp,0
+6,4,1032,0,House Votes,Lacy Clay,0
+6,4,1032,0,Provisional,Cori Bush,0
+6,4,1032,0,Provisional,Demarco Davidson,0
+6,4,1032,0,Provisional,Joshua Shipp,0
+6,4,1032,0,Provisional,Lacy Clay,0
+6,4,1032,28,Absentee,Cori Bush,10
+6,4,1032,28,Absentee,Demarco Davidson,1
+6,4,1032,28,Absentee,Joshua Shipp,0
+6,4,1032,28,Absentee,Lacy Clay,17
+6,4,1032,429,Polling,Cori Bush,168
+6,4,1032,429,Polling,Demarco Davidson,5
+6,4,1032,429,Polling,Joshua Shipp,5
+6,4,1032,429,Polling,Lacy Clay,251
+6,3,1043,369,Total,Cori Bush,225
+6,3,1043,369,Total,Demarco Davidson,10
+6,3,1043,369,Total,Joshua Shipp,7
+6,3,1043,369,Total,Lacy Clay,127
+6,3,1043,0,House Votes,Cori Bush,0
+6,3,1043,0,House Votes,Demarco Davidson,0
+6,3,1043,0,House Votes,Joshua Shipp,0
+6,3,1043,0,House Votes,Lacy Clay,0
+6,3,1043,0,Provisional,Cori Bush,0
+6,3,1043,0,Provisional,Demarco Davidson,0
+6,3,1043,0,Provisional,Joshua Shipp,0
+6,3,1043,0,Provisional,Lacy Clay,0
+6,3,1043,12,Absentee,Cori Bush,7
+6,3,1043,12,Absentee,Demarco Davidson,0
+6,3,1043,12,Absentee,Joshua Shipp,0
+6,3,1043,12,Absentee,Lacy Clay,5
+6,3,1043,357,Polling,Cori Bush,218
+6,3,1043,357,Polling,Demarco Davidson,10
+6,3,1043,357,Polling,Joshua Shipp,7
+6,3,1043,357,Polling,Lacy Clay,122
+6,2,762,343,Total,Cori Bush,187
+6,2,762,343,Total,Demarco Davidson,8
+6,2,762,343,Total,Joshua Shipp,13
+6,2,762,343,Total,Lacy Clay,135
+6,2,762,0,House Votes,Cori Bush,0
+6,2,762,0,House Votes,Demarco Davidson,0
+6,2,762,0,House Votes,Joshua Shipp,0
+6,2,762,0,House Votes,Lacy Clay,0
+6,2,762,1,Provisional,Cori Bush,0
+6,2,762,1,Provisional,Demarco Davidson,0
+6,2,762,1,Provisional,Joshua Shipp,0
+6,2,762,1,Provisional,Lacy Clay,1
+6,2,762,28,Absentee,Cori Bush,12
+6,2,762,28,Absentee,Demarco Davidson,0
+6,2,762,28,Absentee,Joshua Shipp,0
+6,2,762,28,Absentee,Lacy Clay,16
+6,2,762,314,Polling,Cori Bush,175
+6,2,762,314,Polling,Demarco Davidson,8
+6,2,762,314,Polling,Joshua Shipp,13
+6,2,762,314,Polling,Lacy Clay,118
+6,1,905,342,Total,Cori Bush,156
+6,1,905,342,Total,Demarco Davidson,9
+6,1,905,342,Total,Joshua Shipp,7
+6,1,905,342,Total,Lacy Clay,170
+6,1,905,0,House Votes,Cori Bush,0
+6,1,905,0,House Votes,Demarco Davidson,0
+6,1,905,0,House Votes,Joshua Shipp,0
+6,1,905,0,House Votes,Lacy Clay,0
+6,1,905,0,Provisional,Cori Bush,0
+6,1,905,0,Provisional,Demarco Davidson,0
+6,1,905,0,Provisional,Joshua Shipp,0
+6,1,905,0,Provisional,Lacy Clay,0
+6,1,905,27,Absentee,Cori Bush,12
+6,1,905,27,Absentee,Demarco Davidson,0
+6,1,905,27,Absentee,Joshua Shipp,0
+6,1,905,27,Absentee,Lacy Clay,15
+6,1,905,315,Polling,Cori Bush,144
+6,1,905,315,Polling,Demarco Davidson,9
+6,1,905,315,Polling,Joshua Shipp,7
+6,1,905,315,Polling,Lacy Clay,155
+5,8,505,123,Total,Cori Bush,55
+5,8,505,123,Total,Demarco Davidson,7
+5,8,505,123,Total,Joshua Shipp,1
+5,8,505,123,Total,Lacy Clay,60
+5,8,505,0,House Votes,Cori Bush,0
+5,8,505,0,House Votes,Demarco Davidson,0
+5,8,505,0,House Votes,Joshua Shipp,0
+5,8,505,0,House Votes,Lacy Clay,0
+5,8,505,0,Provisional,Cori Bush,0
+5,8,505,0,Provisional,Demarco Davidson,0
+5,8,505,0,Provisional,Joshua Shipp,0
+5,8,505,0,Provisional,Lacy Clay,0
+5,8,505,24,Absentee,Cori Bush,4
+5,8,505,24,Absentee,Demarco Davidson,2
+5,8,505,24,Absentee,Joshua Shipp,0
+5,8,505,24,Absentee,Lacy Clay,18
+5,8,505,99,Polling,Cori Bush,51
+5,8,505,99,Polling,Demarco Davidson,5
+5,8,505,99,Polling,Joshua Shipp,1
+5,8,505,99,Polling,Lacy Clay,42
+5,7,1030,254,Total,Cori Bush,166
+5,7,1030,254,Total,Demarco Davidson,8
+5,7,1030,254,Total,Joshua Shipp,4
+5,7,1030,254,Total,Lacy Clay,76
+5,7,1030,0,House Votes,Cori Bush,0
+5,7,1030,0,House Votes,Demarco Davidson,0
+5,7,1030,0,House Votes,Joshua Shipp,0
+5,7,1030,0,House Votes,Lacy Clay,0
+5,7,1030,1,Provisional,Cori Bush,0
+5,7,1030,1,Provisional,Demarco Davidson,0
+5,7,1030,1,Provisional,Joshua Shipp,0
+5,7,1030,1,Provisional,Lacy Clay,1
+5,7,1030,20,Absentee,Cori Bush,11
+5,7,1030,20,Absentee,Demarco Davidson,2
+5,7,1030,20,Absentee,Joshua Shipp,0
+5,7,1030,20,Absentee,Lacy Clay,7
+5,7,1030,233,Polling,Cori Bush,155
+5,7,1030,233,Polling,Demarco Davidson,6
+5,7,1030,233,Polling,Joshua Shipp,4
+5,7,1030,233,Polling,Lacy Clay,68
+5,6,1016,243,Total,Cori Bush,90
+5,6,1016,243,Total,Demarco Davidson,9
+5,6,1016,243,Total,Joshua Shipp,2
+5,6,1016,243,Total,Lacy Clay,142
+5,6,1016,0,House Votes,Cori Bush,0
+5,6,1016,0,House Votes,Demarco Davidson,0
+5,6,1016,0,House Votes,Joshua Shipp,0
+5,6,1016,0,House Votes,Lacy Clay,0
+5,6,1016,0,Provisional,Cori Bush,0
+5,6,1016,0,Provisional,Demarco Davidson,0
+5,6,1016,0,Provisional,Joshua Shipp,0
+5,6,1016,0,Provisional,Lacy Clay,0
+5,6,1016,21,Absentee,Cori Bush,2
+5,6,1016,21,Absentee,Demarco Davidson,0
+5,6,1016,21,Absentee,Joshua Shipp,0
+5,6,1016,21,Absentee,Lacy Clay,19
+5,6,1016,222,Polling,Cori Bush,88
+5,6,1016,222,Polling,Demarco Davidson,9
+5,6,1016,222,Polling,Joshua Shipp,2
+5,6,1016,222,Polling,Lacy Clay,123
+5,5,829,142,Total,Cori Bush,44
+5,5,829,142,Total,Demarco Davidson,3
+5,5,829,142,Total,Joshua Shipp,1
+5,5,829,142,Total,Lacy Clay,94
+5,5,829,0,House Votes,Cori Bush,0
+5,5,829,0,House Votes,Demarco Davidson,0
+5,5,829,0,House Votes,Joshua Shipp,0
+5,5,829,0,House Votes,Lacy Clay,0
+5,5,829,8,Provisional,Cori Bush,1
+5,5,829,8,Provisional,Demarco Davidson,1
+5,5,829,8,Provisional,Joshua Shipp,0
+5,5,829,8,Provisional,Lacy Clay,6
+5,5,829,7,Absentee,Cori Bush,0
+5,5,829,7,Absentee,Demarco Davidson,0
+5,5,829,7,Absentee,Joshua Shipp,0
+5,5,829,7,Absentee,Lacy Clay,7
+5,5,829,127,Polling,Cori Bush,43
+5,5,829,127,Polling,Demarco Davidson,2
+5,5,829,127,Polling,Joshua Shipp,1
+5,5,829,127,Polling,Lacy Clay,81
+5,4,488,136,Total,Cori Bush,53
+5,4,488,136,Total,Demarco Davidson,6
+5,4,488,136,Total,Joshua Shipp,1
+5,4,488,136,Total,Lacy Clay,76
+5,4,488,0,House Votes,Cori Bush,0
+5,4,488,0,House Votes,Demarco Davidson,0
+5,4,488,0,House Votes,Joshua Shipp,0
+5,4,488,0,House Votes,Lacy Clay,0
+5,4,488,0,Provisional,Cori Bush,0
+5,4,488,0,Provisional,Demarco Davidson,0
+5,4,488,0,Provisional,Joshua Shipp,0
+5,4,488,0,Provisional,Lacy Clay,0
+5,4,488,5,Absentee,Cori Bush,3
+5,4,488,5,Absentee,Demarco Davidson,0
+5,4,488,5,Absentee,Joshua Shipp,0
+5,4,488,5,Absentee,Lacy Clay,2
+5,4,488,131,Polling,Cori Bush,50
+5,4,488,131,Polling,Demarco Davidson,6
+5,4,488,131,Polling,Joshua Shipp,1
+5,4,488,131,Polling,Lacy Clay,74
+5,3,873,227,Total,Cori Bush,43
+5,3,873,227,Total,Demarco Davidson,6
+5,3,873,227,Total,Joshua Shipp,4
+5,3,873,227,Total,Lacy Clay,174
+5,3,873,0,House Votes,Cori Bush,0
+5,3,873,0,House Votes,Demarco Davidson,0
+5,3,873,0,House Votes,Joshua Shipp,0
+5,3,873,0,House Votes,Lacy Clay,0
+5,3,873,9,Provisional,Cori Bush,2
+5,3,873,9,Provisional,Demarco Davidson,0
+5,3,873,9,Provisional,Joshua Shipp,0
+5,3,873,9,Provisional,Lacy Clay,7
+5,3,873,34,Absentee,Cori Bush,1
+5,3,873,34,Absentee,Demarco Davidson,1
+5,3,873,34,Absentee,Joshua Shipp,0
+5,3,873,34,Absentee,Lacy Clay,32
+5,3,873,184,Polling,Cori Bush,40
+5,3,873,184,Polling,Demarco Davidson,5
+5,3,873,184,Polling,Joshua Shipp,4
+5,3,873,184,Polling,Lacy Clay,135
+5,2,579,134,Total,Cori Bush,48
+5,2,579,134,Total,Demarco Davidson,7
+5,2,579,134,Total,Joshua Shipp,1
+5,2,579,134,Total,Lacy Clay,78
+5,2,579,0,House Votes,Cori Bush,0
+5,2,579,0,House Votes,Demarco Davidson,0
+5,2,579,0,House Votes,Joshua Shipp,0
+5,2,579,0,House Votes,Lacy Clay,0
+5,2,579,0,Provisional,Cori Bush,0
+5,2,579,0,Provisional,Demarco Davidson,0
+5,2,579,0,Provisional,Joshua Shipp,0
+5,2,579,0,Provisional,Lacy Clay,0
+5,2,579,6,Absentee,Cori Bush,2
+5,2,579,6,Absentee,Demarco Davidson,1
+5,2,579,6,Absentee,Joshua Shipp,0
+5,2,579,6,Absentee,Lacy Clay,3
+5,2,579,128,Polling,Cori Bush,46
+5,2,579,128,Polling,Demarco Davidson,6
+5,2,579,128,Polling,Joshua Shipp,1
+5,2,579,128,Polling,Lacy Clay,75
+5,1,407,121,Total,Cori Bush,32
+5,1,407,121,Total,Demarco Davidson,1
+5,1,407,121,Total,Joshua Shipp,1
+5,1,407,121,Total,Lacy Clay,87
+5,1,407,0,House Votes,Cori Bush,0
+5,1,407,0,House Votes,Demarco Davidson,0
+5,1,407,0,House Votes,Joshua Shipp,0
+5,1,407,0,House Votes,Lacy Clay,0
+5,1,407,0,Provisional,Cori Bush,0
+5,1,407,0,Provisional,Demarco Davidson,0
+5,1,407,0,Provisional,Joshua Shipp,0
+5,1,407,0,Provisional,Lacy Clay,0
+5,1,407,21,Absentee,Cori Bush,2
+5,1,407,21,Absentee,Demarco Davidson,1
+5,1,407,21,Absentee,Joshua Shipp,0
+5,1,407,21,Absentee,Lacy Clay,18
+5,1,407,100,Polling,Cori Bush,30
+5,1,407,100,Polling,Demarco Davidson,0
+5,1,407,100,Polling,Joshua Shipp,1
+5,1,407,100,Polling,Lacy Clay,69
+4,10,237,41,Total,Cori Bush,8
+4,10,237,41,Total,Demarco Davidson,1
+4,10,237,41,Total,Joshua Shipp,0
+4,10,237,41,Total,Lacy Clay,32
+4,10,237,0,House Votes,Cori Bush,0
+4,10,237,0,House Votes,Demarco Davidson,0
+4,10,237,0,House Votes,Joshua Shipp,0
+4,10,237,0,House Votes,Lacy Clay,0
+4,10,237,0,Provisional,Cori Bush,0
+4,10,237,0,Provisional,Demarco Davidson,0
+4,10,237,0,Provisional,Joshua Shipp,0
+4,10,237,0,Provisional,Lacy Clay,0
+4,10,237,5,Absentee,Cori Bush,0
+4,10,237,5,Absentee,Demarco Davidson,0
+4,10,237,5,Absentee,Joshua Shipp,0
+4,10,237,5,Absentee,Lacy Clay,5
+4,10,237,36,Polling,Cori Bush,8
+4,10,237,36,Polling,Demarco Davidson,1
+4,10,237,36,Polling,Joshua Shipp,0
+4,10,237,36,Polling,Lacy Clay,27
+4,9,136,51,Total,Cori Bush,9
+4,9,136,51,Total,Demarco Davidson,2
+4,9,136,51,Total,Joshua Shipp,0
+4,9,136,51,Total,Lacy Clay,40
+4,9,136,0,House Votes,Cori Bush,0
+4,9,136,0,House Votes,Demarco Davidson,0
+4,9,136,0,House Votes,Joshua Shipp,0
+4,9,136,0,House Votes,Lacy Clay,0
+4,9,136,0,Provisional,Cori Bush,0
+4,9,136,0,Provisional,Demarco Davidson,0
+4,9,136,0,Provisional,Joshua Shipp,0
+4,9,136,0,Provisional,Lacy Clay,0
+4,9,136,2,Absentee,Cori Bush,1
+4,9,136,2,Absentee,Demarco Davidson,0
+4,9,136,2,Absentee,Joshua Shipp,0
+4,9,136,2,Absentee,Lacy Clay,1
+4,9,136,49,Polling,Cori Bush,8
+4,9,136,49,Polling,Demarco Davidson,2
+4,9,136,49,Polling,Joshua Shipp,0
+4,9,136,49,Polling,Lacy Clay,39
+4,8,161,30,Total,Cori Bush,8
+4,8,161,30,Total,Demarco Davidson,0
+4,8,161,30,Total,Joshua Shipp,1
+4,8,161,30,Total,Lacy Clay,21
+4,8,161,0,House Votes,Cori Bush,0
+4,8,161,0,House Votes,Demarco Davidson,0
+4,8,161,0,House Votes,Joshua Shipp,0
+4,8,161,0,House Votes,Lacy Clay,0
+4,8,161,0,Provisional,Cori Bush,0
+4,8,161,0,Provisional,Demarco Davidson,0
+4,8,161,0,Provisional,Joshua Shipp,0
+4,8,161,0,Provisional,Lacy Clay,0
+4,8,161,3,Absentee,Cori Bush,0
+4,8,161,3,Absentee,Demarco Davidson,0
+4,8,161,3,Absentee,Joshua Shipp,1
+4,8,161,3,Absentee,Lacy Clay,2
+4,8,161,27,Polling,Cori Bush,8
+4,8,161,27,Polling,Demarco Davidson,0
+4,8,161,27,Polling,Joshua Shipp,0
+4,8,161,27,Polling,Lacy Clay,19
+4,7,754,202,Total,Cori Bush,45
+4,7,754,202,Total,Demarco Davidson,2
+4,7,754,202,Total,Joshua Shipp,2
+4,7,754,202,Total,Lacy Clay,153
+4,7,754,0,House Votes,Cori Bush,0
+4,7,754,0,House Votes,Demarco Davidson,0
+4,7,754,0,House Votes,Joshua Shipp,0
+4,7,754,0,House Votes,Lacy Clay,0
+4,7,754,0,Provisional,Cori Bush,0
+4,7,754,0,Provisional,Demarco Davidson,0
+4,7,754,0,Provisional,Joshua Shipp,0
+4,7,754,0,Provisional,Lacy Clay,0
+4,7,754,14,Absentee,Cori Bush,1
+4,7,754,14,Absentee,Demarco Davidson,0
+4,7,754,14,Absentee,Joshua Shipp,0
+4,7,754,14,Absentee,Lacy Clay,13
+4,7,754,188,Polling,Cori Bush,44
+4,7,754,188,Polling,Demarco Davidson,2
+4,7,754,188,Polling,Joshua Shipp,2
+4,7,754,188,Polling,Lacy Clay,140
+4,6,516,123,Total,Cori Bush,25
+4,6,516,123,Total,Demarco Davidson,0
+4,6,516,123,Total,Joshua Shipp,2
+4,6,516,123,Total,Lacy Clay,96
+4,6,516,0,House Votes,Cori Bush,0
+4,6,516,0,House Votes,Demarco Davidson,0
+4,6,516,0,House Votes,Joshua Shipp,0
+4,6,516,0,House Votes,Lacy Clay,0
+4,6,516,1,Provisional,Cori Bush,0
+4,6,516,1,Provisional,Demarco Davidson,0
+4,6,516,1,Provisional,Joshua Shipp,0
+4,6,516,1,Provisional,Lacy Clay,1
+4,6,516,8,Absentee,Cori Bush,0
+4,6,516,8,Absentee,Demarco Davidson,0
+4,6,516,8,Absentee,Joshua Shipp,0
+4,6,516,8,Absentee,Lacy Clay,8
+4,6,516,114,Polling,Cori Bush,25
+4,6,516,114,Polling,Demarco Davidson,0
+4,6,516,114,Polling,Joshua Shipp,2
+4,6,516,114,Polling,Lacy Clay,87
+4,5,725,203,Total,Cori Bush,44
+4,5,725,203,Total,Demarco Davidson,7
+4,5,725,203,Total,Joshua Shipp,3
+4,5,725,203,Total,Lacy Clay,149
+4,5,725,0,House Votes,Cori Bush,0
+4,5,725,0,House Votes,Demarco Davidson,0
+4,5,725,0,House Votes,Joshua Shipp,0
+4,5,725,0,House Votes,Lacy Clay,0
+4,5,725,0,Provisional,Cori Bush,0
+4,5,725,0,Provisional,Demarco Davidson,0
+4,5,725,0,Provisional,Joshua Shipp,0
+4,5,725,0,Provisional,Lacy Clay,0
+4,5,725,14,Absentee,Cori Bush,1
+4,5,725,14,Absentee,Demarco Davidson,3
+4,5,725,14,Absentee,Joshua Shipp,1
+4,5,725,14,Absentee,Lacy Clay,9
+4,5,725,189,Polling,Cori Bush,43
+4,5,725,189,Polling,Demarco Davidson,4
+4,5,725,189,Polling,Joshua Shipp,2
+4,5,725,189,Polling,Lacy Clay,140
+4,4,924,228,Total,Cori Bush,45
+4,4,924,228,Total,Demarco Davidson,4
+4,4,924,228,Total,Joshua Shipp,6
+4,4,924,228,Total,Lacy Clay,173
+4,4,924,0,House Votes,Cori Bush,0
+4,4,924,0,House Votes,Demarco Davidson,0
+4,4,924,0,House Votes,Joshua Shipp,0
+4,4,924,0,House Votes,Lacy Clay,0
+4,4,924,0,Provisional,Cori Bush,0
+4,4,924,0,Provisional,Demarco Davidson,0
+4,4,924,0,Provisional,Joshua Shipp,0
+4,4,924,0,Provisional,Lacy Clay,0
+4,4,924,15,Absentee,Cori Bush,4
+4,4,924,15,Absentee,Demarco Davidson,0
+4,4,924,15,Absentee,Joshua Shipp,0
+4,4,924,15,Absentee,Lacy Clay,11
+4,4,924,213,Polling,Cori Bush,41
+4,4,924,213,Polling,Demarco Davidson,4
+4,4,924,213,Polling,Joshua Shipp,6
+4,4,924,213,Polling,Lacy Clay,162
+4,3,600,159,Total,Cori Bush,29
+4,3,600,159,Total,Demarco Davidson,6
+4,3,600,159,Total,Joshua Shipp,0
+4,3,600,159,Total,Lacy Clay,124
+4,3,600,0,House Votes,Cori Bush,0
+4,3,600,0,House Votes,Demarco Davidson,0
+4,3,600,0,House Votes,Joshua Shipp,0
+4,3,600,0,House Votes,Lacy Clay,0
+4,3,600,0,Provisional,Cori Bush,0
+4,3,600,0,Provisional,Demarco Davidson,0
+4,3,600,0,Provisional,Joshua Shipp,0
+4,3,600,0,Provisional,Lacy Clay,0
+4,3,600,4,Absentee,Cori Bush,0
+4,3,600,4,Absentee,Demarco Davidson,0
+4,3,600,4,Absentee,Joshua Shipp,0
+4,3,600,4,Absentee,Lacy Clay,4
+4,3,600,155,Polling,Cori Bush,29
+4,3,600,155,Polling,Demarco Davidson,6
+4,3,600,155,Polling,Joshua Shipp,0
+4,3,600,155,Polling,Lacy Clay,120
+4,2,1450,347,Total,Cori Bush,88
+4,2,1450,347,Total,Demarco Davidson,12
+4,2,1450,347,Total,Joshua Shipp,6
+4,2,1450,347,Total,Lacy Clay,241
+4,2,1450,0,House Votes,Cori Bush,0
+4,2,1450,0,House Votes,Demarco Davidson,0
+4,2,1450,0,House Votes,Joshua Shipp,0
+4,2,1450,0,House Votes,Lacy Clay,0
+4,2,1450,1,Provisional,Cori Bush,0
+4,2,1450,1,Provisional,Demarco Davidson,1
+4,2,1450,1,Provisional,Joshua Shipp,0
+4,2,1450,1,Provisional,Lacy Clay,0
+4,2,1450,20,Absentee,Cori Bush,3
+4,2,1450,20,Absentee,Demarco Davidson,0
+4,2,1450,20,Absentee,Joshua Shipp,2
+4,2,1450,20,Absentee,Lacy Clay,15
+4,2,1450,326,Polling,Cori Bush,85
+4,2,1450,326,Polling,Demarco Davidson,11
+4,2,1450,326,Polling,Joshua Shipp,4
+4,2,1450,326,Polling,Lacy Clay,226
+4,1,664,200,Total,Cori Bush,36
+4,1,664,200,Total,Demarco Davidson,3
+4,1,664,200,Total,Joshua Shipp,3
+4,1,664,200,Total,Lacy Clay,158
+4,1,664,0,House Votes,Cori Bush,0
+4,1,664,0,House Votes,Demarco Davidson,0
+4,1,664,0,House Votes,Joshua Shipp,0
+4,1,664,0,House Votes,Lacy Clay,0
+4,1,664,0,Provisional,Cori Bush,0
+4,1,664,0,Provisional,Demarco Davidson,0
+4,1,664,0,Provisional,Joshua Shipp,0
+4,1,664,0,Provisional,Lacy Clay,0
+4,1,664,39,Absentee,Cori Bush,1
+4,1,664,39,Absentee,Demarco Davidson,1
+4,1,664,39,Absentee,Joshua Shipp,1
+4,1,664,39,Absentee,Lacy Clay,36
+4,1,664,161,Polling,Cori Bush,35
+4,1,664,161,Polling,Demarco Davidson,2
+4,1,664,161,Polling,Joshua Shipp,2
+4,1,664,161,Polling,Lacy Clay,122
+3,9,471,114,Total,Cori Bush,49
+3,9,471,114,Total,Demarco Davidson,5
+3,9,471,114,Total,Joshua Shipp,7
+3,9,471,114,Total,Lacy Clay,53
+3,9,471,0,House Votes,Cori Bush,0
+3,9,471,0,House Votes,Demarco Davidson,0
+3,9,471,0,House Votes,Joshua Shipp,0
+3,9,471,0,House Votes,Lacy Clay,0
+3,9,471,0,Provisional,Cori Bush,0
+3,9,471,0,Provisional,Demarco Davidson,0
+3,9,471,0,Provisional,Joshua Shipp,0
+3,9,471,0,Provisional,Lacy Clay,0
+3,9,471,11,Absentee,Cori Bush,2
+3,9,471,11,Absentee,Demarco Davidson,0
+3,9,471,11,Absentee,Joshua Shipp,1
+3,9,471,11,Absentee,Lacy Clay,8
+3,9,471,103,Polling,Cori Bush,47
+3,9,471,103,Polling,Demarco Davidson,5
+3,9,471,103,Polling,Joshua Shipp,6
+3,9,471,103,Polling,Lacy Clay,45
+3,8,545,108,Total,Cori Bush,14
+3,8,545,108,Total,Demarco Davidson,8
+3,8,545,108,Total,Joshua Shipp,1
+3,8,545,108,Total,Lacy Clay,85
+3,8,545,0,House Votes,Cori Bush,0
+3,8,545,0,House Votes,Demarco Davidson,0
+3,8,545,0,House Votes,Joshua Shipp,0
+3,8,545,0,House Votes,Lacy Clay,0
+3,8,545,0,Provisional,Cori Bush,0
+3,8,545,0,Provisional,Demarco Davidson,0
+3,8,545,0,Provisional,Joshua Shipp,0
+3,8,545,0,Provisional,Lacy Clay,0
+3,8,545,11,Absentee,Cori Bush,0
+3,8,545,11,Absentee,Demarco Davidson,1
+3,8,545,11,Absentee,Joshua Shipp,0
+3,8,545,11,Absentee,Lacy Clay,10
+3,8,545,97,Polling,Cori Bush,14
+3,8,545,97,Polling,Demarco Davidson,7
+3,8,545,97,Polling,Joshua Shipp,1
+3,8,545,97,Polling,Lacy Clay,75
+3,7,950,239,Total,Cori Bush,57
+3,7,950,239,Total,Demarco Davidson,10
+3,7,950,239,Total,Joshua Shipp,5
+3,7,950,239,Total,Lacy Clay,167
+3,7,950,0,House Votes,Cori Bush,0
+3,7,950,0,House Votes,Demarco Davidson,0
+3,7,950,0,House Votes,Joshua Shipp,0
+3,7,950,0,House Votes,Lacy Clay,0
+3,7,950,0,Provisional,Cori Bush,0
+3,7,950,0,Provisional,Demarco Davidson,0
+3,7,950,0,Provisional,Joshua Shipp,0
+3,7,950,0,Provisional,Lacy Clay,0
+3,7,950,13,Absentee,Cori Bush,0
+3,7,950,13,Absentee,Demarco Davidson,1
+3,7,950,13,Absentee,Joshua Shipp,0
+3,7,950,13,Absentee,Lacy Clay,12
+3,7,950,226,Polling,Cori Bush,57
+3,7,950,226,Polling,Demarco Davidson,9
+3,7,950,226,Polling,Joshua Shipp,5
+3,7,950,226,Polling,Lacy Clay,155
+3,6,685,180,Total,Cori Bush,29
+3,6,685,180,Total,Demarco Davidson,3
+3,6,685,180,Total,Joshua Shipp,1
+3,6,685,180,Total,Lacy Clay,147
+3,6,685,0,House Votes,Cori Bush,0
+3,6,685,0,House Votes,Demarco Davidson,0
+3,6,685,0,House Votes,Joshua Shipp,0
+3,6,685,0,House Votes,Lacy Clay,0
+3,6,685,0,Provisional,Cori Bush,0
+3,6,685,0,Provisional,Demarco Davidson,0
+3,6,685,0,Provisional,Joshua Shipp,0
+3,6,685,0,Provisional,Lacy Clay,0
+3,6,685,12,Absentee,Cori Bush,0
+3,6,685,12,Absentee,Demarco Davidson,0
+3,6,685,12,Absentee,Joshua Shipp,0
+3,6,685,12,Absentee,Lacy Clay,12
+3,6,685,168,Polling,Cori Bush,29
+3,6,685,168,Polling,Demarco Davidson,3
+3,6,685,168,Polling,Joshua Shipp,1
+3,6,685,168,Polling,Lacy Clay,135
+3,5,611,113,Total,Cori Bush,13
+3,5,611,113,Total,Demarco Davidson,3
+3,5,611,113,Total,Joshua Shipp,2
+3,5,611,113,Total,Lacy Clay,95
+3,5,611,0,House Votes,Cori Bush,0
+3,5,611,0,House Votes,Demarco Davidson,0
+3,5,611,0,House Votes,Joshua Shipp,0
+3,5,611,0,House Votes,Lacy Clay,0
+3,5,611,1,Provisional,Cori Bush,0
+3,5,611,1,Provisional,Demarco Davidson,0
+3,5,611,1,Provisional,Joshua Shipp,0
+3,5,611,1,Provisional,Lacy Clay,1
+3,5,611,6,Absentee,Cori Bush,2
+3,5,611,6,Absentee,Demarco Davidson,0
+3,5,611,6,Absentee,Joshua Shipp,1
+3,5,611,6,Absentee,Lacy Clay,3
+3,5,611,106,Polling,Cori Bush,11
+3,5,611,106,Polling,Demarco Davidson,3
+3,5,611,106,Polling,Joshua Shipp,1
+3,5,611,106,Polling,Lacy Clay,91
+3,4,823,187,Total,Cori Bush,34
+3,4,823,187,Total,Demarco Davidson,4
+3,4,823,187,Total,Joshua Shipp,10
+3,4,823,187,Total,Lacy Clay,139
+3,4,823,0,House Votes,Cori Bush,0
+3,4,823,0,House Votes,Demarco Davidson,0
+3,4,823,0,House Votes,Joshua Shipp,0
+3,4,823,0,House Votes,Lacy Clay,0
+3,4,823,0,Provisional,Cori Bush,0
+3,4,823,0,Provisional,Demarco Davidson,0
+3,4,823,0,Provisional,Joshua Shipp,0
+3,4,823,0,Provisional,Lacy Clay,0
+3,4,823,11,Absentee,Cori Bush,1
+3,4,823,11,Absentee,Demarco Davidson,1
+3,4,823,11,Absentee,Joshua Shipp,2
+3,4,823,11,Absentee,Lacy Clay,7
+3,4,823,176,Polling,Cori Bush,33
+3,4,823,176,Polling,Demarco Davidson,3
+3,4,823,176,Polling,Joshua Shipp,8
+3,4,823,176,Polling,Lacy Clay,132
+3,3,506,149,Total,Cori Bush,31
+3,3,506,149,Total,Demarco Davidson,9
+3,3,506,149,Total,Joshua Shipp,0
+3,3,506,149,Total,Lacy Clay,109
+3,3,506,0,House Votes,Cori Bush,0
+3,3,506,0,House Votes,Demarco Davidson,0
+3,3,506,0,House Votes,Joshua Shipp,0
+3,3,506,0,House Votes,Lacy Clay,0
+3,3,506,0,Provisional,Cori Bush,0
+3,3,506,0,Provisional,Demarco Davidson,0
+3,3,506,0,Provisional,Joshua Shipp,0
+3,3,506,0,Provisional,Lacy Clay,0
+3,3,506,28,Absentee,Cori Bush,3
+3,3,506,28,Absentee,Demarco Davidson,0
+3,3,506,28,Absentee,Joshua Shipp,0
+3,3,506,28,Absentee,Lacy Clay,25
+3,3,506,121,Polling,Cori Bush,28
+3,3,506,121,Polling,Demarco Davidson,9
+3,3,506,121,Polling,Joshua Shipp,0
+3,3,506,121,Polling,Lacy Clay,84
+3,2,877,293,Total,Cori Bush,57
+3,2,877,293,Total,Demarco Davidson,7
+3,2,877,293,Total,Joshua Shipp,2
+3,2,877,293,Total,Lacy Clay,227
+3,2,877,0,House Votes,Cori Bush,0
+3,2,877,0,House Votes,Demarco Davidson,0
+3,2,877,0,House Votes,Joshua Shipp,0
+3,2,877,0,House Votes,Lacy Clay,0
+3,2,877,0,Provisional,Cori Bush,0
+3,2,877,0,Provisional,Demarco Davidson,0
+3,2,877,0,Provisional,Joshua Shipp,0
+3,2,877,0,Provisional,Lacy Clay,0
+3,2,877,12,Absentee,Cori Bush,1
+3,2,877,12,Absentee,Demarco Davidson,1
+3,2,877,12,Absentee,Joshua Shipp,0
+3,2,877,12,Absentee,Lacy Clay,10
+3,2,877,281,Polling,Cori Bush,56
+3,2,877,281,Polling,Demarco Davidson,6
+3,2,877,281,Polling,Joshua Shipp,2
+3,2,877,281,Polling,Lacy Clay,217
+3,1,289,112,Total,Cori Bush,33
+3,1,289,112,Total,Demarco Davidson,8
+3,1,289,112,Total,Joshua Shipp,1
+3,1,289,112,Total,Lacy Clay,70
+3,1,289,0,House Votes,Cori Bush,0
+3,1,289,0,House Votes,Demarco Davidson,0
+3,1,289,0,House Votes,Joshua Shipp,0
+3,1,289,0,House Votes,Lacy Clay,0
+3,1,289,0,Provisional,Cori Bush,0
+3,1,289,0,Provisional,Demarco Davidson,0
+3,1,289,0,Provisional,Joshua Shipp,0
+3,1,289,0,Provisional,Lacy Clay,0
+3,1,289,4,Absentee,Cori Bush,1
+3,1,289,4,Absentee,Demarco Davidson,0
+3,1,289,4,Absentee,Joshua Shipp,0
+3,1,289,4,Absentee,Lacy Clay,3
+3,1,289,108,Polling,Cori Bush,32
+3,1,289,108,Polling,Demarco Davidson,8
+3,1,289,108,Polling,Joshua Shipp,1
+3,1,289,108,Polling,Lacy Clay,67
+2,8,1284,345,Total,Cori Bush,47
+2,8,1284,345,Total,Demarco Davidson,10
+2,8,1284,345,Total,Joshua Shipp,6
+2,8,1284,345,Total,Lacy Clay,282
+2,8,1284,0,House Votes,Cori Bush,0
+2,8,1284,0,House Votes,Demarco Davidson,0
+2,8,1284,0,House Votes,Joshua Shipp,0
+2,8,1284,0,House Votes,Lacy Clay,0
+2,8,1284,3,Provisional,Cori Bush,1
+2,8,1284,3,Provisional,Demarco Davidson,1
+2,8,1284,3,Provisional,Joshua Shipp,0
+2,8,1284,3,Provisional,Lacy Clay,1
+2,8,1284,15,Absentee,Cori Bush,2
+2,8,1284,15,Absentee,Demarco Davidson,0
+2,8,1284,15,Absentee,Joshua Shipp,0
+2,8,1284,15,Absentee,Lacy Clay,13
+2,8,1284,327,Polling,Cori Bush,44
+2,8,1284,327,Polling,Demarco Davidson,9
+2,8,1284,327,Polling,Joshua Shipp,6
+2,8,1284,327,Polling,Lacy Clay,268
+2,7,1006,393,Total,Cori Bush,70
+2,7,1006,393,Total,Demarco Davidson,10
+2,7,1006,393,Total,Joshua Shipp,9
+2,7,1006,393,Total,Lacy Clay,304
+2,7,1006,0,House Votes,Cori Bush,0
+2,7,1006,0,House Votes,Demarco Davidson,0
+2,7,1006,0,House Votes,Joshua Shipp,0
+2,7,1006,0,House Votes,Lacy Clay,0
+2,7,1006,0,Provisional,Cori Bush,0
+2,7,1006,0,Provisional,Demarco Davidson,0
+2,7,1006,0,Provisional,Joshua Shipp,0
+2,7,1006,0,Provisional,Lacy Clay,0
+2,7,1006,57,Absentee,Cori Bush,11
+2,7,1006,57,Absentee,Demarco Davidson,3
+2,7,1006,57,Absentee,Joshua Shipp,4
+2,7,1006,57,Absentee,Lacy Clay,39
+2,7,1006,336,Polling,Cori Bush,59
+2,7,1006,336,Polling,Demarco Davidson,7
+2,7,1006,336,Polling,Joshua Shipp,5
+2,7,1006,336,Polling,Lacy Clay,265
+2,6,18,1,Total,Cori Bush,0
+2,6,18,1,Total,Demarco Davidson,0
+2,6,18,1,Total,Joshua Shipp,0
+2,6,18,1,Total,Lacy Clay,1
+2,6,18,0,House Votes,Cori Bush,0
+2,6,18,0,House Votes,Demarco Davidson,0
+2,6,18,0,House Votes,Joshua Shipp,0
+2,6,18,0,House Votes,Lacy Clay,0
+2,6,18,0,Provisional,Cori Bush,0
+2,6,18,0,Provisional,Demarco Davidson,0
+2,6,18,0,Provisional,Joshua Shipp,0
+2,6,18,0,Provisional,Lacy Clay,0
+2,6,18,0,Absentee,Cori Bush,0
+2,6,18,0,Absentee,Demarco Davidson,0
+2,6,18,0,Absentee,Joshua Shipp,0
+2,6,18,0,Absentee,Lacy Clay,0
+2,6,18,1,Polling,Cori Bush,0
+2,6,18,1,Polling,Demarco Davidson,0
+2,6,18,1,Polling,Joshua Shipp,0
+2,6,18,1,Polling,Lacy Clay,1
+2,5,1076,429,Total,Cori Bush,86
+2,5,1076,429,Total,Demarco Davidson,12
+2,5,1076,429,Total,Joshua Shipp,7
+2,5,1076,429,Total,Lacy Clay,324
+2,5,1076,0,House Votes,Cori Bush,0
+2,5,1076,0,House Votes,Demarco Davidson,0
+2,5,1076,0,House Votes,Joshua Shipp,0
+2,5,1076,0,House Votes,Lacy Clay,0
+2,5,1076,0,Provisional,Cori Bush,0
+2,5,1076,0,Provisional,Demarco Davidson,0
+2,5,1076,0,Provisional,Joshua Shipp,0
+2,5,1076,0,Provisional,Lacy Clay,0
+2,5,1076,41,Absentee,Cori Bush,6
+2,5,1076,41,Absentee,Demarco Davidson,1
+2,5,1076,41,Absentee,Joshua Shipp,1
+2,5,1076,41,Absentee,Lacy Clay,33
+2,5,1076,388,Polling,Cori Bush,80
+2,5,1076,388,Polling,Demarco Davidson,11
+2,5,1076,388,Polling,Joshua Shipp,6
+2,5,1076,388,Polling,Lacy Clay,291
+2,4,616,165,Total,Cori Bush,33
+2,4,616,165,Total,Demarco Davidson,7
+2,4,616,165,Total,Joshua Shipp,6
+2,4,616,165,Total,Lacy Clay,119
+2,4,616,0,House Votes,Cori Bush,0
+2,4,616,0,House Votes,Demarco Davidson,0
+2,4,616,0,House Votes,Joshua Shipp,0
+2,4,616,0,House Votes,Lacy Clay,0
+2,4,616,0,Provisional,Cori Bush,0
+2,4,616,0,Provisional,Demarco Davidson,0
+2,4,616,0,Provisional,Joshua Shipp,0
+2,4,616,0,Provisional,Lacy Clay,0
+2,4,616,12,Absentee,Cori Bush,0
+2,4,616,12,Absentee,Demarco Davidson,0
+2,4,616,12,Absentee,Joshua Shipp,0
+2,4,616,12,Absentee,Lacy Clay,12
+2,4,616,153,Polling,Cori Bush,33
+2,4,616,153,Polling,Demarco Davidson,7
+2,4,616,153,Polling,Joshua Shipp,6
+2,4,616,153,Polling,Lacy Clay,107
+2,3,1044,274,Total,Cori Bush,58
+2,3,1044,274,Total,Demarco Davidson,10
+2,3,1044,274,Total,Joshua Shipp,5
+2,3,1044,274,Total,Lacy Clay,201
+2,3,1044,0,House Votes,Cori Bush,0
+2,3,1044,0,House Votes,Demarco Davidson,0
+2,3,1044,0,House Votes,Joshua Shipp,0
+2,3,1044,0,House Votes,Lacy Clay,0
+2,3,1044,0,Provisional,Cori Bush,0
+2,3,1044,0,Provisional,Demarco Davidson,0
+2,3,1044,0,Provisional,Joshua Shipp,0
+2,3,1044,0,Provisional,Lacy Clay,0
+2,3,1044,10,Absentee,Cori Bush,4
+2,3,1044,10,Absentee,Demarco Davidson,0
+2,3,1044,10,Absentee,Joshua Shipp,0
+2,3,1044,10,Absentee,Lacy Clay,6
+2,3,1044,264,Polling,Cori Bush,54
+2,3,1044,264,Polling,Demarco Davidson,10
+2,3,1044,264,Polling,Joshua Shipp,5
+2,3,1044,264,Polling,Lacy Clay,195
+2,2,251,28,Total,Cori Bush,6
+2,2,251,28,Total,Demarco Davidson,2
+2,2,251,28,Total,Joshua Shipp,0
+2,2,251,28,Total,Lacy Clay,20
+2,2,251,0,House Votes,Cori Bush,0
+2,2,251,0,House Votes,Demarco Davidson,0
+2,2,251,0,House Votes,Joshua Shipp,0
+2,2,251,0,House Votes,Lacy Clay,0
+2,2,251,0,Provisional,Cori Bush,0
+2,2,251,0,Provisional,Demarco Davidson,0
+2,2,251,0,Provisional,Joshua Shipp,0
+2,2,251,0,Provisional,Lacy Clay,0
+2,2,251,0,Absentee,Cori Bush,0
+2,2,251,0,Absentee,Demarco Davidson,0
+2,2,251,0,Absentee,Joshua Shipp,0
+2,2,251,0,Absentee,Lacy Clay,0
+2,2,251,28,Polling,Cori Bush,6
+2,2,251,28,Polling,Demarco Davidson,2
+2,2,251,28,Polling,Joshua Shipp,0
+2,2,251,28,Polling,Lacy Clay,20
+2,1,280,47,Total,Cori Bush,11
+2,1,280,47,Total,Demarco Davidson,1
+2,1,280,47,Total,Joshua Shipp,2
+2,1,280,47,Total,Lacy Clay,33
+2,1,280,0,House Votes,Cori Bush,0
+2,1,280,0,House Votes,Demarco Davidson,0
+2,1,280,0,House Votes,Joshua Shipp,0
+2,1,280,0,House Votes,Lacy Clay,0
+2,1,280,1,Provisional,Cori Bush,1
+2,1,280,1,Provisional,Demarco Davidson,0
+2,1,280,1,Provisional,Joshua Shipp,0
+2,1,280,1,Provisional,Lacy Clay,0
+2,1,280,4,Absentee,Cori Bush,0
+2,1,280,4,Absentee,Demarco Davidson,0
+2,1,280,4,Absentee,Joshua Shipp,0
+2,1,280,4,Absentee,Lacy Clay,4
+2,1,280,42,Polling,Cori Bush,10
+2,1,280,42,Polling,Demarco Davidson,1
+2,1,280,42,Polling,Joshua Shipp,2
+2,1,280,42,Polling,Lacy Clay,29
+1,7,120,24,Total,Cori Bush,3
+1,7,120,24,Total,Demarco Davidson,2
+1,7,120,24,Total,Joshua Shipp,0
+1,7,120,24,Total,Lacy Clay,19
+1,7,120,0,House Votes,Cori Bush,0
+1,7,120,0,House Votes,Demarco Davidson,0
+1,7,120,0,House Votes,Joshua Shipp,0
+1,7,120,0,House Votes,Lacy Clay,0
+1,7,120,0,Provisional,Cori Bush,0
+1,7,120,0,Provisional,Demarco Davidson,0
+1,7,120,0,Provisional,Joshua Shipp,0
+1,7,120,0,Provisional,Lacy Clay,0
+1,7,120,5,Absentee,Cori Bush,0
+1,7,120,5,Absentee,Demarco Davidson,1
+1,7,120,5,Absentee,Joshua Shipp,0
+1,7,120,5,Absentee,Lacy Clay,4
+1,7,120,19,Polling,Cori Bush,3
+1,7,120,19,Polling,Demarco Davidson,1
+1,7,120,19,Polling,Joshua Shipp,0
+1,7,120,19,Polling,Lacy Clay,15
+1,6,1276,372,Total,Cori Bush,76
+1,6,1276,372,Total,Demarco Davidson,9
+1,6,1276,372,Total,Joshua Shipp,4
+1,6,1276,372,Total,Lacy Clay,283
+1,6,1276,0,House Votes,Cori Bush,0
+1,6,1276,0,House Votes,Demarco Davidson,0
+1,6,1276,0,House Votes,Joshua Shipp,0
+1,6,1276,0,House Votes,Lacy Clay,0
+1,6,1276,0,Provisional,Cori Bush,0
+1,6,1276,0,Provisional,Demarco Davidson,0
+1,6,1276,0,Provisional,Joshua Shipp,0
+1,6,1276,0,Provisional,Lacy Clay,0
+1,6,1276,49,Absentee,Cori Bush,2
+1,6,1276,49,Absentee,Demarco Davidson,3
+1,6,1276,49,Absentee,Joshua Shipp,0
+1,6,1276,49,Absentee,Lacy Clay,44
+1,6,1276,323,Polling,Cori Bush,74
+1,6,1276,323,Polling,Demarco Davidson,6
+1,6,1276,323,Polling,Joshua Shipp,4
+1,6,1276,323,Polling,Lacy Clay,239
+1,5,1001,320,Total,Cori Bush,64
+1,5,1001,320,Total,Demarco Davidson,9
+1,5,1001,320,Total,Joshua Shipp,6
+1,5,1001,320,Total,Lacy Clay,241
+1,5,1001,0,House Votes,Cori Bush,0
+1,5,1001,0,House Votes,Demarco Davidson,0
+1,5,1001,0,House Votes,Joshua Shipp,0
+1,5,1001,0,House Votes,Lacy Clay,0
+1,5,1001,0,Provisional,Cori Bush,0
+1,5,1001,0,Provisional,Demarco Davidson,0
+1,5,1001,0,Provisional,Joshua Shipp,0
+1,5,1001,0,Provisional,Lacy Clay,0
+1,5,1001,32,Absentee,Cori Bush,3
+1,5,1001,32,Absentee,Demarco Davidson,1
+1,5,1001,32,Absentee,Joshua Shipp,0
+1,5,1001,32,Absentee,Lacy Clay,28
+1,5,1001,288,Polling,Cori Bush,61
+1,5,1001,288,Polling,Demarco Davidson,8
+1,5,1001,288,Polling,Joshua Shipp,6
+1,5,1001,288,Polling,Lacy Clay,213
+1,4,902,252,Total,Cori Bush,46
+1,4,902,252,Total,Demarco Davidson,10
+1,4,902,252,Total,Joshua Shipp,7
+1,4,902,252,Total,Lacy Clay,189
+1,4,902,0,House Votes,Cori Bush,0
+1,4,902,0,House Votes,Demarco Davidson,0
+1,4,902,0,House Votes,Joshua Shipp,0
+1,4,902,0,House Votes,Lacy Clay,0
+1,4,902,0,Provisional,Cori Bush,0
+1,4,902,0,Provisional,Demarco Davidson,0
+1,4,902,0,Provisional,Joshua Shipp,0
+1,4,902,0,Provisional,Lacy Clay,0
+1,4,902,11,Absentee,Cori Bush,0
+1,4,902,11,Absentee,Demarco Davidson,0
+1,4,902,11,Absentee,Joshua Shipp,0
+1,4,902,11,Absentee,Lacy Clay,11
+1,4,902,241,Polling,Cori Bush,46
+1,4,902,241,Polling,Demarco Davidson,10
+1,4,902,241,Polling,Joshua Shipp,7
+1,4,902,241,Polling,Lacy Clay,178
+1,3,1107,305,Total,Cori Bush,50
+1,3,1107,305,Total,Demarco Davidson,10
+1,3,1107,305,Total,Joshua Shipp,11
+1,3,1107,305,Total,Lacy Clay,234
+1,3,1107,0,House Votes,Cori Bush,0
+1,3,1107,0,House Votes,Demarco Davidson,0
+1,3,1107,0,House Votes,Joshua Shipp,0
+1,3,1107,0,House Votes,Lacy Clay,0
+1,3,1107,0,Provisional,Cori Bush,0
+1,3,1107,0,Provisional,Demarco Davidson,0
+1,3,1107,0,Provisional,Joshua Shipp,0
+1,3,1107,0,Provisional,Lacy Clay,0
+1,3,1107,29,Absentee,Cori Bush,1
+1,3,1107,29,Absentee,Demarco Davidson,1
+1,3,1107,29,Absentee,Joshua Shipp,1
+1,3,1107,29,Absentee,Lacy Clay,26
+1,3,1107,276,Polling,Cori Bush,49
+1,3,1107,276,Polling,Demarco Davidson,9
+1,3,1107,276,Polling,Joshua Shipp,10
+1,3,1107,276,Polling,Lacy Clay,208
+1,2,1021,307,Total,Cori Bush,64
+1,2,1021,307,Total,Demarco Davidson,14
+1,2,1021,307,Total,Joshua Shipp,1
+1,2,1021,307,Total,Lacy Clay,228
+1,2,1021,0,House Votes,Cori Bush,0
+1,2,1021,0,House Votes,Demarco Davidson,0
+1,2,1021,0,House Votes,Joshua Shipp,0
+1,2,1021,0,House Votes,Lacy Clay,0
+1,2,1021,0,Provisional,Cori Bush,0
+1,2,1021,0,Provisional,Demarco Davidson,0
+1,2,1021,0,Provisional,Joshua Shipp,0
+1,2,1021,0,Provisional,Lacy Clay,0
+1,2,1021,24,Absentee,Cori Bush,7
+1,2,1021,24,Absentee,Demarco Davidson,0
+1,2,1021,24,Absentee,Joshua Shipp,0
+1,2,1021,24,Absentee,Lacy Clay,17
+1,2,1021,283,Polling,Cori Bush,57
+1,2,1021,283,Polling,Demarco Davidson,14
+1,2,1021,283,Polling,Joshua Shipp,1
+1,2,1021,283,Polling,Lacy Clay,211
+1,1,948,257,Total,Cori Bush,57
+1,1,948,257,Total,Demarco Davidson,8
+1,1,948,257,Total,Joshua Shipp,6
+1,1,948,257,Total,Lacy Clay,186
+1,1,948,0,House Votes,Cori Bush,0
+1,1,948,0,House Votes,Demarco Davidson,0
+1,1,948,0,House Votes,Joshua Shipp,0
+1,1,948,0,House Votes,Lacy Clay,0
+1,1,948,0,Provisional,Cori Bush,0
+1,1,948,0,Provisional,Demarco Davidson,0
+1,1,948,0,Provisional,Joshua Shipp,0
+1,1,948,0,Provisional,Lacy Clay,0
+1,1,948,22,Absentee,Cori Bush,1
+1,1,948,22,Absentee,Demarco Davidson,0
+1,1,948,22,Absentee,Joshua Shipp,0
+1,1,948,22,Absentee,Lacy Clay,21
+1,1,948,235,Polling,Cori Bush,56
+1,1,948,235,Polling,Demarco Davidson,8
+1,1,948,235,Polling,Joshua Shipp,6
+1,1,948,235,Polling,Lacy Clay,165
